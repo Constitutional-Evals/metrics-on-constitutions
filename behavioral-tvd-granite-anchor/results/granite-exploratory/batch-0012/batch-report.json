@@ -1,0 +1,35 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "stage": "batch-0012",
+  "status": "STOPPED",
+  "valid": {
+    "primary": 1919,
+    "baseline": 80,
+    "canary": 30
+  },
+  "unresolved_evaluations": 7,
+  "physical_attempts": 2031,
+  "failed_attempts": 2,
+  "unknown_billing_attempts": 2,
+  "stage_budget": {
+    "attempts": 2031,
+    "actual_spending_usd": 0.099362357,
+    "conservative_spending_usd": 0.104262005,
+    "outstanding_reservations_usd": 0.0
+  },
+  "experiment_budget": {
+    "actual_spending_usd": 1.194330873,
+    "conservative_spending_usd": 1.209029817,
+    "outstanding_reservations_usd": 0.0,
+    "budget_usd": 10.0,
+    "invocation_budget_usd": 10.0
+  },
+  "primary_physical_attempts": 1921,
+  "scheduled_canaries": 24,
+  "resume_canaries": 6,
+  "elapsed_seconds_this_recovery": 155.330076956001,
+  "elapsed_seconds_all_invocations": 718.3995866689947,
+  "recovery_outcome_path": "results/granite-exploratory/batch-0012-recovery/recovery-outcome.json",
+  "later_batches_authorized": false,
+  "missing_probabilities_not_imputed": true
+}

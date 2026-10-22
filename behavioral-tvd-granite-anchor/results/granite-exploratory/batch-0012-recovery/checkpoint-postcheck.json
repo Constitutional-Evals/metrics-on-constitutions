@@ -1,0 +1,21 @@
+{
+  "all_historical_attempts_preserved": 24183,
+  "all_other_unauthorized_logical_rows_unchanged": true,
+  "all_valid_requests_and_distributions_verified": true,
+  "api_requests_for_verification": 0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "canary_max_stored_probability_difference": 0.0,
+  "fresh_resume_canaries": 6,
+  "maximum_independent_probability_error": 2.220446049250313e-16,
+  "new_backup_exact_restoration_and_all_table_verification": true,
+  "new_failed_checkpoint_not_reclassified": true,
+  "no_full_batch_or_240_scenario_distances": true,
+  "one_missing_primary_condition_probability": true,
+  "prior_11_batches_unchanged": true,
+  "prior_valid_rows_preserved": 24174,
+  "resume_canaries_finished_before_new_science": true,
+  "reviewed_one_row_transition_succeeded": true,
+  "reviewed_request_succeeded_on_lifetime_attempt": 2,
+  "source_hashes_unchanged": true,
+  "status": "PASS"
+}

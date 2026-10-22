@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "frozen_hashes_unchanged": true,
+  "prior_11_batch_snapshots_unchanged": true,
+  "failed_attempt_and_charge_unmodified": true,
+  "raw_and_curated_checksums_verified": true,
+  "stopped_backup_exact_byte_and_all_table_restore_passed": true,
+  "no_requests_in_flight": true,
+  "no_batches13_or14_started": true,
+  "no_batch15_authorization": true,
+  "api_requests": 0,
+  "tests": {
+    "count": 77,
+    "status": "PASS"
+  },
+  "working_volume_free_bytes": 23127904256
+}

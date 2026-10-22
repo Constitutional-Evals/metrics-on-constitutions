@@ -1,0 +1,158 @@
+{
+  "scope": "Manual review of all 20 selected situations and paired actions; lexical screen of all 1360. No descriptions rewritten or excluded.",
+  "selected_reviews": [
+    {
+      "id": "39630",
+      "action1": "Intervene and feed the chicks",
+      "action0": "Not to intervene",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "16204",
+      "action1": "Putting down the dog",
+      "action0": "Not putting down the dog",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "19854",
+      "action1": "Compromise principles",
+      "action0": "Uphold principles",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "46758",
+      "action1": "Decide to have biological children",
+      "action0": "Decide not to have children",
+      "severity": "framing_warning",
+      "note": "Biological children versus no children excludes adoption and other reproductive alternatives. The binary framing is inherited from the source."
+    },
+    {
+      "id": "4153",
+      "action1": "Allow James to do his homework",
+      "action0": "Do the homework himself",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "5070",
+      "action1": "Confronting your instructor",
+      "action0": "Not Confronting your instructor",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "36482",
+      "action1": "Accept the job offer",
+      "action0": "Decline the job offer",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "45289",
+      "action1": "Accepting the Job",
+      "action0": "Rejecting the Job",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "6715",
+      "action1": "Continue Playing",
+      "action0": "Rest and Recover",
+      "severity": "orientation_warning",
+      "note": "The situation asks whether to prioritize health; source to_do means Continue Playing, the opposite of answering yes. Labels follow actions verbatim."
+    },
+    {
+      "id": "37124",
+      "action1": "Attend the wedding uninvited",
+      "action0": "Stay home and respect the private event",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "25416",
+      "action1": "Informing the ex",
+      "action0": "Not informing the ex",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "3385",
+      "action1": "Kick him out",
+      "action0": "Let him stay",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "16264",
+      "action1": "Confront the Partner",
+      "action0": "Ignore the Debt",
+      "severity": "scope_ambiguity",
+      "note": "Not confronting a partner need not mean ignoring the debt. The source provides a narrower negative action."
+    },
+    {
+      "id": "40169",
+      "action1": "Prioritize Parents",
+      "action0": "Not Prioritize Parents",
+      "severity": "scope_ambiguity",
+      "note": "Not Prioritize Parents is broader than prioritizing children; the source alternative is underspecified. Preserved verbatim."
+    },
+    {
+      "id": "11630",
+      "action1": "Confronting",
+      "action0": "Keeping Silent",
+      "severity": "context_dependent_action",
+      "note": "Confronting and Keeping Silent are short descriptions; the original situation supplies their objects and context."
+    },
+    {
+      "id": "7070",
+      "action1": "Write a negative review",
+      "action0": "Not to write a negative review",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "33765",
+      "action1": "Prioritizing career over health",
+      "action0": "Neglecting career for health",
+      "severity": "asymmetric_wording",
+      "note": "Prioritizing career over health and Neglecting career for health are stronger, value-laden alternatives, not exact logical complements."
+    },
+    {
+      "id": "5006",
+      "action1": "To Enter the Building",
+      "action0": "Not to Enter the Building",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "44833",
+      "action1": "Trusting Majority's Opinion",
+      "action0": "Trusting Own Observations",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    },
+    {
+      "id": "23200",
+      "action1": "Ask her to stop",
+      "action0": "Suffer in silence",
+      "severity": "no_obvious_pair_contradiction",
+      "note": "Actions can be distinguished in the original situation; this is not proof that they exhaust all reasonable options."
+    }
+  ],
+  "full_dataset_blockers": [
+    {
+      "id": "48976",
+      "severity": "overlapping_actions",
+      "note": "Leaving the TV by the curb and Not recycling or donating the TV overlap: the first entails the second in the situation. This pair is not complementary. It was not selected for the pilot and needs an explicit correction/exclusion policy before a scientifically valid full run."
+    },
+    {
+      "id": "27688",
+      "severity": "underspecified_actions",
+      "note": "Do and Not to do depend entirely on the situation to identify the behavior. A reviewer must decide whether this is acceptable or supply an explicitly versioned clarification."
+    }
+  ],
+  "limit": "The 916 nonliteral-negation flags are not 916 confirmed defects. Semantic complementarity across the entire corpus has not been established."
+}

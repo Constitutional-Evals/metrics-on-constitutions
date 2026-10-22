@@ -1,0 +1,277 @@
+constitution_a,constitution_b,normalized_distance,rank_closest_first,rank_max_if_tied,ordinal_rank_id_tiebreak,constitution_a_name,constitution_b_name
+buddhism,judaism,0.041293073048899336,1,1,1,Buddhism,Judaism
+buen-vivir,north-american-indigenous,0.04219196387615922,2,2,2,Buen Vivir,North American Indigenous
+aboriginal-australian,maori,0.048849650976945304,3,3,3,Aboriginal Australian Law and Country,Māori Tikanga
+hinduism,judaism,0.049726105528910124,4,4,4,Hinduism,Judaism
+buen-vivir,maori,0.04990025742979165,5,5,5,Buen Vivir,Māori Tikanga
+aboriginal-australian,ubuntu,0.05024861772577245,6,6,6,Aboriginal Australian Law and Country,Ubuntu
+buddhism,environmental-ethics,0.05163160809323846,7,7,7,Buddhism,Environmental Ethics
+kantian-deontology,neo-aristotelian-virtue-ethics,0.052123635412638473,8,8,8,Kantian Deontology,Neo-Aristotelian Virtue Ethics
+environmental-ethics,secular-humanism,0.05234039894890041,9,9,9,Environmental Ethics,Secular Humanism
+buddhism,christianity,0.05348062238404983,10,10,10,Buddhism,Christianity
+christianity,judaism,0.05373080656244854,11,11,11,Christianity,Judaism
+rawlsian-justice,secular-humanism,0.05377994178587294,12,12,12,Rawlsian Justice,Secular Humanism
+environmental-ethics,rawlsian-justice,0.05394591813433476,13,13,13,Environmental Ethics,Rawlsian Justice
+christianity,islam,0.055379709088296446,14,14,14,Christianity,Islam
+environmental-ethics,judaism,0.05590536414647921,15,15,15,Environmental Ethics,Judaism
+environmental-ethics,lockean-rights,0.056260017514406284,16,16,16,Environmental Ethics,Lockean Rights
+judaism,secular-humanism,0.056541106295186196,17,17,17,Judaism,Secular Humanism
+buddhism,secular-humanism,0.056994765534240995,18,18,18,Buddhism,Secular Humanism
+islam,kantian-deontology,0.05722960064602113,19,19,19,Islam,Kantian Deontology
+buddhism,ubuntu,0.057529489716949156,20,20,20,Buddhism,Ubuntu
+aboriginal-australian,environmental-ethics,0.05789014294882938,21,21,21,Aboriginal Australian Law and Country,Environmental Ethics
+buddhism,kindness,0.05798670395136608,22,22,22,Buddhism,Universal Kindness
+buddhism,hinduism,0.058057396522735005,23,23,23,Buddhism,Hinduism
+buddhism,stoicism,0.058325945091216996,24,24,24,Buddhism,Stoicism
+christianity,ubuntu,0.05875149190282984,25,25,25,Christianity,Ubuntu
+lockean-rights,rawlsian-justice,0.05897876344303005,26,26,26,Lockean Rights,Rawlsian Justice
+hinduism,stoicism,0.05945563472479702,27,27,27,Hinduism,Stoicism
+maori,neo-aristotelian-virtue-ethics,0.059644727466611036,28,28,28,Māori Tikanga,Neo-Aristotelian Virtue Ethics
+christianity,stoicism,0.05986032093421722,29,29,29,Christianity,Stoicism
+care-ethics,kindness,0.06052435981422875,30,30,30,Care Ethics,Universal Kindness
+buddhism,rawlsian-justice,0.06063018790108994,31,31,31,Buddhism,Rawlsian Justice
+aboriginal-australian,christianity,0.06074957918883011,32,32,32,Aboriginal Australian Law and Country,Christianity
+maori,marxism,0.06102709823084452,33,33,33,Māori Tikanga,Marxism
+conservatism,judaism,0.06153935300287386,34,34,34,Conservatism,Judaism
+judaism,neo-aristotelian-virtue-ethics,0.06203270070482339,35,35,35,Judaism,Neo-Aristotelian Virtue Ethics
+maori,north-american-indigenous,0.0621221977301413,36,36,36,Māori Tikanga,North American Indigenous
+judaism,kindness,0.06233694619866097,37,37,37,Judaism,Universal Kindness
+maori,ubuntu,0.062390110643493354,38,38,38,Māori Tikanga,Ubuntu
+judaism,stoicism,0.06244719046363453,39,39,39,Judaism,Stoicism
+aboriginal-australian,buddhism,0.06252620439412626,40,40,40,Aboriginal Australian Law and Country,Buddhism
+environmental-ethics,kindness,0.06302225930854477,41,41,41,Environmental Ethics,Universal Kindness
+conservatism,rawlsian-justice,0.0630842353966027,42,42,42,Conservatism,Rawlsian Justice
+lockean-rights,stoicism,0.06323533990208204,43,43,43,Lockean Rights,Stoicism
+christianity,hinduism,0.06328242749052658,44,44,44,Christianity,Hinduism
+buddhism,kantian-deontology,0.06331525051602005,45,45,45,Buddhism,Kantian Deontology
+aboriginal-australian,marxism,0.06407810308653628,46,46,46,Aboriginal Australian Law and Country,Marxism
+aboriginal-australian,judaism,0.06409412508899985,47,47,47,Aboriginal Australian Law and Country,Judaism
+judaism,rawlsian-justice,0.06414142898065697,48,48,48,Judaism,Rawlsian Justice
+conservatism,environmental-ethics,0.06423565545524908,49,49,49,Conservatism,Environmental Ethics
+north-american-indigenous,taoism,0.06426476717353732,50,50,50,North American Indigenous,Taoism
+confucianism,kindness,0.0642997179236422,51,51,51,Confucianism,Universal Kindness
+christianity,kantian-deontology,0.06445139505177312,52,52,52,Christianity,Kantian Deontology
+buddhism,neo-aristotelian-virtue-ethics,0.06465908937528146,53,53,53,Buddhism,Neo-Aristotelian Virtue Ethics
+buddhism,lockean-rights,0.06470811516679711,54,54,54,Buddhism,Lockean Rights
+aboriginal-australian,secular-humanism,0.06480640825231064,55,55,55,Aboriginal Australian Law and Country,Secular Humanism
+kindness,secular-humanism,0.06488462659971524,56,56,56,Universal Kindness,Secular Humanism
+islam,judaism,0.06513240485104473,57,57,57,Islam,Judaism
+lockean-rights,secular-humanism,0.06517645881007819,58,58,58,Lockean Rights,Secular Humanism
+care-ethics,confucianism,0.06523616542004324,59,59,59,Care Ethics,Confucianism
+environmental-ethics,stoicism,0.0657802547717585,60,60,60,Environmental Ethics,Stoicism
+islam,neo-aristotelian-virtue-ethics,0.06584619843101451,61,61,61,Islam,Neo-Aristotelian Virtue Ethics
+christianity,environmental-ethics,0.06631264340607926,62,62,62,Christianity,Environmental Ethics
+conservatism,hinduism,0.0663478168649143,63,63,63,Conservatism,Hinduism
+conservatism,neo-aristotelian-virtue-ethics,0.06647635968164917,64,64,64,Conservatism,Neo-Aristotelian Virtue Ethics
+conservatism,lockean-rights,0.06676377288833567,65,65,65,Conservatism,Lockean Rights
+environmental-ethics,hinduism,0.06678937189365242,66,66,66,Environmental Ethics,Hinduism
+stoicism,ubuntu,0.06688665696675496,67,67,67,Stoicism,Ubuntu
+aboriginal-australian,buen-vivir,0.06701398004742867,68,68,68,Aboriginal Australian Law and Country,Buen Vivir
+marxism,ubuntu,0.06704924336566208,69,69,69,Marxism,Ubuntu
+aboriginal-australian,islam,0.06707916020235136,70,70,70,Aboriginal Australian Law and Country,Islam
+christianity,neo-aristotelian-virtue-ethics,0.06715861412519995,71,71,71,Christianity,Neo-Aristotelian Virtue Ethics
+confucianism,lockean-rights,0.0674061077005811,72,72,72,Confucianism,Lockean Rights
+judaism,kantian-deontology,0.0674599036915777,73,73,73,Judaism,Kantian Deontology
+environmental-ethics,ubuntu,0.06747339633513984,74,74,74,Environmental Ethics,Ubuntu
+buddhism,conservatism,0.06748633597510868,75,75,75,Buddhism,Conservatism
+judaism,ubuntu,0.0679184254666888,76,76,76,Judaism,Ubuntu
+hinduism,lockean-rights,0.06813499611369185,77,77,77,Hinduism,Lockean Rights
+islam,maori,0.0681827458262127,78,78,78,Islam,Māori Tikanga
+environmental-ethics,neo-aristotelian-virtue-ethics,0.06839680321909314,79,79,79,Environmental Ethics,Neo-Aristotelian Virtue Ethics
+secular-humanism,stoicism,0.06878731654213634,80,80,80,Secular Humanism,Stoicism
+conservatism,secular-humanism,0.06896139666843616,81,81,81,Conservatism,Secular Humanism
+buddhism,marxism,0.06919938403011075,82,82,82,Buddhism,Marxism
+rawlsian-justice,stoicism,0.06920830894143642,83,83,83,Rawlsian Justice,Stoicism
+secular-humanism,ubuntu,0.06948012699862019,84,84,84,Secular Humanism,Ubuntu
+islam,ubuntu,0.06969949220950314,85,85,85,Islam,Ubuntu
+aboriginal-australian,rawlsian-justice,0.0697021516980865,86,86,86,Aboriginal Australian Law and Country,Rawlsian Justice
+buen-vivir,marxism,0.0701555847310553,87,87,87,Buen Vivir,Marxism
+conservatism,stoicism,0.07020603597215518,88,88,88,Conservatism,Stoicism
+buen-vivir,taoism,0.07024517903501068,89,89,89,Buen Vivir,Taoism
+conservatism,marxism,0.07044872097232041,90,90,90,Conservatism,Marxism
+buddhism,islam,0.0705121724009706,91,91,91,Buddhism,Islam
+kantian-deontology,ubuntu,0.07078505835788985,92,92,92,Kantian Deontology,Ubuntu
+aboriginal-australian,neo-aristotelian-virtue-ethics,0.07092868083106126,93,93,93,Aboriginal Australian Law and Country,Neo-Aristotelian Virtue Ethics
+environmental-ethics,kantian-deontology,0.0709654693566509,94,94,94,Environmental Ethics,Kantian Deontology
+marxism,neo-aristotelian-virtue-ethics,0.07105583394385197,95,95,95,Marxism,Neo-Aristotelian Virtue Ethics
+environmental-ethics,marxism,0.07116667206075027,96,96,96,Environmental Ethics,Marxism
+islam,taoism,0.07127346724812143,97,97,97,Islam,Taoism
+aboriginal-australian,north-american-indigenous,0.07134630553507713,98,98,98,Aboriginal Australian Law and Country,North American Indigenous
+confucianism,environmental-ethics,0.07161469982121646,99,99,99,Confucianism,Environmental Ethics
+hinduism,rawlsian-justice,0.07173736672761144,100,100,100,Hinduism,Rawlsian Justice
+care-ethics,utilitarianism,0.07194684373180335,101,101,101,Care Ethics,Utilitarianism
+kindness,rawlsian-justice,0.07214541279139816,102,102,102,Universal Kindness,Rawlsian Justice
+neo-aristotelian-virtue-ethics,secular-humanism,0.07229328805482305,103,103,103,Neo-Aristotelian Virtue Ethics,Secular Humanism
+neo-aristotelian-virtue-ethics,ubuntu,0.07229945891966133,104,104,104,Neo-Aristotelian Virtue Ethics,Ubuntu
+kantian-deontology,marxism,0.07244188175778064,105,105,105,Kantian Deontology,Marxism
+hinduism,neo-aristotelian-virtue-ethics,0.07252170805547173,106,106,106,Hinduism,Neo-Aristotelian Virtue Ethics
+kantian-deontology,stoicism,0.07268521350872383,107,107,107,Kantian Deontology,Stoicism
+judaism,lockean-rights,0.07286943789551924,108,108,108,Judaism,Lockean Rights
+kantian-deontology,maori,0.07289267957689406,109,109,109,Kantian Deontology,Māori Tikanga
+hinduism,kantian-deontology,0.07289455298233323,110,110,110,Hinduism,Kantian Deontology
+christianity,secular-humanism,0.07305019840826041,111,111,111,Christianity,Secular Humanism
+hinduism,kindness,0.0730861401709504,112,112,112,Hinduism,Universal Kindness
+islam,stoicism,0.07319926257659029,113,113,113,Islam,Stoicism
+confucianism,hinduism,0.07322961434239839,114,114,114,Confucianism,Hinduism
+maori,taoism,0.07343291339473428,115,115,115,Māori Tikanga,Taoism
+buddhism,care-ethics,0.07363779221607954,116,116,116,Buddhism,Care Ethics
+care-ethics,environmental-ethics,0.07369935491892826,117,117,117,Care Ethics,Environmental Ethics
+hinduism,islam,0.07373934701087093,118,118,118,Hinduism,Islam
+aboriginal-australian,stoicism,0.07387917172951991,119,119,119,Aboriginal Australian Law and Country,Stoicism
+aboriginal-australian,kantian-deontology,0.07414687763406057,120,120,120,Aboriginal Australian Law and Country,Kantian Deontology
+judaism,maori,0.07420052338863976,121,121,121,Judaism,Māori Tikanga
+marxism,secular-humanism,0.07446323319121216,122,122,122,Marxism,Secular Humanism
+christianity,conservatism,0.07469652548842612,123,123,123,Christianity,Conservatism
+islam,marxism,0.07494687500352105,124,124,124,Islam,Marxism
+buddhism,confucianism,0.07496031708163667,125,125,125,Buddhism,Confucianism
+aboriginal-australian,conservatism,0.07539470516049795,126,126,126,Aboriginal Australian Law and Country,Conservatism
+marxism,rawlsian-justice,0.07552055854605041,127,127,127,Marxism,Rawlsian Justice
+buddhism,maori,0.07582825009269697,128,128,128,Buddhism,Māori Tikanga
+conservatism,islam,0.07585881727465718,129,129,129,Conservatism,Islam
+kindness,utilitarianism,0.07591989330941463,130,130,130,Universal Kindness,Utilitarianism
+conservatism,kantian-deontology,0.07598158342660176,131,131,131,Conservatism,Kantian Deontology
+hinduism,secular-humanism,0.07599414863372612,132,132,132,Hinduism,Secular Humanism
+confucianism,judaism,0.07601663216343946,133,133,133,Confucianism,Judaism
+care-ethics,secular-humanism,0.0761047746203451,134,134,134,Care Ethics,Secular Humanism
+kindness,lockean-rights,0.07621289164512803,135,135,135,Universal Kindness,Lockean Rights
+aboriginal-australian,hinduism,0.07632122675239607,136,136,136,Aboriginal Australian Law and Country,Hinduism
+christianity,rawlsian-justice,0.07641915079990544,137,137,137,Christianity,Rawlsian Justice
+care-ethics,lockean-rights,0.076642594860844,138,138,138,Care Ethics,Lockean Rights
+marxism,north-american-indigenous,0.0769196133689155,139,139,139,Marxism,North American Indigenous
+christianity,maori,0.07704269781123493,140,140,140,Christianity,Māori Tikanga
+confucianism,stoicism,0.0771121256687092,141,141,141,Confucianism,Stoicism
+environmental-ethics,maori,0.07711224783483005,142,142,142,Environmental Ethics,Māori Tikanga
+christianity,kindness,0.07723336215518149,143,143,143,Christianity,Universal Kindness
+maori,secular-humanism,0.07738826464721102,144,144,144,Māori Tikanga,Secular Humanism
+confucianism,utilitarianism,0.07761900250817197,145,145,145,Confucianism,Utilitarianism
+buen-vivir,islam,0.07773977023482233,146,146,146,Buen Vivir,Islam
+kantian-deontology,secular-humanism,0.07820721053644115,147,147,147,Kantian Deontology,Secular Humanism
+christianity,marxism,0.07837981979771949,148,148,148,Christianity,Marxism
+kindness,ubuntu,0.07838905232125994,149,149,149,Universal Kindness,Ubuntu
+conservatism,maori,0.07839237118104112,150,150,150,Conservatism,Māori Tikanga
+marxism,taoism,0.07865764511888637,151,151,151,Marxism,Taoism
+marxism,stoicism,0.07877766265429811,152,152,152,Marxism,Stoicism
+kindness,stoicism,0.07879866650216912,153,153,153,Universal Kindness,Stoicism
+confucianism,rawlsian-justice,0.07880504744607754,154,154,154,Confucianism,Rawlsian Justice
+rawlsian-justice,ubuntu,0.07912039985181847,155,155,155,Rawlsian Justice,Ubuntu
+christianity,lockean-rights,0.07921696819752835,156,156,156,Christianity,Lockean Rights
+neo-aristotelian-virtue-ethics,stoicism,0.0792469020592169,157,157,157,Neo-Aristotelian Virtue Ethics,Stoicism
+environmental-ethics,islam,0.07943304230790257,158,158,158,Environmental Ethics,Islam
+aboriginal-australian,kindness,0.08005477322222661,159,159,159,Aboriginal Australian Law and Country,Universal Kindness
+buen-vivir,neo-aristotelian-virtue-ethics,0.08007110258730135,160,160,160,Buen Vivir,Neo-Aristotelian Virtue Ethics
+care-ethics,judaism,0.08079147224766085,161,161,161,Care Ethics,Judaism
+judaism,marxism,0.08114016630115815,162,162,162,Judaism,Marxism
+neo-aristotelian-virtue-ethics,taoism,0.08117217454021507,163,163,163,Neo-Aristotelian Virtue Ethics,Taoism
+aboriginal-australian,lockean-rights,0.08211018006989906,164,164,164,Aboriginal Australian Law and Country,Lockean Rights
+islam,rawlsian-justice,0.08255155608531105,165,165,165,Islam,Rawlsian Justice
+islam,north-american-indigenous,0.08257409169415679,166,166,166,Islam,North American Indigenous
+neo-aristotelian-virtue-ethics,rawlsian-justice,0.08286608905665,167,167,167,Neo-Aristotelian Virtue Ethics,Rawlsian Justice
+conservatism,ubuntu,0.08331983988028836,168,168,168,Conservatism,Ubuntu
+buen-vivir,ubuntu,0.08348489366329685,169,169,169,Buen Vivir,Ubuntu
+hinduism,ubuntu,0.08357606827517526,170,170,170,Hinduism,Ubuntu
+confucianism,secular-humanism,0.08358768423811752,171,171,171,Confucianism,Secular Humanism
+care-ethics,hinduism,0.08371304364490212,172,172,172,Care Ethics,Hinduism
+care-ethics,stoicism,0.08372739232642086,173,173,173,Care Ethics,Stoicism
+islam,secular-humanism,0.08378715894130462,174,174,174,Islam,Secular Humanism
+kindness,neo-aristotelian-virtue-ethics,0.08392249324522993,175,175,175,Universal Kindness,Neo-Aristotelian Virtue Ethics
+kantian-deontology,taoism,0.0839549963444479,176,176,176,Kantian Deontology,Taoism
+conservatism,kindness,0.08405332587454986,177,177,177,Conservatism,Universal Kindness
+kantian-deontology,lockean-rights,0.08515834094365302,178,178,178,Kantian Deontology,Lockean Rights
+maori,stoicism,0.08532819963939656,179,179,179,Māori Tikanga,Stoicism
+kantian-deontology,rawlsian-justice,0.08546217665404085,180,180,180,Kantian Deontology,Rawlsian Justice
+aboriginal-australian,taoism,0.0857179830216914,181,181,181,Aboriginal Australian Law and Country,Taoism
+secular-humanism,utilitarianism,0.08653911952117803,182,182,182,Secular Humanism,Utilitarianism
+lockean-rights,ubuntu,0.08689025859252154,183,183,183,Lockean Rights,Ubuntu
+confucianism,conservatism,0.08738024060411308,184,184,184,Confucianism,Conservatism
+lockean-rights,marxism,0.08798528675196014,185,185,185,Lockean Rights,Marxism
+care-ethics,rawlsian-justice,0.08840353339935633,186,186,186,Care Ethics,Rawlsian Justice
+hinduism,marxism,0.08848211237570369,187,187,187,Hinduism,Marxism
+maori,rawlsian-justice,0.08888685721621802,188,188,188,Māori Tikanga,Rawlsian Justice
+lockean-rights,neo-aristotelian-virtue-ethics,0.08918186555479159,189,189,189,Lockean Rights,Neo-Aristotelian Virtue Ethics
+kantian-deontology,kindness,0.08927876451195564,190,190,190,Kantian Deontology,Universal Kindness
+north-american-indigenous,ubuntu,0.08928595229340709,191,191,191,North American Indigenous,Ubuntu
+neo-aristotelian-virtue-ethics,north-american-indigenous,0.08984503215542317,192,192,192,Neo-Aristotelian Virtue Ethics,North American Indigenous
+environmental-ethics,utilitarianism,0.09052689015477397,193,193,193,Environmental Ethics,Utilitarianism
+hinduism,maori,0.09203356173244212,194,194,194,Hinduism,Māori Tikanga
+christianity,confucianism,0.09248692116350171,195,195,195,Christianity,Confucianism
+conservatism,taoism,0.09294169493689304,196,196,196,Conservatism,Taoism
+buen-vivir,kantian-deontology,0.0949021339847993,197,197,197,Buen Vivir,Kantian Deontology
+care-ethics,christianity,0.09534989956845638,198,198,198,Care Ethics,Christianity
+care-ethics,ubuntu,0.09535263733439742,199,199,199,Care Ethics,Ubuntu
+kindness,marxism,0.09577161739417578,200,200,200,Universal Kindness,Marxism
+taoism,ubuntu,0.09592694848984865,201,201,201,Taoism,Ubuntu
+buen-vivir,judaism,0.09606232563264072,202,202,202,Buen Vivir,Judaism
+hinduism,utilitarianism,0.0961015647453991,203,203,203,Hinduism,Utilitarianism
+judaism,utilitarianism,0.09632661067550269,204,204,204,Judaism,Utilitarianism
+islam,lockean-rights,0.0965739063960809,205,205,205,Islam,Lockean Rights
+lockean-rights,utilitarianism,0.09665530653564851,206,206,206,Lockean Rights,Utilitarianism
+buddhism,utilitarianism,0.09715070223208894,207,207,207,Buddhism,Utilitarianism
+rawlsian-justice,utilitarianism,0.09719162764710236,208,208,208,Rawlsian Justice,Utilitarianism
+care-ethics,conservatism,0.09756765202093103,209,209,209,Care Ethics,Conservatism
+kantian-deontology,north-american-indigenous,0.09758947372076819,210,210,210,Kantian Deontology,North American Indigenous
+buddhism,buen-vivir,0.09792249092285048,211,211,211,Buddhism,Buen Vivir
+buen-vivir,christianity,0.09810127000994077,212,212,212,Buen Vivir,Christianity
+christianity,taoism,0.09814939171947713,213,213,213,Christianity,Taoism
+judaism,taoism,0.09830283717844779,214,214,214,Judaism,Taoism
+buddhism,taoism,0.09832123534956343,215,215,215,Buddhism,Taoism
+kindness,maori,0.09834968169977293,216,216,216,Universal Kindness,Māori Tikanga
+hinduism,taoism,0.10050918201763386,217,217,217,Hinduism,Taoism
+islam,kindness,0.10067926271923461,218,218,218,Islam,Universal Kindness
+buen-vivir,conservatism,0.100752606801052,219,219,219,Buen Vivir,Conservatism
+confucianism,ubuntu,0.10082564162666345,220,220,220,Confucianism,Ubuntu
+lockean-rights,maori,0.10092928539626446,221,221,221,Lockean Rights,Māori Tikanga
+buen-vivir,secular-humanism,0.10099109566776299,222,222,222,Buen Vivir,Secular Humanism
+buen-vivir,environmental-ethics,0.10165675450020109,223,223,223,Buen Vivir,Environmental Ethics
+aboriginal-australian,care-ethics,0.10198966689445545,224,224,224,Aboriginal Australian Law and Country,Care Ethics
+care-ethics,neo-aristotelian-virtue-ethics,0.10255656455690099,225,225,225,Care Ethics,Neo-Aristotelian Virtue Ethics
+buen-vivir,rawlsian-justice,0.10373633817217709,226,226,226,Buen Vivir,Rawlsian Justice
+confucianism,kantian-deontology,0.10414060400853342,227,227,227,Confucianism,Kantian Deontology
+stoicism,utilitarianism,0.10417156343607833,228,228,228,Stoicism,Utilitarianism
+christianity,north-american-indigenous,0.10446034102609948,229,229,229,Christianity,North American Indigenous
+stoicism,taoism,0.1047840056764266,230,230,230,Stoicism,Taoism
+buddhism,north-american-indigenous,0.10528958512280046,231,231,231,Buddhism,North American Indigenous
+care-ethics,kantian-deontology,0.10568241139809129,232,232,232,Care Ethics,Kantian Deontology
+judaism,north-american-indigenous,0.10582275545992312,233,233,233,Judaism,North American Indigenous
+conservatism,utilitarianism,0.10596727726135682,234,234,234,Conservatism,Utilitarianism
+confucianism,neo-aristotelian-virtue-ethics,0.10603253406021906,235,235,235,Confucianism,Neo-Aristotelian Virtue Ethics
+aboriginal-australian,confucianism,0.10631836375098333,236,236,236,Aboriginal Australian Law and Country,Confucianism
+environmental-ethics,taoism,0.10866803015589335,237,237,237,Environmental Ethics,Taoism
+conservatism,north-american-indigenous,0.10893864160467238,238,238,238,Conservatism,North American Indigenous
+buen-vivir,stoicism,0.11003466844400578,239,239,239,Buen Vivir,Stoicism
+care-ethics,marxism,0.11041125049570095,240,240,240,Care Ethics,Marxism
+rawlsian-justice,taoism,0.11072006822770658,241,241,241,Rawlsian Justice,Taoism
+buen-vivir,hinduism,0.11238491510444103,242,242,242,Buen Vivir,Hinduism
+christianity,utilitarianism,0.11264706333946681,243,243,243,Christianity,Utilitarianism
+environmental-ethics,north-american-indigenous,0.11277552227971992,244,244,244,Environmental Ethics,North American Indigenous
+secular-humanism,taoism,0.11335649432360355,245,245,245,Secular Humanism,Taoism
+north-american-indigenous,secular-humanism,0.11350789678504682,246,246,246,North American Indigenous,Secular Humanism
+north-american-indigenous,rawlsian-justice,0.11465070744755913,247,247,247,North American Indigenous,Rawlsian Justice
+north-american-indigenous,stoicism,0.11599662918361747,248,248,248,North American Indigenous,Stoicism
+kantian-deontology,utilitarianism,0.11698815211070532,249,249,249,Kantian Deontology,Utilitarianism
+confucianism,marxism,0.11740254330136062,250,250,250,Confucianism,Marxism
+neo-aristotelian-virtue-ethics,utilitarianism,0.11858055345893054,251,251,251,Neo-Aristotelian Virtue Ethics,Utilitarianism
+care-ethics,maori,0.11941474014202284,252,252,252,Care Ethics,Māori Tikanga
+ubuntu,utilitarianism,0.12082577430480441,253,253,253,Ubuntu,Utilitarianism
+care-ethics,islam,0.12304225253096572,254,254,254,Care Ethics,Islam
+confucianism,islam,0.12346769008924331,255,255,255,Confucianism,Islam
+hinduism,north-american-indigenous,0.12355685457134455,256,256,256,Hinduism,North American Indigenous
+aboriginal-australian,utilitarianism,0.12365094738393213,257,257,257,Aboriginal Australian Law and Country,Utilitarianism
+buen-vivir,kindness,0.12435829306027285,258,258,258,Buen Vivir,Universal Kindness
+lockean-rights,taoism,0.12436823070076437,259,259,259,Lockean Rights,Taoism
+confucianism,maori,0.12664039412012013,260,260,260,Confucianism,Māori Tikanga
+kindness,taoism,0.1268410204352495,261,261,261,Universal Kindness,Taoism
+buen-vivir,lockean-rights,0.1268463613545633,262,262,262,Buen Vivir,Lockean Rights
+kindness,north-american-indigenous,0.13463222247103998,263,263,263,Universal Kindness,North American Indigenous
+marxism,utilitarianism,0.13625771190834723,264,264,264,Marxism,Utilitarianism
+lockean-rights,north-american-indigenous,0.13772731934927476,265,265,265,Lockean Rights,North American Indigenous
+islam,utilitarianism,0.1426047815926062,266,266,266,Islam,Utilitarianism
+maori,utilitarianism,0.1454234253824334,267,267,267,Māori Tikanga,Utilitarianism
+care-ethics,taoism,0.14849240589888368,268,268,268,Care Ethics,Taoism
+confucianism,taoism,0.15045503188748524,269,269,269,Confucianism,Taoism
+buen-vivir,care-ethics,0.15045718919005296,270,270,270,Buen Vivir,Care Ethics
+buen-vivir,confucianism,0.15724511822614431,271,271,271,Buen Vivir,Confucianism
+care-ethics,north-american-indigenous,0.15997882998160537,272,272,272,Care Ethics,North American Indigenous
+confucianism,north-american-indigenous,0.1687566743002539,273,273,273,Confucianism,North American Indigenous
+taoism,utilitarianism,0.1725935141804397,274,274,274,Taoism,Utilitarianism
+buen-vivir,utilitarianism,0.17318686484278467,275,275,275,Buen Vivir,Utilitarianism
+north-american-indigenous,utilitarianism,0.18376887596214964,276,276,276,North American Indigenous,Utilitarianism

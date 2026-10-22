@@ -1,0 +1,22 @@
+{
+  "availability.json": "cccf61b657dff22f4fdc7d84f44d3f916c69d3b69c7f7fcc67b4fc89950a7f68",
+  "budget-summary.json": "bdc98a36ad2e1a9c1da70c85f73d56d1bfe4574da464c5350dd5b729f5296f42",
+  "candidate-summary.json": "061a3a6326b9288a94fae3f14317a0a9720917122650721adf470b47abc2a5b6",
+  "catalog-evidence.json.gz": "e49b817a19cffaebe60a0bcb31faf13518c1655c7ae63e537e4db27d811337f8",
+  "constitution-coverage72.json": "e5551ce8f906b8ad003e77733a71a65055d0c4869af063ed5cf271655ee3634d",
+  "evaluations.csv": "b36378a6b540afb9b5324f80bf9e2c6b89b266869daa7d0bfa2f5d870ade2801",
+  "granite3-cloudflare-coverage-mean-l1.csv": "463d0674f4621c585a648d1a547fca125ce460e1fc571b391f3f2ce760f14d7b",
+  "granite3-cloudflare-coverage-probabilities.csv": "13084bd08ec76bd421a352f841fde4416ffdb6f3a4460e4378c21a7bba7c16e5",
+  "granite3-cloudflare-coverage-summary.json": "580dad540f88ad98a29835e377500a768e2211db73228384abb1607916dba644",
+  "granite3-cloudflare-coverage-summed-l1.csv": "45d9fb5ac10d4ff6b616f7c6230d0b12807b03de71a7d990c0932a5a3d6623c9",
+  "granite3-confirmatory6.json": "3d2a590c96f28071fb13f14c89606c3d6a48746aa850995f5a2416663db59281",
+  "preservation.json": "95101785dd297387643ee2c9ce1b64525b9ce076303cc83956fd76b8afbbf803",
+  "protocol.json": "12362604edcb97ba3db217e733e78592c00b05ff0189adf04a01e6dcdffdc3f6",
+  "raw-responses.jsonl.gz": "31336030022d2111d8ead85930ca8dfef44552f09bffd41e6020d91b1d4d4b37",
+  "recommended-confirmation.json": "43e79537686f2dc4cbe4de65a017d2b1b2dda4e6bef293bf9e35e0c715765562",
+  "repeat-groups.csv": "30ba7aae5756e016289af9ae723c7992b192a2b9e6c6f97785a9889609055994",
+  "selection19.json": "84ac62821eb712460ebca21bcf6e6ccd15ecf35368748e1beabf18a5a5dcea77",
+  "study-evidence.jsonl.gz": "81bfabe05307db369c5dc2359893a7cddb2dc0bb60c473bf7e55bdf9a4174cc0",
+  "tests.txt": "89e712b4e06d634a40c7570b4c156dcb69da7b3647ec4d1f49f54a70ff2a5ea2",
+  "weight-provenance.json": "7fec5cc590bb3189399f409950ef933757e458ccbcfcbd9bbed1f04e180516c0"
+}

@@ -1,0 +1,9 @@
+scope,constitution_a,constitution_a_name,constitution_b,constitution_b_name,illustrative_expectation,A_primary_distance,A_primary_rank_closest_first,B_secondary_distance,B_secondary_rank_closest_first,C_canonical_distance,C_canonical_rank_closest_first
+official_220,lockean-rights,Lockean Rights,marxism,Marxism,distant,0.057432735178654284,55,0.08576554590575007,169,0.08462716640477368,179
+official_220,utilitarianism,Utilitarianism,kantian-deontology,Kantian Deontology,distant,0.08122116806594101,232,0.09223293132726097,205,0.11079383764217139,245
+official_220,ubuntu,Ubuntu,care-ethics,Care Ethics,close,0.06104318348800902,92,0.08677660857982769,176,0.09423504541952789,201
+official_220,buen-vivir,Buen Vivir,environmental-ethics,Environmental Ethics,close,0.07178640502313353,181,0.08317311035811727,143,0.10120032787993229,226
+supplementary_239,lockean-rights,Lockean Rights,marxism,Marxism,distant,0.05859087807266598,68,0.08598118693586902,168,0.08798528675196014,185
+supplementary_239,utilitarianism,Utilitarianism,kantian-deontology,Kantian Deontology,distant,0.08398136014278922,238,0.0944414330614108,214,0.11698815211070532,249
+supplementary_239,ubuntu,Ubuntu,care-ethics,Care Ethics,close,0.06218192003165712,96,0.0870349758053022,181,0.09535263733439742,199
+supplementary_239,buen-vivir,Buen Vivir,environmental-ethics,Environmental Ethics,close,0.07128624059242268,170,0.08246339938135352,135,0.10165675450020109,223

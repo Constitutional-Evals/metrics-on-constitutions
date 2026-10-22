@@ -1,0 +1,65 @@
+[
+  {
+    "requested_id": "gen-1792530692-I9db0IFEk6zA2115CGQ5",
+    "status": 200,
+    "safe_generation_metadata": {
+      "created_at": "2026-10-20T21:11:32.243Z",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "streamed": true,
+      "cancelled": false,
+      "latency": 2100,
+      "generation_time": 2100,
+      "native_tokens_prompt": 3062,
+      "native_tokens_completion": 1,
+      "native_tokens_cached": 160,
+      "is_byok": false,
+      "finish_reason": "length",
+      "id": "gen-1792530692-I9db0IFEk6zA2115CGQ5",
+      "upstream_id": "chatcmpl-a11508cfeabcb01901e7debf8feb5ba8",
+      "total_cost": 0.00065654,
+      "provider_name": "Parasail"
+    }
+  },
+  {
+    "requested_id": "gen-1792530684-X4xw6OnMavqQk4QRfSsZ",
+    "status": 200,
+    "safe_generation_metadata": {
+      "created_at": "2026-10-20T21:11:24.451Z",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "streamed": true,
+      "cancelled": false,
+      "latency": 1019,
+      "generation_time": 1132,
+      "native_tokens_prompt": 3062,
+      "native_tokens_completion": 1,
+      "native_tokens_cached": 2992,
+      "is_byok": false,
+      "finish_reason": "length",
+      "id": "gen-1792530684-X4xw6OnMavqQk4QRfSsZ",
+      "upstream_id": "chatcmpl-bda3db683fe99b51956a690f76217501",
+      "total_cost": 0.00034502,
+      "provider_name": "Parasail"
+    }
+  },
+  {
+    "requested_id": "gen-1792530686-hEPi09sDTp6jJirs6vWb",
+    "status": 200,
+    "safe_generation_metadata": {
+      "created_at": "2026-10-20T21:11:26.65Z",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "streamed": true,
+      "cancelled": false,
+      "latency": 660,
+      "generation_time": 660,
+      "native_tokens_prompt": 3062,
+      "native_tokens_completion": 1,
+      "native_tokens_cached": 3040,
+      "is_byok": false,
+      "finish_reason": "length",
+      "id": "gen-1792530686-hEPi09sDTp6jJirs6vWb",
+      "upstream_id": "chatcmpl-615b4c78c4c34c0b1dd0876c9b422057",
+      "total_cost": 0.00033974,
+      "provider_name": "Parasail"
+    }
+  }
+]

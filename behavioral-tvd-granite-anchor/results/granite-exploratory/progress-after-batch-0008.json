@@ -1,0 +1,73 @@
+{
+  "actual_spending_usd": 0.796682396,
+  "aggregate_active_dispatch_seconds": 4471.452016101008,
+  "aggregate_valid_evaluations_per_second": 3.634613530790235,
+  "complete_scenarios": 160,
+  "completed_batches": 8,
+  "conservative_spending_usd": 0.806481692,
+  "estimated_final_cost_usd": 6.730059505093202,
+  "estimated_remaining_active_inference_seconds": 32842.55643379137,
+  "estimated_remaining_cost_usd": 5.9235778130932015,
+  "failed_attempt_reasons": {
+    "HTTP 502": 1,
+    "HTTP transport IncompleteRead; dispatcher exited; response/billing unknown; full original reservation charged conservatively; remaining approved attempts only.": 2,
+    "Model/provider mismatch": 1,
+    "logprobs:null": 4
+  },
+  "failed_attempts": 8,
+  "global_cap_usd": 10.0,
+  "http_status_counts": {
+    "200": 16257,
+    "502": 1,
+    "None": 2
+  },
+  "interpretation": "Granite-conditioned exploratory behavior under24prompts; batch outputs are not full-library philosophical distances.",
+  "later_batches_blocked_by_latest_recovery_scope": false,
+  "logical_state_counts": {
+    "pending": 119370,
+    "valid": 16252
+  },
+  "maximum_canary_probability_difference": 0.0,
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 16252
+  },
+  "next_batch": 9,
+  "next_batch_authorized": false,
+  "next_batch_conditional_authorization_file_present": false,
+  "outstanding_reservations_usd": 0.0,
+  "physical_attempts": 16260,
+  "projection_limitations": "Approx±20% variation; task setup/approval delays, throttling, price changes and extra resume QC can add time/cost.",
+  "provider_counts": {
+    "Cloudflare": 16252
+  },
+  "registered_stages": [
+    "batch-0001",
+    "batch-0002",
+    "batch-0003",
+    "batch-0004",
+    "batch-0005",
+    "batch-0006",
+    "batch-0007",
+    "batch-0008"
+  ],
+  "remaining": {
+    "baseline": 4704,
+    "canary": 1770,
+    "primary": 112896
+  },
+  "remaining_batches": 59,
+  "remaining_scheduled_evaluations": 119370,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "PAUSED_AFTER_AUTHORIZED_BATCH",
+  "through_batch": 8,
+  "total_valid": 16252,
+  "unknown_billing_attempts": 4,
+  "unspent_global_budget_usd": 9.193518308,
+  "valid": {
+    "baseline": 640,
+    "canary": 252,
+    "primary": 15360
+  },
+  "valid_adaptive_resume_canaries": 12,
+  "valid_scheduled_canaries": 240
+}

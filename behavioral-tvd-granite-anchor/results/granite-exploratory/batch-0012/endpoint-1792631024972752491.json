@@ -1,0 +1,146 @@
+{
+  "endpoint": {
+    "context_length": 131000,
+    "latency_last_30m": {
+      "p50": 417,
+      "p75": 589.25,
+      "p90": 896.4000000000001,
+      "p99": 2420.859999999995
+    },
+    "max_completion_tokens": 117900,
+    "max_prompt_tokens": null,
+    "model_id": "ibm-granite/granite-4.0-h-micro",
+    "model_name": "IBM: Granite 4.0 Micro",
+    "name": "Cloudflare | ibm-granite/granite-4.0-h-micro",
+    "native_tools": {},
+    "perf_last_30m_by_workload": {
+      "text_generation": {
+        "latency": {
+          "p50": 417,
+          "p75": 589.25,
+          "p90": 896.4000000000001,
+          "p99": 2420.859999999995
+        },
+        "request_count": 558,
+        "throughput": {
+          "p50": 34,
+          "p75": 33,
+          "p90": 30,
+          "p99": 21
+        }
+      }
+    },
+    "pricing": {
+      "completion": "0.000000112",
+      "discount": 0,
+      "prompt": "0.000000017"
+    },
+    "provider_name": "Cloudflare",
+    "quantization": "unknown",
+    "service_tier": null,
+    "status": 0,
+    "supported_parameters": [
+      "max_tokens",
+      "temperature",
+      "top_p",
+      "top_k",
+      "seed",
+      "repetition_penalty",
+      "frequency_penalty",
+      "presence_penalty",
+      "min_p",
+      "stop",
+      "logit_bias",
+      "response_format",
+      "logprobs",
+      "top_logprobs"
+    ],
+    "supports_diarization": false,
+    "supports_image_reference": false,
+    "supports_implicit_caching": false,
+    "supports_multiple_audio_references": false,
+    "supports_tool_choice": {
+      "auto": true,
+      "function": true,
+      "none": true,
+      "required": true
+    },
+    "supports_voice_cloning": false,
+    "tag": "cloudflare",
+    "throughput_last_30m": {
+      "p50": 34,
+      "p75": 33,
+      "p90": 30,
+      "p99": 21
+    },
+    "uptime_last_1d": 100,
+    "uptime_last_30m": 100,
+    "uptime_last_5m": 100
+  },
+  "model": {
+    "architecture": {
+      "input_modalities": [
+        "text"
+      ],
+      "instruct_type": null,
+      "modality": "text->text",
+      "output_modalities": [
+        "text"
+      ],
+      "tokenizer": "Other"
+    },
+    "benchmarks": {
+      "artificial_analysis": {
+        "agentic_index": null,
+        "coding_index": null,
+        "intelligence_index": 5.1
+      },
+      "design_arena": []
+    },
+    "canonical_slug": "ibm-granite/granite-4.0-h-micro",
+    "context_length": 131000,
+    "created": 1760927695,
+    "default_parameters": {
+      "frequency_penalty": null,
+      "temperature": null,
+      "top_p": null
+    },
+    "description": "Granite-4.0-H-Micro is a 3B parameter from the Granite 4 family of models. These models are the latest in a series of models released by IBM. They are fine-tuned for long...",
+    "expiration_date": null,
+    "hugging_face_id": "ibm-granite/granite-4.0-h-micro",
+    "id": "ibm-granite/granite-4.0-h-micro",
+    "knowledge_cutoff": null,
+    "links": {
+      "details": "/api/v1/models/ibm-granite/granite-4.0-h-micro/endpoints"
+    },
+    "name": "IBM: Granite 4.0 Micro",
+    "per_request_limits": null,
+    "pricing": {
+      "completion": "0.000000112",
+      "prompt": "0.000000017"
+    },
+    "supported_parameters": [
+      "frequency_penalty",
+      "logit_bias",
+      "logprobs",
+      "max_tokens",
+      "min_p",
+      "presence_penalty",
+      "repetition_penalty",
+      "response_format",
+      "seed",
+      "stop",
+      "temperature",
+      "top_k",
+      "top_logprobs",
+      "top_p"
+    ],
+    "supported_voices": null,
+    "top_provider": {
+      "context_length": 131000,
+      "is_moderated": false,
+      "max_completion_tokens": 117900
+    }
+  },
+  "observed_at": "2026-10-22T01:03:44.972746+00:00"
+}

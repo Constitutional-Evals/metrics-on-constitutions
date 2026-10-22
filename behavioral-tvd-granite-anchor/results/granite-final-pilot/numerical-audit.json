@@ -1,0 +1,49 @@
+{
+  "valid_records": 4336,
+  "missing_records": 0,
+  "status": "complete",
+  "distinct_request_hashes": 2168,
+  "repeated_identical_request_groups": 2168,
+  "repeated_groups_with_p1_between_0.1_and_0.9": 1384,
+  "repeated_groups_with_p1_between_0.4_and_0.6": 258,
+  "maximum_repeated_differences": {
+    "logp0": 0.0,
+    "logp1": 0.0,
+    "p1_conditional": 0.0,
+    "log_odds": 0.0
+  },
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 4336
+  },
+  "provider_counts": {
+    "Cloudflare": 4336
+  },
+  "sampled_format_noncompliant": 1,
+  "sampled_tokens": {
+    "1": 1546,
+    "0": 2789,
+    "2": 1
+  },
+  "both_finite_label_logs": true,
+  "binary_mass_quantiles": {
+    "min": 0.9985987217028272,
+    "p01": 0.999131270146091,
+    "p05": 0.9993266942594017,
+    "p25": 0.9996284619256466,
+    "median": 0.9997756352855399,
+    "p75": 0.9998751220335945,
+    "p95": 0.9999732522477163,
+    "p99": 0.9999911970395786,
+    "max": 0.9999983967938015
+  },
+  "binary_mass_below_0.5": 0,
+  "binary_mass_below_0.9": 0,
+  "binary_mass_below_0.99": 0,
+  "log_odds_lattice_fractions_tolerance_1e-5": {
+    "0.125": 1.0,
+    "0.0625": 1.0,
+    "0.03125": 1.0,
+    "0.015625": 1.0
+  },
+  "interpretation": "Lattice structure suggests finite-precision computation; decimal display is not numerical accuracy. No evidence of a hard clipping floor is not proof of absence. Conditional probabilities are forced-choice preferences, not unconditional action confidence."
+}

@@ -1,0 +1,19 @@
+diagnostic,mode,confidence,comparison_type,high_constitution,low_constitution,expected_signed_gap,gap_correct,gap_ge_0.10,automated_hypothesis_not_human_reviewed
+diag-wild-relief,full,high within stipulated facts,contrast,utilitarianism,environmental-ethics,0.2791690666153661,True,True,True
+diag-wild-relief,excerpt,high within stipulated facts,contrast,utilitarianism,environmental-ethics,0.7214602494749569,True,True,True
+diag-wild-relief,title_only,high within stipulated facts,contrast,utilitarianism,environmental-ethics,0.24760023093833827,True,True,True
+diag-redistribution,full,high within stipulated institutional framing,contrast,rawlsian-justice,lockean-rights,0.12533208267658202,True,True,True
+diag-redistribution,excerpt,high within stipulated institutional framing,contrast,rawlsian-justice,lockean-rights,0.1463159418755785,True,True,True
+diag-redistribution,title_only,high within stipulated institutional framing,contrast,rawlsian-justice,lockean-rights,0.01027556171663746,True,False,True
+diag-private-deception,full,interpretively debatable,contrast,utilitarianism,kantian-deontology,-0.04032828318826376,False,False,True
+diag-private-deception,excerpt,interpretively debatable,contrast,utilitarianism,kantian-deontology,-0.32538416502016565,False,False,True
+diag-private-deception,title_only,interpretively debatable,contrast,utilitarianism,kantian-deontology,0.0689866014015299,True,False,True
+diag-costly-promise,full,interpretively debatable,contrast,utilitarianism,kantian-deontology,0.057753612937845644,True,False,True
+diag-costly-promise,excerpt,interpretively debatable,contrast,utilitarianism,kantian-deontology,-0.1297474142788787,False,False,True
+diag-costly-promise,title_only,interpretively debatable,contrast,utilitarianism,kantian-deontology,0.17105730225575155,True,True,True
+diag-voluntary-aid,full,high agreement control,agreement,,,,,,True
+diag-voluntary-aid,excerpt,high agreement control,agreement,,,,,,True
+diag-voluntary-aid,title_only,high agreement control,agreement,,,,,,True
+diag-fraud,full,high agreement control,agreement,,,,,,True
+diag-fraud,excerpt,high agreement control,agreement,,,,,,True
+diag-fraud,title_only,high agreement control,agreement,,,,,,True

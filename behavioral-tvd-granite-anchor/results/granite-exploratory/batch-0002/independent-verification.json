@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "BATCH_2_ONLY",
+  "scenario_count": 20,
+  "scheduled_request_hash_matches": 2030,
+  "adaptive_resume_canary_requests_verified_against_frozen_rule": 6,
+  "valid_records": 2036,
+  "maximum_independent_A_B_C_error": 4.440892098500626e-16,
+  "pre_interrupt_valid_attempts_preserved_unchanged": 2004,
+  "original_global_cap_usd": 10,
+  "stage_cap_usd": 1,
+  "registered_stages": [
+    "batch-0001",
+    "batch-0002"
+  ],
+  "no_inflight_reservations": true,
+  "later_stages_dispatched": false
+}

@@ -1,0 +1,30 @@
+{
+  "WAL_sort_analysis_allowance_bytes": 1000000000,
+  "authoritative_ledger_bytes": 882737152,
+  "backup_tree_bytes": 1174818723,
+  "components_per_batch_bound_bytes": {
+    "curated_and_git": 50000000,
+    "evidence_archives": 50000000,
+    "incremental_backup": 50000000,
+    "ledger": 100000000,
+    "working_raw": 100000000
+  },
+  "disk_before": {
+    "free": 23333429248,
+    "total": 33770192896,
+    "used": 8702001152
+  },
+  "full_remaining_experiment_capacity_guaranteed": false,
+  "group_additional_peak_bound_bytes": 4415474304,
+  "group_persistent_growth_bound_bytes": 1050000000,
+  "inference_requests": 0,
+  "no_external_storage_provisioned": true,
+  "policy": "Repeat conservative gate before every group; future compaction or approved capacity may be necessary. No dependencies deleted.",
+  "projected_free_at_peak_bytes": 18917954944,
+  "required_free_margin_bytes": 2000000000,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "same_volume_backup_not_disaster_recovery": true,
+  "storage_gate_pass": true,
+  "temporary_restore_copies_bound_bytes": 2365474304,
+  "working_tree_bytes": 1707023165
+}

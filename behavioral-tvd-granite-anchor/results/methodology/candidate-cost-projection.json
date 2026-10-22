@@ -1,0 +1,11 @@
+{
+  "candidate_scenarios": 1336,
+  "candidate_evaluations": 32064,
+  "estimated_input_tokens": 96464288,
+  "estimated_output_tokens": 32064,
+  "canonical_uncached_cost_usd": 21.23817536,
+  "four_condition_uncached_cost_usd": 84.95270144,
+  "three_replicates_four_conditions_uncached_cost_usd": 254.85810432,
+  "token_count_provenance": "Llama3 tokenizer; unchanged v2 main templates; 35-token overhead matched complete pilot; excludes retries, price changes and future input/design changes",
+  "not_a_spending_authorization": true
+}

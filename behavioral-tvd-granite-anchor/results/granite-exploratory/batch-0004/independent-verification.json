@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "scope": "BATCH_4_ONLY",
+  "scenario_count": 20,
+  "complete_request_hash_matches": 2030,
+  "maximum_independent_A_B_C_error": 4.440892098500626e-16,
+  "experiment_cap_usd": 10,
+  "stage_cap_usd": 1,
+  "max_attempts_observed_for_one_task": 2,
+  "registered_stages": [
+    "batch-0001",
+    "batch-0002",
+    "batch-0003",
+    "batch-0004"
+  ],
+  "no_inflight_reservations": true,
+  "later_stages_dispatched": false,
+  "api_requests_for_verification": 0,
+  "all_required_token_logs_available": true,
+  "all_label_tokens_literal_ASCII": true,
+  "maximum_independent_probability_error": 2.220446049250313e-16,
+  "canary_max_probability_difference": 0.0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "all_four_semantic_probability_matrices_recomputed": true,
+  "counterbalanced_matrix_recomputed": true,
+  "prior_records_postcheck_passed": true
+}

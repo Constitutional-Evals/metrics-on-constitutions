@@ -1,0 +1,9 @@
+{
+  "protected_files_sha256": {
+    "/workspace/work/finalization/reliability-controls/responses.jsonl": "a52babdef84b069487952c0b7ac896342d0923a93511e16b0a91f20b576d77a7",
+    "/workspace/work/controlled-v2/pilot/responses.jsonl": "318014e71043613b3a7129ec2eaea968969288316a4091cfbf209488b5f57a7a",
+    "data/scenarios-reviewed.jsonl": "54bda7a7c76b4f5c7f1dd8eae885c6d7bd110bd2d9245ea4504b82e5079fc98b",
+    "data/scenarios-reviewed.manifest.json": "ed91470cf12e50d24bccccdee63965428d9272db9bafcc792d02855337ba35c0"
+  },
+  "preexisting_commit": "8f1dab0ea6254b638afaea7dcfa99bef19e4ffda"
+}

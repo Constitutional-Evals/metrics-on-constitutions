@@ -1,0 +1,45 @@
+{
+  "status": "PREPARED_NOT_70B_VALIDATED",
+  "full_experiment_authorized": false,
+  "weight_download_authorized_in_this_task": false,
+  "model": "meta-llama/Llama-3.3-70B-Instruct",
+  "proposed_weight_revision": "6f6073b423013f6a7d4d9f39144961bfbfbc386b",
+  "proposed_tokenizer_revision": "6f6073b423013f6a7d4d9f39144961bfbfbc386b",
+  "downloaded_weight_hashes": null,
+  "snapshot_lock_required_before_execution": true,
+  "backend": "transformers-direct-v1",
+  "dtype": "bfloat16",
+  "attention": "eager",
+  "cache": "off",
+  "batch_size": 1,
+  "seed": 20261020,
+  "temperature": 1,
+  "sampling": false,
+  "normalization": "FP32 full-vocabulary log_softmax; conditional sigmoid(raw logit1 - raw logit0)",
+  "tensor_parallel_size": 1,
+  "multi_gpu": "Accelerate sequential layer sharding; no CPU/disk offload",
+  "per_gpu_weight_placement_headroom_gib": 8,
+  "planned_sessions": [
+    "restart-1",
+    "restart-2"
+  ],
+  "repeats_per_pair_per_session": 30,
+  "diagnostic_pairs": 19,
+  "diagnostic_evaluations_per_session": 570,
+  "diagnostic_evaluations_total": 1140,
+  "later_block_cells": 480,
+  "later_block_repeats_per_session": 2,
+  "later_block_evaluations_total": 1920,
+  "thresholds": {
+    "max_probability_range": 0.001,
+    "max_log_odds_range": 0.01,
+    "max_block_normalized_l1_change": 0.005,
+    "automatically_adjusted": false
+  },
+  "inputs_sha256": {
+    "data/local-validation/block480.json": "0fa38459dc5f1d5eb9be94352719582ffe271ae12cbc0168ea98cdeac8a9ff79",
+    "data/local-validation/diagnostic19.json": "7056b7b70b071b76fe063618771681187834cb3f8bad9909904a60325b612766",
+    "data/local-validation/provenance.json": "0b72f066dea4d08816c3c82eb40ff43bc7199a5b5bf8720f8d684491dca5fc18"
+  },
+  "execution": "dry-run by default in scripts/local_70b_benchmark.sh; explicit --execute later on authorized hardware"
+}

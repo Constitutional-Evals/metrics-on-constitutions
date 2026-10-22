@@ -1,0 +1,9 @@
+{
+  "batch4_complete_verified_reconciled_and_backed_up": true,
+  "batch5_eligible_under_latest_explicit_authorization": true,
+  "batch6_and_later_authorized": false,
+  "cumulative_conservative_spending_usd": 0.408389026,
+  "stage4_preservation_manifest_sha256": "c1b94f6976d157a7504d9d4ee0bde375c75b680017b2bd4f6c1db36e815a3954",
+  "stage4_verification_sha256": "ca7f56823c51fa6514a5e91a336cdac95230a52275b7e09caa0cc89225bb1b9e",
+  "status": "PASS"
+}

@@ -1,0 +1,139 @@
+{
+  "mistral31-cloudflare": {
+    "attempts": 1,
+    "valid": 0,
+    "invalid": 1,
+    "http_errors": {},
+    "errors": [
+      "Exactly one next-token logprob record required"
+    ],
+    "usage_reported_cost": 0.00107988
+  },
+  "nemo12-ionet": {
+    "attempts": 134,
+    "valid": 126,
+    "invalid": 0,
+    "http_errors": {
+      "429": 8
+    },
+    "errors": [
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429"
+    ],
+    "usage_reported_cost": 0.004171490640000001
+  },
+  "llama3-cloudflare": {
+    "attempts": 1,
+    "valid": 0,
+    "invalid": 1,
+    "http_errors": {},
+    "errors": [
+      "Exactly one next-token logprob record required"
+    ],
+    "usage_reported_cost": 0.0001561908
+  },
+  "llama8-core": {
+    "attempts": 134,
+    "valid": 134,
+    "invalid": 0,
+    "http_errors": {},
+    "errors": [],
+    "usage_reported_cost": 0.08493804000000002
+  },
+  "llama8-novita": {
+    "attempts": 134,
+    "valid": 134,
+    "invalid": 0,
+    "http_errors": {},
+    "errors": [],
+    "usage_reported_cost": 0.007725660000000011
+  },
+  "qwen30-deka": {
+    "attempts": 2,
+    "valid": 0,
+    "invalid": 0,
+    "http_errors": {
+      "429": 2
+    },
+    "errors": [
+      "HTTP 429",
+      "HTTP 429"
+    ],
+    "usage_reported_cost": 0
+  },
+  "mistral24-parasail": {
+    "attempts": 21,
+    "valid": 11,
+    "invalid": 0,
+    "http_errors": {
+      "429": 10
+    },
+    "errors": [
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429",
+      "HTTP 429"
+    ],
+    "usage_reported_cost": 0.0026165499999999996
+  },
+  "gemma27-nextbit": {
+    "attempts": 134,
+    "valid": 134,
+    "invalid": 0,
+    "http_errors": {},
+    "errors": [],
+    "usage_reported_cost": 0.01864098
+  },
+  "granite8-core": {
+    "attempts": 134,
+    "valid": 134,
+    "invalid": 0,
+    "http_errors": {},
+    "errors": [],
+    "usage_reported_cost": 0.0231676
+  },
+  "granite3-cloudflare": {
+    "attempts": 326,
+    "valid": 326,
+    "invalid": 0,
+    "http_errors": {},
+    "errors": [],
+    "usage_reported_cost": 0.016053283000000005
+  },
+  "qwen80-google": {
+    "attempts": 134,
+    "valid": 133,
+    "invalid": 0,
+    "http_errors": {
+      "429": 1
+    },
+    "errors": [
+      "HTTP 429"
+    ],
+    "usage_reported_cost": 0.05748210000000002
+  },
+  "qwen80-parasail": {
+    "attempts": 134,
+    "valid": 133,
+    "invalid": 0,
+    "http_errors": {
+      "429": 1
+    },
+    "errors": [
+      "HTTP 429"
+    ],
+    "usage_reported_cost": 0.02885398
+  }
+}

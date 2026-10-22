@@ -1,0 +1,9 @@
+{
+  "completed_and_independently_verified_batch": 7,
+  "conservative_cumulative_spending_usd": 0.707028052,
+  "consistent_ledger_and_raw_backups_hash_verified": true,
+  "next_batch_eligible": 8,
+  "preservation_manifest_sha256": "c4e9d795b1bd5cdbf79ebea9961445b76264292d31a67803d39bfbfe5e614853",
+  "status": "PASS",
+  "verification_sha256": "03acc3ac2066f2d0e8cf3be9e46afacf5c0aef9a121690f118d7c00304c2bd55"
+}

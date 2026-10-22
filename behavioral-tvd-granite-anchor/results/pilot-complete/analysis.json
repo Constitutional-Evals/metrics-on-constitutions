@@ -1,0 +1,271 @@
+{
+  "checks": {
+    "probability_shape": [
+      24,
+      20
+    ],
+    "distance_shape": [
+      24,
+      24
+    ],
+    "probabilities_in_range": true,
+    "symmetric_including_missing_mask": true,
+    "zero_diagonal": true,
+    "nonnegative_known_distances": true,
+    "triangle_inequality_on_complete_rows": true,
+    "missing_probability_cells": 0,
+    "missing_distance_cells": 0,
+    "complete_constitution_vectors": 24
+  },
+  "missing": [],
+  "provider_counts": {
+    "Parasail": 492
+  },
+  "model_counts": {
+    "meta-llama/llama-3.3-70b-instruct": 492
+  },
+  "both_labels_available_valid_responses": 492,
+  "numerical": {
+    "logprob_min": -24.625,
+    "logprob_max": 0,
+    "exact_zero_logprobs": 127,
+    "label_logprob_count": 960,
+    "sentinel_logprobs": 0,
+    "fraction_log_odds_within_1e-5_of_1_16_grid": 1.0,
+    "binary_mass_min": 0.9999999404483507,
+    "binary_mass_max": 1.000000057892679,
+    "interpretation": "Exact zero winning logprobs and near-grid log odds indicate finite precision/rounding consistent with FP8 serving. No missing-token sentinel was accepted. Cannot distinguish all provider clipping/transforms from API data alone."
+  },
+  "costs": {
+    "known_actual_cost_usd": 0.18516678,
+    "unknown_cost_attempts": 1,
+    "conservative_total_usd": 0.216886754,
+    "held_reservations_usd": 0.0,
+    "budget_usd": 2.0,
+    "total_dispatches": 493,
+    "attempt_state_counts": {
+      "valid": 492,
+      "retry": 1
+    },
+    "http_status_counts": {
+      "200": 492,
+      "502": 1
+    },
+    "phase_costs": {
+      "smoke": 0.00287774,
+      "pilot": 0.18040856,
+      "repeats": 0.00188048
+    },
+    "successful_input_tokens": 1477669,
+    "successful_output_tokens": 492
+  },
+  "full_projection": {
+    "pairs": 32640,
+    "estimated_input_tokens": 98196632,
+    "output_tokens": 32640,
+    "observed_template_overhead_tokens": 35,
+    "template_overhead_matched_responses": 492,
+    "max_prompt_tokens": 3766,
+    "uncached_usd": 21.619579039999998,
+    "idealized_all_input_cached_floor_usd": 10.817949519999999,
+    "pilot_average_cost_extrapolation_usd": 12.26778208,
+    "excludes": "Retries, unknown charges, provider changes and any future prompt/action corrections; caching is not guaranteed."
+  },
+  "variation": {
+    "known_probability_min": 4.944450477491054e-09,
+    "known_probability_max": 0.999999999979793,
+    "fraction_between_005_and_095": 0.03125,
+    "complete_pair_count": 276,
+    "minimum_summed_l1": [
+      0.001457195182197121,
+      "care-ethics",
+      "ubuntu"
+    ],
+    "maximum_summed_l1": [
+      7.385382911205901,
+      "environmental-ethics",
+      "secular-humanism"
+    ],
+    "mean_summed_l1": 2.4108599479075017,
+    "zero_distance_pairs": 0,
+    "largest_scenario_ranges": [
+      {
+        "id": "5070",
+        "n": 24,
+        "min": 6.825603724121504e-08,
+        "max": 0.9999999995941349,
+        "range": 0.9999999313380976,
+        "stddev": 0.4252276167923641
+      },
+      {
+        "id": "39630",
+        "n": 24,
+        "min": 1.8553914607279394e-07,
+        "max": 0.9999999994788586,
+        "range": 0.9999998139397126,
+        "stddev": 0.488898616026587
+      },
+      {
+        "id": "5006",
+        "n": 24,
+        "min": 3.059023363247549e-07,
+        "max": 0.999999999683912,
+        "range": 0.9999996937815756,
+        "stddev": 0.3871189863870806
+      },
+      {
+        "id": "16204",
+        "n": 24,
+        "min": 1.0677029973235123e-06,
+        "max": 0.999999999868235,
+        "range": 0.9999989321652376,
+        "stddev": 0.4669398360881823
+      },
+      {
+        "id": "11630",
+        "n": 24,
+        "min": 4.5397852420729034e-05,
+        "max": 0.999999999782756,
+        "range": 0.9999546019303353,
+        "stddev": 0.2104937893946387
+      }
+    ]
+  },
+  "reproducibility": [
+    {
+      "request_hash": "f588f9491fd3410e794089c7eb313f748c3485180a326fb309aebb99bd09cda4",
+      "constitution_id": "utilitarianism",
+      "scenario_id": "44833",
+      "n": 4,
+      "identical_probabilities": false,
+      "max_absolute_range": 0.0019052893353017294,
+      "min": 2.1444958641491428e-05,
+      "max": 0.001926734293943221,
+      "observations": [
+        {
+          "phase": "smoke",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "44833",
+          "probability": 0.001926734293943221,
+          "logp0": -0.0019286142196506262,
+          "logp1": -6.251928806304932
+        },
+        {
+          "phase": "pilot",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "44833",
+          "probability": 0.001926734293943221,
+          "logp0": -0.0019286142196506262,
+          "logp1": -6.251928806304932
+        },
+        {
+          "phase": "repeats",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "44833",
+          "probability": 0.0004305570927227883,
+          "logp0": -0.0004306104383431375,
+          "logp1": -7.750430583953857
+        },
+        {
+          "phase": "repeats",
+          "replica": 1,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "44833",
+          "probability": 2.1444958641491428e-05,
+          "logp0": -2.1457441107486375e-05,
+          "logp1": -10.750020980834961
+        }
+      ]
+    },
+    {
+      "request_hash": "3a2e926afbd0de78f87822d62bb73f61273b469d6b777921bb055862c0687eb1",
+      "constitution_id": "utilitarianism",
+      "scenario_id": "6715",
+      "n": 4,
+      "identical_probabilities": false,
+      "max_absolute_range": 1.065055524254285e-06,
+      "min": 3.059023363247549e-07,
+      "max": 1.3709578605790399e-06,
+      "observations": [
+        {
+          "phase": "smoke",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "6715",
+          "probability": 3.059023363247549e-07,
+          "logp0": -3.576278118089249e-07,
+          "logp1": -15
+        },
+        {
+          "phase": "pilot",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "6715",
+          "probability": 1.3709578605790399e-06,
+          "logp0": -1.4305104514278355e-06,
+          "logp1": -13.500000953674316
+        },
+        {
+          "phase": "repeats",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "6715",
+          "probability": 1.3709578605790399e-06,
+          "logp0": -1.4305104514278355e-06,
+          "logp1": -13.500000953674316
+        },
+        {
+          "phase": "repeats",
+          "replica": 1,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "6715",
+          "probability": 1.3709578605790399e-06,
+          "logp0": -1.4305104514278355e-06,
+          "logp1": -13.500000953674316
+        }
+      ]
+    },
+    {
+      "request_hash": "c1f16f75b7d332f4e70eafdfecf9cd91b123330c4365c0532109c3257a6d0b9b",
+      "constitution_id": "utilitarianism",
+      "scenario_id": "40169",
+      "n": 3,
+      "identical_probabilities": false,
+      "max_absolute_range": 0.003922585446860194,
+      "min": 0.9820137881297457,
+      "max": 0.9859363735766059,
+      "observations": [
+        {
+          "phase": "pilot",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "40169",
+          "probability": 0.9820137881297457,
+          "logp0": -4.0181498527526855,
+          "logp1": -0.018149960786104202
+        },
+        {
+          "phase": "repeats",
+          "replica": 0,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "40169",
+          "probability": 0.9820137881297457,
+          "logp0": -4.0181498527526855,
+          "logp1": -0.018149960786104202
+        },
+        {
+          "phase": "repeats",
+          "replica": 1,
+          "constitution_id": "utilitarianism",
+          "scenario_id": "40169",
+          "probability": 0.9859363735766059,
+          "logp0": -4.264163494110107,
+          "logp1": -0.01416344940662384
+        }
+      ]
+    }
+  ]
+}

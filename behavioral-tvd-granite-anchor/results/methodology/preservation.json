@@ -1,0 +1,17 @@
+{
+  "backups_are_local_not_offsite": true,
+  "pre_change_backup_directory": "/workspace/work/backups/pre-finalization-2026-10-20",
+  "completed_evidence_directory": "/workspace/work/backups/methodology-finalization-2026-10-20",
+  "completed_evidence_archive": "complete-pilot-and-methodology-evidence.zip",
+  "archive_sha256": "7d0a6c1d182eb23d7f764cde13ed56bd0f62d2cdf3ec3bd0c0fb725256723af4",
+  "consistent_sqlite_snapshots_verified": true,
+  "archive_crc_check_passed": true,
+  "original_479_valid_records_unchanged": true,
+  "raw_evidence_kept_out_of_git": true,
+  "credentials_included": false,
+  "versioned_results": [
+    "results/pilot-complete",
+    "results/methodology"
+  ],
+  "full_experiment_executed": false
+}

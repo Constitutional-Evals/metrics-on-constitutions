@@ -1,0 +1,313 @@
+{
+  "anomaly-long-concurrent": {
+    "valid": 24,
+    "groups": 2,
+    "max_range": 0.21171319724719198,
+    "median_range": 0.1708870926440496,
+    "nonidentical_groups": 2,
+    "saturated": 0,
+    "cost": 0.00815376
+  },
+  "anomaly-long-sequential": {
+    "valid": 24,
+    "groups": 2,
+    "max_range": 0.561623722333354,
+    "median_range": 0.561623722333354,
+    "nonidentical_groups": 2,
+    "saturated": 5,
+    "cost": 0.00847056
+  },
+  "conc-fixed-seed": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.7479876284624131,
+    "median_range": 0.16443930304628085,
+    "nonidentical_groups": 19,
+    "saturated": 20,
+    "cost": 0.0218943
+  },
+  "conc-no-seed": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.6709719223861146,
+    "median_range": 0.08651591231295216,
+    "nonidentical_groups": 18,
+    "saturated": 20,
+    "cost": 0.01823526
+  },
+  "coreweave-fp16-comparison-conc": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.042100438514143836,
+    "median_range": 0.0,
+    "nonidentical_groups": 6,
+    "saturated": 21,
+    "cost": 0.11654721
+  },
+  "coreweave-fp16-comparison-seq": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.13839579240184874,
+    "median_range": 0.0011499878516741946,
+    "nonidentical_groups": 16,
+    "saturated": 21,
+    "cost": 0.11654721
+  },
+  "probe-coreweave-fp16": {
+    "valid": 1,
+    "groups": 1,
+    "max_range": 0.0,
+    "median_range": 0.0,
+    "nonidentical_groups": 0,
+    "saturated": 0,
+    "cost": 0.00217473
+  },
+  "probe-novita-bf16": {
+    "valid": 1,
+    "groups": 1,
+    "max_range": 0.0,
+    "median_range": 0.0,
+    "nonidentical_groups": 0,
+    "saturated": 0,
+    "cost": 0.00041377
+  },
+  "seq-fixed-seed": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.9415871849077241,
+    "median_range": 0.13839579240184874,
+    "nonidentical_groups": 19,
+    "saturated": 19,
+    "cost": 0.02239942
+  },
+  "seq-no-seed": {
+    "valid": 57,
+    "groups": 19,
+    "max_range": 0.5511895593076812,
+    "median_range": 0.10859924156865797,
+    "nonidentical_groups": 19,
+    "saturated": 22,
+    "cost": 0.0261095
+  },
+  "short-conc": {
+    "valid": 9,
+    "groups": 3,
+    "max_range": 3.2418655466770474e-06,
+    "median_range": 1.1568301871989206e-11,
+    "nonidentical_groups": 2,
+    "saturated": 9,
+    "cost": 9.008e-05
+  },
+  "short-conc-seed": {
+    "valid": 9,
+    "groups": 3,
+    "max_range": 2.417538692012222e-06,
+    "median_range": 5.064837438339964e-12,
+    "nonidentical_groups": 2,
+    "saturated": 9,
+    "cost": 8.832e-05
+  },
+  "short-seq": {
+    "valid": 9,
+    "groups": 3,
+    "max_range": 1.0584556550119473e-06,
+    "median_range": 4.901661592195413e-09,
+    "nonidentical_groups": 3,
+    "saturated": 9,
+    "cost": 0.00010768
+  },
+  "short-seq-seed": {
+    "valid": 9,
+    "groups": 3,
+    "max_range": 2.417538692012222e-06,
+    "median_range": 1.1692087597144845e-08,
+    "nonidentical_groups": 3,
+    "saturated": 9,
+    "cost": 8.832e-05
+  },
+  "original_pilot": {
+    "n": 480,
+    "saturated": 430,
+    "middle": 13,
+    "max_normalization_error": 5.551115123125783e-17
+  },
+  "budget": [
+    {
+      "state": "error",
+      "count": 5,
+      "accounted_usd": 0.15859987,
+      "actual_usd": null
+    },
+    {
+      "state": "invalid",
+      "count": 1,
+      "accounted_usd": 0.00040297,
+      "actual_usd": 0.00040297
+    },
+    {
+      "state": "valid",
+      "count": 428,
+      "accounted_usd": 0.34132012,
+      "actual_usd": 0.34132012
+    }
+  ],
+  "anomaly": [
+    {
+      "phase": "anomaly-long-concurrent",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 12,
+      "mean_p": 0.08919189528383752,
+      "min_p": 0.010986941578116865,
+      "max_p": 0.22270013882530884,
+      "range_p": 0.21171319724719198,
+      "sd_p": 0.06582199091536829,
+      "range_log_odds": 3.2500000968575478,
+      "unique_p": 7
+    },
+    {
+      "phase": "anomaly-long-concurrent",
+      "pair": "conservatism--16204",
+      "seeded": true,
+      "n": 12,
+      "mean_p": 0.0629749654638067,
+      "min_p": 0.01798621187025419,
+      "max_p": 0.14804719991116141,
+      "range_p": 0.1300609880409072,
+      "sd_p": 0.04573000037737849,
+      "range_log_odds": 2.2499999068677425,
+      "unique_p": 5
+    },
+    {
+      "phase": "anomaly-long-sequential",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 12,
+      "mean_p": 0.07504827683569988,
+      "min_p": 0.0005527785524441058,
+      "max_p": 0.5621765008857981,
+      "range_p": 0.561623722333354,
+      "sd_p": 0.1560127574047411,
+      "range_log_odds": 7.750000152911525,
+      "unique_p": 6
+    },
+    {
+      "phase": "anomaly-long-sequential",
+      "pair": "conservatism--16204",
+      "seeded": true,
+      "n": 12,
+      "mean_p": 0.1098433648523102,
+      "min_p": 0.0005527785524441058,
+      "max_p": 0.5621765008857981,
+      "range_p": 0.561623722333354,
+      "sd_p": 0.17154038476431455,
+      "range_log_odds": 7.750000152911525,
+      "unique_p": 6
+    },
+    {
+      "phase": "conc-fixed-seed",
+      "pair": "conservatism--16204",
+      "seeded": true,
+      "n": 3,
+      "mean_p": 0.19523555061906167,
+      "min_p": 0.0005527785524441058,
+      "max_p": 0.5621765008857981,
+      "range_p": 0.561623722333354,
+      "sd_p": 0.3179779258683077,
+      "range_log_odds": 7.750000152911525,
+      "unique_p": 3
+    },
+    {
+      "phase": "conc-no-seed",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 3,
+      "mean_p": 0.14665533318653057,
+      "min_p": 0.022977372418942873,
+      "max_p": 0.2689414272294874,
+      "range_p": 0.2459640548105445,
+      "sd_p": 0.12298793450759911,
+      "range_log_odds": 2.7499999180436134,
+      "unique_p": 3
+    },
+    {
+      "phase": "coreweave-fp16-comparison-conc",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 3,
+      "mean_p": 0.32082130731838393,
+      "min_p": 0.32082130731838393,
+      "max_p": 0.32082130731838393,
+      "range_p": 0.0,
+      "sd_p": 0.0,
+      "range_log_odds": 0.0,
+      "unique_p": 1
+    },
+    {
+      "phase": "coreweave-fp16-comparison-seq",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 3,
+      "mean_p": 0.3598220379169899,
+      "min_p": 0.32082130731838393,
+      "max_p": 0.4378234991142019,
+      "range_p": 0.11700219179581794,
+      "sd_p": 0.06755124692909172,
+      "range_log_odds": 0.4999999701976776,
+      "unique_p": 2
+    },
+    {
+      "phase": "probe-coreweave-fp16",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 1,
+      "mean_p": 0.2689414272294874,
+      "min_p": 0.2689414272294874,
+      "max_p": 0.2689414272294874,
+      "range_p": 0.0,
+      "sd_p": null,
+      "range_log_odds": 0.0,
+      "unique_p": 1
+    },
+    {
+      "phase": "probe-novita-bf16",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 1,
+      "mean_p": 0.8519528000888387,
+      "min_p": 0.8519528000888387,
+      "max_p": 0.8519528000888387,
+      "range_p": 0.0,
+      "sd_p": null,
+      "range_log_odds": 0.0,
+      "unique_p": 1
+    },
+    {
+      "phase": "seq-fixed-seed",
+      "pair": "conservatism--16204",
+      "seeded": true,
+      "n": 3,
+      "mean_p": 0.027872267118595,
+      "min_p": 0.0005527785524441058,
+      "max_p": 0.060086650384398026,
+      "range_p": 0.05953387183195392,
+      "sd_p": 0.03006726574559767,
+      "range_log_odds": 4.7500001566368155,
+      "unique_p": 3
+    },
+    {
+      "phase": "seq-no-seed",
+      "pair": "conservatism--16204",
+      "seeded": false,
+      "n": 3,
+      "mean_p": 0.010139263272388803,
+      "min_p": 0.0005527785524441058,
+      "max_p": 0.0293122327122782,
+      "range_p": 0.028759454159834094,
+      "sd_p": 0.016604278600926916,
+      "range_log_odds": 4.000000221829396,
+      "unique_p": 2
+    }
+  ],
+  "old_evidence_unchanged": true
+}

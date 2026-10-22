@@ -1,0 +1,36 @@
+{
+  "run_id": "17e2538aa7bdb4d2dbf0fe1acc2123b93c9c802b419e63d0c917b8726152810d",
+  "checkpoint_ledger": "/workspace/work/controlled-v2/task-budget.sqlite",
+  "same_original_configuration": true,
+  "original_479_records_unchanged_verified": true,
+  "missing_cell_added": {
+    "constitution_id": "utilitarianism",
+    "dilemma_id": "23200",
+    "attempt_id": "8bc805db8e3046f89d07593b78d500ec",
+    "http_status": 200,
+    "cost_usd": 0.0006176
+  },
+  "matrix_checks": {
+    "probability_shape": [
+      24,
+      20
+    ],
+    "distance_shape": [
+      24,
+      24
+    ],
+    "probabilities_in_range": true,
+    "symmetric_including_missing_mask": true,
+    "zero_diagonal": true,
+    "nonnegative_known_distances": true,
+    "triangle_inequality_on_complete_rows": true,
+    "missing_probability_cells": 0,
+    "missing_distance_cells": 0,
+    "complete_constitution_vectors": 24
+  },
+  "expected_main_evaluations": 480,
+  "actual_valid_main_evaluations": 480,
+  "main_dispatches_including_original_failed_attempt": 481,
+  "full_experiment_launched": false,
+  "response_records_content_sha256": "318014e71043613b3a7129ec2eaea968969288316a4091cfbf209488b5f57a7a"
+}

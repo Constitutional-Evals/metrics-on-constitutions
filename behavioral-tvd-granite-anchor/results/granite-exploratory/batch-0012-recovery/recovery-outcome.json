@@ -1,0 +1,154 @@
+{
+  "additional_automatic_retries": 0,
+  "aggregate_active_seconds": 6828.554694464001,
+  "aggregate_valid_per_second": 3.568983641554177,
+  "all_later_dispatch_blocked": true,
+  "backup": {
+    "all_tables": {
+      "attempts": {
+        "rows": 24381,
+        "sha256": "3dc416157e5186ee869737f215a533c5988a2757870e99ee7f62d761c46398d4"
+      },
+      "dispatch_stages": {
+        "rows": 12,
+        "sha256": "6e260119774434e0a961f17a18923d6b082e7b0d61c2fbd3305892d71a6a2aba"
+      },
+      "evaluations": {
+        "rows": 135628,
+        "sha256": "3336a05e12fa35a54cd92b6892937f43388ab29e3255445834d968d44440d108"
+      },
+      "runs": {
+        "rows": 1,
+        "sha256": "d37e8fa38b224b996bf9378d0f663cadec037bf3e9d31fa5754673a9b4f59db1"
+      },
+      "schema_sha256": "aa5d98a14abe0f193fd443d5bbc2d546616f5d7e98131161d8155595bf1eb380",
+      "settings": {
+        "rows": 1,
+        "sha256": "681b9dab8eb5ee41daafaa788aaf33e9875b4a1e8f99e109380d1c314e120b4b"
+      },
+      "stage_attempts": {
+        "rows": 24381,
+        "sha256": "34b76cc2bee5a720a39d4400a0881a916d05c078d9db7b46c6eb4c2a526c456c"
+      }
+    },
+    "archive_bytes": 25926354,
+    "archive_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/objects/a29997df5081ec22bc43fd1d0e295e6f0e8dc3519d38041a208daaa09cc3f9ca.delta.gz",
+    "archive_sha256": "6fc84be218fe8fe568fb09f0ad0f809c29ffad9f7f3ed556821f543da667848d",
+    "base_recovery_metadata": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0011-ledger.sqlite.recovery.json",
+    "exact_byte_restore_verified": true,
+    "format": "gzip-64KiB-block-delta-v1",
+    "original_bytes": 960151552,
+    "original_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0012-reviewed-recovery-stopped-ledger.sqlite",
+    "retired_uncompressed_source": true,
+    "source_sha256": "a29997df5081ec22bc43fd1d0e295e6f0e8dc3519d38041a208daaa09cc3f9ca",
+    "sqlite_integrity_check": "ok",
+    "storage_scope": "Same working volume; not off-volume disaster recovery."
+  },
+  "batch12_complete": false,
+  "completed_batches": 11,
+  "completed_new_batches": [],
+  "confirmed_spending_usd": 1.194330873,
+  "conservative_spending_usd": 1.209029817,
+  "disk_after_verification": {
+    "free": 22767747072,
+    "total": 33770192896,
+    "used": 9267683328
+  },
+  "do_not_execute_batches": [
+    13,
+    14
+  ],
+  "error_policy_unchanged": true,
+  "estimated_final_cost_usd": 6.728437612231984,
+  "estimated_remaining_active_seconds": 31173.300629517922,
+  "estimated_remaining_cost_usd": 5.5194077952319835,
+  "failed_attempts": 10,
+  "fresh_resume_canaries": 6,
+  "fully_observed_scenarios": 239,
+  "global_cap_usd": 10,
+  "last_complete_cumulative_matrix_scenarios": 220,
+  "logical_rows_changed_in_reviewed_transaction": 1,
+  "model_counts_all_valid": {
+    "ibm-granite/granite-4.0-h-micro": 24371
+  },
+  "new_failure": {
+    "actual_billing_unknown": true,
+    "attempt_id": "429eb30c2dcd4a238d3fa886fdcb7b7e",
+    "attempt_sha256": "21e4b4075c4032f070423ba4c4d6700a7fc72b98e073af2849248fa5847427ee",
+    "checkpoint_state": "invalid",
+    "condition": "labels_swapped",
+    "constitution": "ubuntu",
+    "frozen_validator_error": "Model/provider mismatch",
+    "full_charge_usd": 0.002449824,
+    "http_status": 200,
+    "reclassified_or_retried": false,
+    "response_error": {
+      "code": 504,
+      "message": "Upstream idle timeout exceeded",
+      "metadata": {
+        "error_type": "timeout"
+      }
+    },
+    "scenario": "29912"
+  },
+  "no_later_batches_dispatched_or_authorized_by_recovery": true,
+  "not_started_batches": 55,
+  "original_stopped_evidence_preserved_under": "results/granite-exploratory/batch-0012-recovery/stopped-curated",
+  "outstanding_reservations_usd": 0,
+  "physical_attempts": 24381,
+  "provider_counts_all_valid": {
+    "Cloudflare": 24371
+  },
+  "recovery_active_seconds": 155.330076956001,
+  "recovery_confirmed_spending_usd": 0.009750348,
+  "recovery_conservative_spending_usd": 0.012200172,
+  "recovery_new_failures": 1,
+  "recovery_new_physical_attempts": 198,
+  "recovery_transaction_id": "174bef050b3349f7b7ccbd1b3fdb6925",
+  "recovery_valid_per_second": 1.2682669310451864,
+  "recovery_valid_responses": 197,
+  "remaining": {
+    "baseline": 4384,
+    "canary": 1656,
+    "primary": 105217
+  },
+  "remaining_scheduled_evaluations": 111257,
+  "resume_canaries": 18,
+  "reviewed_retries": 1,
+  "reviewed_target": {
+    "condition": "canonical",
+    "constitution": "neo-aristotelian-virtue-ethics",
+    "lifetime_attempt_count": 2,
+    "original_failed_attempt_and_charge_unchanged": true,
+    "original_failed_attempt_id": "9b4128fc0dcb469e817b209db3489378",
+    "retry_attempt_id": "82ac4f6dbd4445c88d79fadd203afcb8",
+    "retry_succeeded": true,
+    "scenario": "29912"
+  },
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "same_volume_backup_not_disaster_recovery": true,
+  "scheduled_canaries": 354,
+  "scientific_scope": "Granite-conditioned behavioral geometry; no full Batch12/240 matrix or substitute 239-scenario analysis.",
+  "stage_active_seconds_all_invocations": 718.3995866689947,
+  "stage_cap_usd": 1,
+  "stage_confirmed_spending_usd": 0.099362357,
+  "stage_conservative_spending_usd": 0.104262005,
+  "stage_missing_scheduled": 7,
+  "stage_primary_physical_attempts": 1921,
+  "stage_resume_canaries": 6,
+  "stage_scheduled_canaries": 24,
+  "stage_valid": {
+    "baseline": 80,
+    "canary": 30,
+    "primary": 1919
+  },
+  "status": "REVIEWED_TARGET_RECOVERED_BATCH12_STOPPED_AGAIN",
+  "total_valid": 24371,
+  "unfinished_batches_including12": 56,
+  "unknown_billing_attempts": 6,
+  "valid": {
+    "baseline": 960,
+    "canary": 372,
+    "primary": 23039
+  }
+}

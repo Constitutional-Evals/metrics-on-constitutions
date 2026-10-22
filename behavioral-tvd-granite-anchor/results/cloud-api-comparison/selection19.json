@@ -1,0 +1,120 @@
+{
+  "source": "data/local-validation/diagnostic19.json",
+  "sha256": "7056b7b70b071b76fe063618771681187834cb3f8bad9909904a60325b612766",
+  "pairs": [
+    {
+      "id": "aboriginal-australian--5070",
+      "constitution_id": "aboriginal-australian",
+      "scenario_id": "5070",
+      "messages_hash": "8c8142dae84756c39cf441d3e04b53805d0607931650ac92fa8b4349b9b2b18b"
+    },
+    {
+      "id": "care-ethics--16264",
+      "constitution_id": "care-ethics",
+      "scenario_id": "16264",
+      "messages_hash": "f882646d1252d7dd4a3bf72da905ab464b7eab3a46380709a4ca1f18f93822d0"
+    },
+    {
+      "id": "conservatism--16204",
+      "constitution_id": "conservatism",
+      "scenario_id": "16204",
+      "messages_hash": "2f46e4033be2b8bf0e0bff350b3d8333bb64c078d91370cf99bbff55d18276d5"
+    },
+    {
+      "id": "environmental-ethics--11630",
+      "constitution_id": "environmental-ethics",
+      "scenario_id": "11630",
+      "messages_hash": "a376dce3ad757d45e8a1baf8500ccfa5d1548bd01eced8e4fc4517a8a2aa3c66"
+    },
+    {
+      "id": "islam--5070",
+      "constitution_id": "islam",
+      "scenario_id": "5070",
+      "messages_hash": "33e106c0559877eb79ecb22597ec7dda13ed31a3c493564e803aaf170221a34a"
+    },
+    {
+      "id": "judaism--37124",
+      "constitution_id": "judaism",
+      "scenario_id": "37124",
+      "messages_hash": "8685b51fa3db8132b620ac3986a2ca560cc360fcd7d8a407d4c879207d774859"
+    },
+    {
+      "id": "kantian-deontology--16264",
+      "constitution_id": "kantian-deontology",
+      "scenario_id": "16264",
+      "messages_hash": "4b24cf96e53b1925bf12d24c98df225872393be3616d4b42aaddf5ee9dc3e7af"
+    },
+    {
+      "id": "kantian-deontology--3385",
+      "constitution_id": "kantian-deontology",
+      "scenario_id": "3385",
+      "messages_hash": "0bada68e9525efc6d1a16ce2ad5b25955d98ed7fce7cc0d242419f748f54e755"
+    },
+    {
+      "id": "kindness--16204",
+      "constitution_id": "kindness",
+      "scenario_id": "16204",
+      "messages_hash": "9f6cfabe5be9ed104ca98e94e3f77ee40873dea1ae3d54b7ca9ef43c644f376d"
+    },
+    {
+      "id": "lockean-rights--3385",
+      "constitution_id": "lockean-rights",
+      "scenario_id": "3385",
+      "messages_hash": "4a038c98ed9c25a869e6c07a5f85ca872ad3857df1e9cca1bb879f0e517f3363"
+    },
+    {
+      "id": "lockean-rights--40169",
+      "constitution_id": "lockean-rights",
+      "scenario_id": "40169",
+      "messages_hash": "8f62773ae27bae77fba5587f17f290821991a589aa8933adef5b34e33032353f"
+    },
+    {
+      "id": "neo-aristotelian-virtue-ethics--16264",
+      "constitution_id": "neo-aristotelian-virtue-ethics",
+      "scenario_id": "16264",
+      "messages_hash": "2cfa0dccdce080e0bda794f57e3361d1cc4b47b8a3b33ab6d33007b74a48a377"
+    },
+    {
+      "id": "north-american-indigenous--5006",
+      "constitution_id": "north-american-indigenous",
+      "scenario_id": "5006",
+      "messages_hash": "822c49a70f7d2138aa76d5d8a85eb802f37c0ab270c59bc7b078b07167ebea45"
+    },
+    {
+      "id": "north-american-indigenous--5070",
+      "constitution_id": "north-american-indigenous",
+      "scenario_id": "5070",
+      "messages_hash": "2ea7c567d0a35e7c5985bd5465609b9886fde97d006a81a7fdfc4eb9ceabadc8"
+    },
+    {
+      "id": "rawlsian-justice--16204",
+      "constitution_id": "rawlsian-justice",
+      "scenario_id": "16204",
+      "messages_hash": "fd6b367d8fc41083620dcdcca89db721019c099155f12baefe44ffb348b52e72"
+    },
+    {
+      "id": "taoism--25416",
+      "constitution_id": "taoism",
+      "scenario_id": "25416",
+      "messages_hash": "34e83f89d5704b1f71c79bac10166dec37f06ae504c7dd31a952aaafb6e86608"
+    },
+    {
+      "id": "taoism--37124",
+      "constitution_id": "taoism",
+      "scenario_id": "37124",
+      "messages_hash": "4991113568c34d120c7ff804ff30af0076924f6427c0269cd9de680c9d714fcc"
+    },
+    {
+      "id": "taoism--40169",
+      "constitution_id": "taoism",
+      "scenario_id": "40169",
+      "messages_hash": "96dc16ee895ba2aaadf1adadb8ef63f39beb84a9168b11a42eff4a05737eb0e3"
+    },
+    {
+      "id": "taoism--46758",
+      "constitution_id": "taoism",
+      "scenario_id": "46758",
+      "messages_hash": "d3e98c07466d07b2ee0c6f4e3972aca7d17d344c69f25df033b694027d1c26e5"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "preexisting_tracked_files_unchanged": 397,
+  "new_files_scanned": 59,
+  "credential_findings": 0,
+  "tests_passed": 63,
+  "frozen_protocol_unchanged": true,
+  "original_ledger_retained": true,
+  "batch1_records_and_attempts_unchanged": true,
+  "only_batch2_executed_this_task": true,
+  "batch3_authorized": false,
+  "unknown_billing_outcomes": 3,
+  "unknown_costs_fully_charged_conservatively": true
+}

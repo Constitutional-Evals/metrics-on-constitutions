@@ -1,0 +1,99 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "STOPPED_AGAIN_AFTER_ONE_REVIEWED_RECOVERY",
+  "backup": {
+    "original_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0012-reviewed-recovery-stopped-ledger.sqlite",
+    "original_bytes": 960151552,
+    "source_sha256": "a29997df5081ec22bc43fd1d0e295e6f0e8dc3519d38041a208daaa09cc3f9ca",
+    "archive_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/objects/a29997df5081ec22bc43fd1d0e295e6f0e8dc3519d38041a208daaa09cc3f9ca.delta.gz",
+    "archive_bytes": 25926354,
+    "archive_sha256": "6fc84be218fe8fe568fb09f0ad0f809c29ffad9f7f3ed556821f543da667848d",
+    "format": "gzip-64KiB-block-delta-v1",
+    "base_recovery_metadata": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0011-ledger.sqlite.recovery.json",
+    "sqlite_integrity_check": "ok",
+    "exact_byte_restore_verified": true,
+    "all_tables": {
+      "attempts": {
+        "rows": 24381,
+        "sha256": "3dc416157e5186ee869737f215a533c5988a2757870e99ee7f62d761c46398d4"
+      },
+      "dispatch_stages": {
+        "rows": 12,
+        "sha256": "6e260119774434e0a961f17a18923d6b082e7b0d61c2fbd3305892d71a6a2aba"
+      },
+      "evaluations": {
+        "rows": 135628,
+        "sha256": "3336a05e12fa35a54cd92b6892937f43388ab29e3255445834d968d44440d108"
+      },
+      "runs": {
+        "rows": 1,
+        "sha256": "d37e8fa38b224b996bf9378d0f663cadec037bf3e9d31fa5754673a9b4f59db1"
+      },
+      "settings": {
+        "rows": 1,
+        "sha256": "681b9dab8eb5ee41daafaa788aaf33e9875b4a1e8f99e109380d1c314e120b4b"
+      },
+      "stage_attempts": {
+        "rows": 24381,
+        "sha256": "34b76cc2bee5a720a39d4400a0881a916d05c078d9db7b46c6eb4c2a526c456c"
+      },
+      "schema_sha256": "aa5d98a14abe0f193fd443d5bbc2d546616f5d7e98131161d8155595bf1eb380"
+    },
+    "retired_uncompressed_source": true,
+    "storage_scope": "Same working volume; not off-volume disaster recovery."
+  },
+  "raw_evidence_archive": {
+    "path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0012-second-stop-after-reviewed-recovery-evidence.tar.gz",
+    "sha256": "6d3850b134bb2cb9984ce3b13f86eb567d40bdc3141bf9b0c7c16aab58faedb6"
+  },
+  "curated_files_sha256": {
+    "results/granite-exploratory/batch-0012/responses.jsonl.gz": "1ed883de45e4fe39b004f0be082d79f4c9af0dcc1eae69c60deb18156636d33a",
+    "results/granite-exploratory/batch-0012/stopped-ledger-recovery.json": "f143fc03ebfa09b95d8172688f8ee6635421d57d119595c4452d5c63fb0bedab",
+    "results/granite-exploratory/batch-0012/execution-1792634601956905351.json": "8f651f4d5420ffcbf38abaf232ee2baaa672dd0490319c7e0a103e7ed8b4a024",
+    "results/granite-exploratory/batch-0012/probabilities-counterbalanced-INCOMPLETE.csv": "107825f9bf1821ba00109991a3ffe9307a06b272f79a21f469bb8bb924bf3fdf",
+    "results/granite-exploratory/batch-0012/resumption-preflight.json": "3db6221626a70a02f217d6aa9e1acb0cbf9e776f663f2b15ebdeb68fde29ecee",
+    "results/granite-exploratory/batch-0012/probabilities-order_reversed-INCOMPLETE.csv": "c50b021c3c5106228359fc9b1bf7e2f92b57778ae2434ae409bab3e3040ef571",
+    "results/granite-exploratory/batch-0012/endpoint-1792618433023343952.json": "b9a71d5a48311ec2224866c6623812181824ec2a7e731796c6b155709818028e",
+    "results/granite-exploratory/batch-0012/independent-partial-verification.json": "93c2bed4e08de47719f45c0c98baff121db768e037b3b4ed74bcdee1b2fe6b6d",
+    "results/granite-exploratory/batch-0012/summary.json": "2692ad04c22dcad8c947a982d10a1f62acb82601d38358e7b10c0218ab15b8ad",
+    "results/granite-exploratory/batch-0012/initial-stopped-attempts.json.gz": "15099dfeee9133406f03cb83fe102e95ef48f53d8b16b9314a0d29bb0b2491f1",
+    "results/granite-exploratory/batch-0012/endpoint-1792613112078583270.json": "7ddb1601a025ab003aa93ca447daf72ac4c521d0eb72f59ba9e9b46c91850607",
+    "results/granite-exploratory/batch-0012/probabilities-canonical-INCOMPLETE.csv": "f3e72b2b19509d5ecde290946c9f9de2344d0b9a66ddfdfed8af1e409345ea26",
+    "results/granite-exploratory/batch-0012/endpoint-1792631024972752491.json": "31bd7710575e05979d11008fb1043a0096808283e70eeed4ac2bc39484ea3685",
+    "results/granite-exploratory/batch-0012/endpoint-1792552640559611099.json": "7739bc5c3c3e94341fc8f2bc20899ed182ba174bf2a2693a6ba09957ddbe5957",
+    "results/granite-exploratory/batch-0012/endpoint-1792617809789126800.json": "7eaacba12cf33ae9118cbb1e23d385da23e772242d96d711e5221a3a4fcba27f",
+    "results/granite-exploratory/batch-0012/execution-1792631418766116404.json": "c709a04ff1571c46e661c61ab9c57090dcceef7780952bda5fd9c5d66f44d5ea",
+    "results/granite-exploratory/batch-0012/prior-records-postcheck.json": "fc01e0e038e18c7e92e302905a0caf556bdbfedd62baecfc4e214d4d05c5559c",
+    "results/granite-exploratory/batch-0012/endpoint-1792549221688836165.json": "f746571c1a335db70bc1b83e4b83ebdf7f423f2d75110489f869bd768538e799",
+    "results/granite-exploratory/batch-0012/endpoint-1792619010543374673.json": "0bb7e9c0a11d89cb07521019482cf4869f1b124e8db0a6ec1f6f55010b18cc66",
+    "results/granite-exploratory/batch-0012/batch-report-initial-preservation.json": "5beb89c22e158c16772cd4ddb50bca0bd5fed585ffb27bc371e4bb180d184127",
+    "results/granite-exploratory/batch-0012/execution-1792631587302207652.json": "c312e459f6e4b2591e3442260d017cd7937553fe3aed6d1b5422cabe2b63aa87",
+    "results/granite-exploratory/batch-0012/authorization.json": "051e44c2f402b1ce9b4464bf30579cb964706c75e08b21ccd5c802b9580bf030",
+    "results/granite-exploratory/batch-0012/execution-1792634451097580499.json": "9c90ccf2449edc74d3c70143191f4afd30c9f71553d98ea39e3f5ab23a763928",
+    "results/granite-exploratory/batch-0012/second-stop-ledger-recovery.json": "2c509aab530d54f980abb1c4ef184ad5239c80f48fc958681ac5eb9b48b60520",
+    "results/granite-exploratory/batch-0012/execution-1792631586820683732.json": "2a793ecd33279237e9eb75b66f736f56cf7e94ee8a4d33ebb2600f4009ae8005",
+    "results/granite-exploratory/batch-0012/execution-1792631298547055429.json": "76aabf264e7d7c318dbf8b8083ecf4c2656f8dd7308ab11250b4c9bc21938019",
+    "results/granite-exploratory/batch-0012/probabilities-labels_swapped-INCOMPLETE.csv": "18283d19edee4ecade65b3bf3a3131f67fede8435af9fcd1b611b729ddf0a093",
+    "results/granite-exploratory/batch-0012/endpoint-1792554929960526572.json": "5a1d9160f70b3ef20ea7079ac8bc068b3e9d14d7176139e3f9af10f72ebe40c2",
+    "results/granite-exploratory/batch-0012/execution-1792634451615030098.json": "f399b186548c169b39969e526e4d085006192cca5f9dad0e5218eeef5362c769",
+    "results/granite-exploratory/batch-0012/endpoint-1792599218773557621.json": "3119f98ad0637ba19e17d8fd05ca6e5cde7a2d9eda739e13798e762dd6b367d6",
+    "results/granite-exploratory/batch-0012/endpoint-1792613723274377144.json": "73c17076b0f7dc103f77280381efdd1feb9cdab25f619932049a053493da57e4",
+    "results/granite-exploratory/batch-0012/batch-report.json": "d4592e4bcc213906b5973bb469bfe87c2f1071cfbdbc6436d82e3b4adec0272a",
+    "results/granite-exploratory/batch-0012/endpoint-1792634448032189479.json": "c75497075e8e3063dccf59877d30ba310a45e8d4175f1ebb9c2293c10579efe2",
+    "results/granite-exploratory/batch-0012/execution-1792634602494449035.json": "67392032a8185825c0d39983f7c51e5a2b385033cfa38db06ea7d720a789f72e",
+    "results/granite-exploratory/batch-0012/execution-1792631180051257710.json": "b5c401c41f930aa7af6639ac4223fd639959990288e07b0406693dbcd35c8608",
+    "results/granite-exploratory/batch-0012/endpoint-1792612525436862948.json": "2e85298f3b25ed6e0e0a1da3c05214fe8c179d0eac13c0d22eda3689726494fc",
+    "results/granite-exploratory/batch-0012/CURATION-SCOPE.md": "2959e644ac3b6d6e28aebaaa3622dd880aaab464dc512716d042f07c0c4fa42f",
+    "results/granite-exploratory/batch-0012/execution-1792634450569682911.json": "8801d3ccc7ca85a5d6b474611dbebdeed11f91d27bab1da3975d7c6bee21770e",
+    "results/granite-exploratory/batch-0012/endpoint-1792606837851501684.json": "6b35e3267a1c7f75f44ba6c5a9f4d7911d29097c593a72464ac0137b81c9c63f",
+    "results/granite-exploratory/batch-0012/missing.json": "33420bdfc81d56b22b018cccbbb89e8fc0e7dfb01e9f8b0d524bcf5167f3b278",
+    "results/granite-exploratory/batch-0012/baseline-INCOMPLETE.csv": "7ff43e0d9c6ab523f5b79ed973fa38b724fc41eb92e15eafe55a4f60fb852aee",
+    "results/granite-exploratory/batch-0012/probabilities-both_reversed-INCOMPLETE.csv": "bc2ec3faad986987b5625dcc70900cfca77270ef8c35185fd3e92a8f6617942e",
+    "results/granite-exploratory/batch-0012/endpoint-1792606209645369349.json": "d7cefe0b02114fa55229b0d1274b471f354fb6c0986d26bca713b4ec045f5833",
+    "results/granite-exploratory/batch-0012/attempts.json.gz": "e8666bc87f44a79a72ccdb135776fea5d6c8cd68d8a39ba88d9078fac266a7f3",
+    "results/granite-exploratory/batch-0012/endpoint-1792553294464271973.json": "ffd95399960f3b3dabf6eb39c12e61a38e6a8393df9deb5d124c2e8479cb6814"
+  },
+  "old_stopped_evidence_preserved_separately": true,
+  "authoritative_ledger_committed": false,
+  "curation_scope_note": "Final current-view metadata distinguishes first-stop and second-stop backups; original stopped directory and raw archive snapshots retained."
+}

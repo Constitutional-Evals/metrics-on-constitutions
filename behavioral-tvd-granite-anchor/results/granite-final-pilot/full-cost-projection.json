@@ -1,0 +1,25 @@
+{
+  "estimates": {
+    "1336": {
+      "logical_constitution_scenario_pairs": 32064,
+      "canonical_calls_r1": 32064,
+      "canonical_cost_r1": 1.631738314717886,
+      "counterbalanced_calls_r1": 128256,
+      "counterbalanced_cost_r1": 6.526953258871544,
+      "counterbalanced_calls_r2": 256512,
+      "counterbalanced_cost_r2": 13.053906517743089
+    },
+    "1360": {
+      "logical_constitution_scenario_pairs": 32640,
+      "canonical_calls_r1": 32640,
+      "canonical_cost_r1": 1.6610509790541352,
+      "counterbalanced_calls_r1": 130560,
+      "counterbalanced_cost_r1": 6.644203916216541,
+      "counterbalanced_calls_r2": 261120,
+      "counterbalanced_cost_r2": 13.288407832433082
+    }
+  },
+  "matched_tokenization_ratio": 0.9928374899904961,
+  "not_authorization": true,
+  "uncertainty": "Approx±20% token extrapolation; excludes canaries,retries,pricechanges;held-outscenario approval unchanged."
+}

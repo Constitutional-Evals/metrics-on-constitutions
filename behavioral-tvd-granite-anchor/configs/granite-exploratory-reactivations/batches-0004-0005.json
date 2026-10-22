@@ -1,0 +1,33 @@
+{
+  "approved_execution_batches": [
+    4,
+    5
+  ],
+  "experiment_cap_usd": 10,
+  "frozen_run_or_dispatcher_changed": false,
+  "maximum_concurrency": 3,
+  "maximum_lifetime_attempts": 3,
+  "maximum_primary_physical_attempts_per_stage": 2000,
+  "persistent_stage_cap_usd": 1,
+  "prior_evidence_retained": [
+    "results/granite-exploratory/group-0003-0005-stop.json",
+    "configs/granite-exploratory-recoveries/batch-0003-reviewed-timeout.json",
+    "results/granite-exploratory/batch-0003-recovery/recovery-outcome.json"
+  ],
+  "reactivates_original_conditional_authorizations": {
+    "4": {
+      "path": "configs/granite-exploratory-authorizations/batch-0004.json",
+      "sha256": "540987dbfd99a0809b601f68d31b584126a0cf0face251c9f0e9cf111b98fcd8"
+    },
+    "5": {
+      "path": "configs/granite-exploratory-authorizations/batch-0005.json",
+      "sha256": "96dea42bf9a7f890925c20909cff1abdcc19112e1d2745b8d301efc62bb128a0"
+    }
+  },
+  "reviewed_base_commit": "886d53b",
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "scope": "Explicit investigator reactivation of Batches4and5ONLY after completed reviewed Batch3; original authorizations unchanged. Finish, independently verify, reconcile and back up Batch4 before Batch5. Stop group on review-requiring failures; do not reclassify future checkpoints or activate proposed upstream-error policy. NoBatch6orlater authorization.",
+  "sequential": true,
+  "starting_conservative_spending_usd": 0.308846228,
+  "subsequent_batches_authorized": false
+}

@@ -1,0 +1,35 @@
+{
+  "scope": "STOPPED_BATCH_3_INCOMPLETE_20_SCENARIO_GRID",
+  "valid_records": 1517,
+  "all_valid_request_hashes_match_frozen_plan": true,
+  "all_valid_responses_have_required_token_logs": true,
+  "maximum_independent_probability_transformation_error": 2.220446049250313e-16,
+  "counterbalanced_missing_cells": 121,
+  "no_imputation": true,
+  "full_20_scenario_A_B_C_matrices": "NOT_ESTIMABLE; no full-batch distance matrices exported",
+  "complete_case_subset_scenario_ids": [
+    "504",
+    "29070",
+    "7949",
+    "49737",
+    "25337",
+    "35127",
+    "6812",
+    "42860",
+    "29768",
+    "9796",
+    "35912",
+    "7887",
+    "26556",
+    "11132"
+  ],
+  "complete_case_subset_count": 14,
+  "subset_distance_scope": "Descriptive complete-case 14-scenario subset only; not Batch 3 or 1336-scenario experiment results. Exclusion depends on execution success, not an approved replacement scenario policy.",
+  "maximum_independent_subset_A_B_C_error": 5.551115123125783e-16,
+  "subset_mean_normalized_distances": {
+    "A_primary": 0.05173886050847232,
+    "B_secondary": 0.06614577177069374,
+    "C_canonical": 0.06728317276042663
+  },
+  "interpretation": "Granite-conditioned behavior, not established philosophical distances."
+}

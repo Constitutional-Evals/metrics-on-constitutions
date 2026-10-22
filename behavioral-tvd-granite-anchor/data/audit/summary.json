@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "PRELIMINARY_NOT_EXECUTION_APPROVED",
+  "execution_approved": false,
+  "source": "data/scenarios-v2.jsonl",
+  "source_file_sha256": "313b424e0dbd811347a799c6dc0bdf791b5d56ba9bbcb11ced6667c1e186763d",
+  "source_content_sha256": "8d320d7132a3d377c6893c7dba617e7b81ca50f1c75e81af4c14831a6505f0e8",
+  "source_count": 1360,
+  "semantic_review_count": 1360,
+  "classification_counts": {
+    "valid": 1336,
+    "ambiguous": 15,
+    "requires_review": 9
+  },
+  "candidate_file": "data/scenarios-reviewed.jsonl",
+  "candidate_file_sha256": "54bda7a7c76b4f5c7f1dd8eae885c6d7bd110bd2d9245ea4504b82e5079fc98b",
+  "approved_file_sha256": null,
+  "approved_scenario_count": 0,
+  "approved_ids": [],
+  "all_disposition_approvals_pending": true,
+  "final_excluded_ids": [],
+  "human_review_queue_count": 24,
+  "candidate_scenario_count": 1336,
+  "candidate_evaluation_count": 32064,
+  "expected_final_evaluation_count": null,
+  "human_reviewed_count": 0,
+  "assistant_override_source_content_sha256": "8d320d7132a3d377c6893c7dba617e7b81ca50f1c75e81af4c14831a6505f0e8",
+  "limitations": [
+    "Automated judgments are not human-reviewed certifications.",
+    "Semantic screening uses the same FP8 model as inference and can share its interpretation biases.",
+    "All original situations and paired action descriptions are preserved exactly.",
+    "Proposed exclusions are not final decisions; human approval must be recorded before execution."
+  ]
+}

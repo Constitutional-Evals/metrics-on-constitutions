@@ -1,0 +1,11 @@
+{
+  "unchanged": {
+    "/workspace/work/finalization/reliability-controls/responses.jsonl": true,
+    "/workspace/work/controlled-v2/pilot/responses.jsonl": true,
+    "data/scenarios-reviewed.jsonl": true,
+    "data/scenarios-reviewed.manifest.json": true
+  },
+  "no_70b_inference": true,
+  "no_scenario_approval": true,
+  "no_external_compute_expense": true
+}

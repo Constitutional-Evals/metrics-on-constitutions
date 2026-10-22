@@ -1,0 +1,23 @@
+{
+  "all_later_batches_blocked": true,
+  "approved_base_commit": "4b4e437a08775fdfc23147c4fae91bdb30061bf3",
+  "approved_execution_batches": [
+    12
+  ],
+  "do_not_execute_batches": [
+    13,
+    14
+  ],
+  "experiment_cap_usd": 10,
+  "frozen_scientific_protocol_changed": false,
+  "investigator_request_sha256": "1993c0f2d93b38eaa5ea34ec49581bf8972876c9cd784972b0a0dea8c7acb009",
+  "maximum_concurrency": 3,
+  "maximum_lifetime_attempts": 3,
+  "maximum_primary_physical_attempts": 2000,
+  "original_attempt_id": "9b4128fc0dcb469e817b209db3489378",
+  "original_attempt_sha256": "a13e3481a060d4385bb41f5d60302af89884cf696bb8868faf6b2e938b385527",
+  "persistent_batch12_cap_usd": 1,
+  "recovery_transaction_id": "174bef050b3349f7b7ccbd1b3fdb6925",
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "scope": "Exactly one reviewed invalid-to-retry logical transition for neo-aristotelian-virtue-ethics x29912 canonical; continue Batch12ONLY under original stage authorization/caps/frozen runner. Preserve failed physical attempt and full charge; six fresh resume canaries first. No Batch13,14 or later."
+}

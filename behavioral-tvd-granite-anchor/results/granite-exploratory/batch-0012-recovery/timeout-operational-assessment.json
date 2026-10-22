@@ -1,0 +1,35 @@
+{
+  "actual_external_billing_unknown": true,
+  "assessment": "Direct API cost is small; manual review/stops and latency dominate. A future explicitly reviewed and versioned narrowly scoped upstream-error-envelope handler is worth evaluating. Keep full attempt histories, conservative billing, bounded lifetime retries, and strict rejection of identity mismatches or malformed successful outputs. Not activated in this recovery.",
+  "combined_conservative_reservations_usd": 0.007349472000000001,
+  "count_now": 3,
+  "error_only_HTTP200_internal504_timeouts": [
+    {
+      "charged_usd": 0.002449824,
+      "cid": "utilitarianism",
+      "client_recorded_lifetime_seconds": 121.354437,
+      "id": "8be8073b7d154c2b9d33af2403aaf96e",
+      "replica": 1,
+      "sid": "2599"
+    },
+    {
+      "charged_usd": 0.002449824,
+      "cid": "neo-aristotelian-virtue-ethics",
+      "client_recorded_lifetime_seconds": 120.734693,
+      "id": "9b4128fc0dcb469e817b209db3489378",
+      "replica": 0,
+      "sid": "29912"
+    },
+    {
+      "charged_usd": 0.002449824,
+      "cid": "ubuntu",
+      "client_recorded_lifetime_seconds": 121.080304,
+      "id": "429eb30c2dcd4a238d3fa886fdcb7b7e",
+      "replica": 1,
+      "sid": "29912"
+    }
+  ],
+  "sum_recorded_failed_call_lifetimes_seconds": 363.169434,
+  "their_confirmed_cost_usd": 0.000585736,
+  "timeout_recovery_extra_canaries_so_far": 12
+}

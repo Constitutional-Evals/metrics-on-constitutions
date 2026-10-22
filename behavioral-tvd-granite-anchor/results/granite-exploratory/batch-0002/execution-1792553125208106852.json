@@ -1,0 +1,42 @@
+{
+  "canary_max_probability_difference": 0.0,
+  "elapsed_seconds_this_invocation": 485.4129799309958,
+  "experiment_budget": {
+    "actual_spending_usd": 0.197642009,
+    "budget_usd": 10.0,
+    "conservative_spending_usd": 0.200091833,
+    "invocation_budget_usd": 10.0,
+    "outstanding_reservations_usd": 0.004899648
+  },
+  "failed_attempts": 1,
+  "global_valid": {
+    "baseline": 160,
+    "canary": 54,
+    "primary": 3820
+  },
+  "missing": 26,
+  "new_valid_this_invocation": 2004,
+  "physical_attempts": 2007,
+  "primary_physical_attempts": 1903,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "snapshot_at": "2026-10-21T03:25:25.201401+00:00",
+  "stage": "batch-0002",
+  "stage_budget": {
+    "actual_spending_usd": 0.098145893,
+    "attempts": 2007,
+    "conservative_spending_usd": 0.100595717,
+    "outstanding_reservations_usd": 0.004899648
+  },
+  "started_at": "2026-10-21T03:17:19.757978+00:00",
+  "status": "STOPPED",
+  "stop_reasons": [
+    "IncompleteRead: IncompleteRead(0 bytes read)",
+    "IncompleteRead: IncompleteRead(55 bytes read)"
+  ],
+  "valid": {
+    "baseline": 80,
+    "canary": 24,
+    "primary": 1900
+  },
+  "valid_evaluations_per_second": 4.128443372661522
+}

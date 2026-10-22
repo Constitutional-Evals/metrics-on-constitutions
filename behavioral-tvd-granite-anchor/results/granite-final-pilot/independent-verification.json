@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "probability_matrices": 5,
+  "distance_matrices": 10,
+  "main_evaluations": 3840,
+  "all_valid_evaluations": 4336,
+  "missing": 0,
+  "maximum_independent_distance_error": 4.440892098500626e-16,
+  "valid_final_record_cost_usd_excluding_canaries_and_invalid_attempts": 0.201701168,
+  "checks": [
+    "dimensions",
+    "probability ranges",
+    "no missing",
+    "unique slots",
+    "symmetry",
+    "zero diagonal",
+    "nonnegative",
+    "sum/mean scaling",
+    "independently recomputed L1",
+    "counterbalanced probability averaging"
+  ]
+}

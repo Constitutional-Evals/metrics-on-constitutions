@@ -1,0 +1,30 @@
+{
+  "candidate": "granite3-cloudflare",
+  "scenarios": [
+    "16204",
+    "3385",
+    "5070"
+  ],
+  "constitutions": 24,
+  "valid_cells": 72,
+  "format_compliant": 72,
+  "input_token_range": [
+    2571,
+    3728
+  ],
+  "probability_range": [
+    0.08509904558710156,
+    0.5621765008857981
+  ],
+  "per_scenario_constitution_spread": {
+    "16204": 0.28219119753805133,
+    "3385": 0.23572224224995192,
+    "5070": 0.3976600359410584
+  },
+  "unique_vectors": 24,
+  "summed_distance_range": [
+    0.011341147557038855,
+    0.7785316755498033
+  ],
+  "interpretation": "Format adherence and probability sensitivity are evidence of operational suitability, not proof of faithful ethical reasoning; only3 scenarios."
+}

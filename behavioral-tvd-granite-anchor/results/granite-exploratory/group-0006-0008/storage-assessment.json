@@ -1,0 +1,10 @@
+{
+  "current_completed_ledger_snapshot_bytes": 650342400,
+  "excludes_extra_operational_raw_git_and_archive_growth": true,
+  "free_bytes": 19123089408,
+  "historical_backups_deleted_or_overwritten": false,
+  "projected_additional_full_before_after_snapshot_bytes_next_10": 20756684800.0,
+  "projected_additional_full_before_after_snapshot_bytes_next_5": 8440883200.0,
+  "recent_snapshot_growth_bytes_per_batch": 77498368.0,
+  "recommendation": "Five-batch group fits current observed storage with headroom; ten full before/after snapshot pairs exceed current free storage before extra evidence growth. Plan archival/additional capacity or an explicitly reviewed backup-storage strategy before subsequent groups; do not delete historical evidence silently."
+}
