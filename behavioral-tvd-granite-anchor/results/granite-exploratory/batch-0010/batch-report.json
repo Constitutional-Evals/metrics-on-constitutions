@@ -1,0 +1,83 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "stage": "batch-0010",
+  "status": "COMPLETE",
+  "valid": {
+    "primary": 1920,
+    "baseline": 80,
+    "canary": 30
+  },
+  "physical_attempts": 2030,
+  "failed_attempts": 0,
+  "unknown_billing_attempts": 0,
+  "http_status_counts": {
+    "200": 2030
+  },
+  "failure_reasons": {},
+  "unresolved_evaluations": 0,
+  "primary_physical_attempts": 1920,
+  "stage_budget": {
+    "attempts": 2030,
+    "actual_spending_usd": 0.09938054,
+    "conservative_spending_usd": 0.09938054,
+    "outstanding_reservations_usd": 0.0
+  },
+  "experiment_budget": {
+    "actual_spending_usd": 0.995553976,
+    "conservative_spending_usd": 1.005353272,
+    "outstanding_reservations_usd": 0.0,
+    "budget_usd": 10.0,
+    "invocation_budget_usd": 10.0
+  },
+  "cost_of_valid_records_usd": 0.09938054,
+  "remaining": {
+    "primary": 109056,
+    "baseline": 4544,
+    "canary": 1710
+  },
+  "remaining_batches": 57,
+  "elapsed_seconds": 485.70831769799406,
+  "valid_evaluations_per_second": 4.179463118155252,
+  "primary_evaluations_per_second": 3.9529897472207307,
+  "mean_attempt_latency_seconds": 0.6726833078817734,
+  "estimated_remaining_inference_seconds_at_observed_rate": 31202.038921170428,
+  "estimated_remaining_cost_usd_at_observed_token_usage": 5.707342016077549,
+  "estimated_total_cost_usd": 6.712695288077549,
+  "projection_limitations": "Approx\u00b120% token/throughput variation plus task startup overhead, throttling and price changes; not a guarantee or later-batch authorization.",
+  "canary_max_conditional_probability_difference": 0.0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "canary_max_log_odds_difference": 0.0,
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 2030
+  },
+  "provider_counts": {
+    "Cloudflare": 2030
+  },
+  "minimum_binary_mass": 0.9982597714257161,
+  "sampled_format_violations": 0,
+  "later_batch_authorized": true,
+  "checkpoint": "Authoritative SQLite transaction/WAL/FULL; stable experiment run+task keys; no valid evaluation recomputed.",
+  "projection_basis": "Cumulative usage and conservative failed-attempt charges; scheduled canaries exclude separately counted resume canaries.",
+  "next_batch_in_authorized_group": 11,
+  "group_authorization_path": "configs/granite-exploratory-authorizations/groups/batches-0009-0011.json",
+  "first_unauthorized_batch": 12,
+  "no_later_group_authorization": true,
+  "scheduled_canaries": 30,
+  "adaptive_resume_canaries": 0,
+  "aggregate_active_dispatch_seconds": 5496.277986010005,
+  "aggregate_valid_evaluations_per_second": 3.6955918262688514,
+  "cumulative_confirmed_spending_usd": 0.995553976,
+  "cumulative_conservative_spending_usd": 1.005353272,
+  "binary_mass_quantiles": {
+    "min": 0.9982597714257161,
+    "q25": 0.9996380894983937,
+    "median": 0.9997719414283841,
+    "q75": 0.9998622376822411,
+    "max": 0.9999955473612071
+  },
+  "binary_mass_below_0_9": 0,
+  "maximum_independent_probability_error": 2.220446049250313e-16,
+  "prompt_tokens_reported_by_responses": 5832540,
+  "completion_tokens_reported_by_responses": 2030,
+  "all_attempt_billing_usage_known": true
+}

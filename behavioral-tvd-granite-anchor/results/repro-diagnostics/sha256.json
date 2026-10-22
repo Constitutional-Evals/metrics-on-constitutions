@@ -1,0 +1,14 @@
+{
+  "architecture.json": "20744405f5b974e8b7bfbf52f415503b59f4db6e0cf058ab1c1f0d7a2f395b33",
+  "earlier-anomaly-generation-metadata.json": "49f92ccd19e189f8403d5411177bd16204f7b56a8fb294580d10a6df692b6af3",
+  "earlier-anomaly-raw.json": "35391d8e1f90e78d469622dd44684fb2648484b24c6cf02a5940597695edca3c",
+  "evaluations.csv": "8ee3e3f8183129c785ed51db4213e5eb18fe77758c6fb261491745785346bb2e",
+  "partial-distance-sensitivity.json": "e6d3386ace6291f8c116579a45708838d008dde61cc3d790b1ddbdcbee6592f1",
+  "prior-preservation.json": "c6409b681d61e0c48b3f088f882a032fce5e9b0cf19dbdaef95118c665bd2b10",
+  "raw-evidence.jsonl.gz": "79da70e7779fb51cdb78a773544493d3ab7ca51410487840d8223ed63778d708",
+  "repeat-groups.csv": "9f667afdec7eee16e7b048b9a9875a6340f727f6c8daa0ec4ea2fdbc0d4b7175",
+  "selection.json": "a31f12ea2b564da7124549ce620d1b48ee91321d7e36c956d445f02ba2cf28eb",
+  "study-manifests.json.gz": "0af9af4cbaf1d203af9e7d8d1c7ae2d4ac99381bd8d280d5408b766e31a7d505",
+  "summary.json": "cf3763b6e4e8bc592c3243c15079f3b636c49ab0eeefe5d350ec8c7fa8aaa243",
+  "tests.txt": "3b7f67b272bf9b13ec771d8cb609bff1235984ecda434c6808a288e490109adf"
+}

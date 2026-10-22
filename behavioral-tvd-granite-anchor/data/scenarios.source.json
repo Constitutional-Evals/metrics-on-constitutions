@@ -1,0 +1,11 @@
+{
+  "dataset": "kellycyy/daily_dilemmas",
+  "config": "Dilemmas_with_values_aggregated",
+  "split": "test",
+  "text_column": "dilemma_situation",
+  "source_rows": 2720,
+  "rows": 1360,
+  "deduplication_key": "dilemma_idx",
+  "content_sha256": "22b2b2b9d13030ff5379e378b1dfcaffeea5d33cfbfd37e4c56e45a3b36357ec",
+  "downloaded_at": "2026-10-20T18:10:03.512372+00:00"
+}

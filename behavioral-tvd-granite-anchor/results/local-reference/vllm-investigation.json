@@ -1,0 +1,22 @@
+{
+  "status": "experimental export validator only; no vLLM engine executed",
+  "model": "meta-llama/Llama-3.3-70B-Instruct",
+  "source_review_date": "2026-10-20",
+  "source_hashes": {
+    "engine_args.py": "088fca139afc0a7f3b39e2e73daf47ccb74fcfab6242a36a55bc404eae884651",
+    "reproducibility.md": "51ffc15353c0bc7cf3ff11fdc16027b45e783b967d731193eb1e7e79164eada3",
+    "batch_invariance.md": "b7a1cdc8a4102c9273f1e9ea118bba6e96988517eaffb686bdc0e1d62133f869",
+    "model_config.py": "07cf2f7f8f774d5c147fbf470f2ce3bd99fbcfa359f9e8f6fa90a6a5d10094e0"
+  },
+  "sources": [
+    "https://github.com/vllm-project/vllm/blob/main/vllm/config/model.py",
+    "https://docs.vllm.ai/en/stable/usage/reproducibility/",
+    "https://docs.vllm.ai/en/stable/features/batch_invariance/"
+  ],
+  "findings": [
+    "Current upstream source supports raw_logits, raw_logprobs, processed_logits, processed_logprobs; raw is pre logits processors.",
+    "No proof these features are present in an arbitrary installed release. Pin and inspect the actual GPU build.",
+    "Batch invariance tested-model list names Llama 3.1 and 3.2, not this exact 3.3 70B configuration.",
+    "No hardware validation or reference equivalence claim; no automatic selection of vLLM."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "api_requests": 0,
+  "prior_batches_and_attempts_unchanged": true,
+  "only_modified_prior_file": [
+    "results/granite-exploratory/PROGRESS.md"
+  ],
+  "frozen_protocol_unchanged": true,
+  "secret_scanned_new_or_changed_files": 66,
+  "reserved_or_inflight": 0,
+  "ledger_not_in_git": true
+}

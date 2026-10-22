@@ -1,0 +1,727 @@
+{
+  "mistral31-cloudflare": {
+    "model": "mistralai/mistral-small-3.1-24b-instruct",
+    "provider": "cloudflare",
+    "quantization_advertised": "unknown",
+    "context": 128000,
+    "pricing_usd_per_million": {
+      "prompt": 0.351,
+      "completion": 0.5549999999999999
+    },
+    "valid_responses": 0,
+    "screen_valid": 0,
+    "screen_middle_ids": [],
+    "screen_saturated": 0,
+    "format_compliant": 0,
+    "known_valid_cost": 0,
+    "estimated_32064_uncached_usd": null,
+    "estimated_32640_uncached_usd": null,
+    "phases": {}
+  },
+  "nemo12-ionet": {
+    "model": "mistralai/mistral-nemo",
+    "provider": "io-net/fp16",
+    "quantization_advertised": "fp16",
+    "context": 128000,
+    "pricing_usd_per_million": {
+      "prompt": 0.016560000000000002,
+      "completion": 0.0216
+    },
+    "valid_responses": 126,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "aboriginal-australian--5070",
+      "care-ethics--16264",
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "islam--5070",
+      "judaism--37124",
+      "kantian-deontology--16264",
+      "kantian-deontology--3385",
+      "kindness--16204",
+      "lockean-rights--3385",
+      "lockean-rights--40169",
+      "north-american-indigenous--5006",
+      "north-american-indigenous--5070",
+      "rawlsian-justice--16204",
+      "taoism--25416",
+      "taoism--37124",
+      "taoism--40169",
+      "taoism--46758"
+    ],
+    "screen_saturated": 0,
+    "format_compliant": 123,
+    "known_valid_cost": 0.00417149064,
+    "estimated_32064_uncached_usd": 1.610933155834609,
+    "estimated_32640_uncached_usd": 1.6398720748016977,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 49,
+        "groups": 19,
+        "max_probability_range": 0.05443015582376404,
+        "median_probability_range": 0.009240868295362525,
+        "max_log_odds_range": 0.2499999701976776,
+        "nonidentical_groups": 12,
+        "tolerance_fail_groups": 10
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.07970372164017892,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.3750000298023224,
+        "nonidentical_groups": 8,
+        "tolerance_fail_groups": 7
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.010433523285641672,
+      "max": 0.028181069318965024
+    }
+  },
+  "llama3-cloudflare": {
+    "model": "meta-llama/llama-3.2-3b-instruct",
+    "provider": "cloudflare",
+    "quantization_advertised": "unknown",
+    "context": 80000,
+    "pricing_usd_per_million": {
+      "prompt": 0.0509,
+      "completion": 0.335
+    },
+    "valid_responses": 0,
+    "screen_valid": 0,
+    "screen_middle_ids": [],
+    "screen_saturated": 0,
+    "format_compliant": 0,
+    "known_valid_cost": 0,
+    "estimated_32064_uncached_usd": null,
+    "estimated_32640_uncached_usd": null,
+    "phases": {}
+  },
+  "llama8-core": {
+    "model": "meta-llama/llama-3.1-8b-instruct",
+    "provider": "coreweave/bf16",
+    "quantization_advertised": "bf16",
+    "context": 131072,
+    "pricing_usd_per_million": {
+      "prompt": 0.22,
+      "completion": 0.22
+    },
+    "valid_responses": 134,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "aboriginal-australian--5070",
+      "care-ethics--16264",
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "islam--5070",
+      "judaism--37124",
+      "kantian-deontology--16264",
+      "kantian-deontology--3385",
+      "kindness--16204",
+      "lockean-rights--3385",
+      "lockean-rights--40169",
+      "neo-aristotelian-virtue-ethics--16264",
+      "north-american-indigenous--5006",
+      "north-american-indigenous--5070",
+      "rawlsian-justice--16204",
+      "taoism--25416",
+      "taoism--37124",
+      "taoism--40169",
+      "taoism--46758"
+    ],
+    "screen_saturated": 0,
+    "format_compliant": 134,
+    "known_valid_cost": 0.08493804,
+    "estimated_32064_uncached_usd": 21.22919744,
+    "estimated_32640_uncached_usd": 21.610560268263473,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.030490099068271603,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.12500006705522537,
+        "nonidentical_groups": 9,
+        "tolerance_fail_groups": 7
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.030490099068271603,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.125,
+        "nonidentical_groups": 4,
+        "tolerance_fail_groups": 2
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.004639681301041873,
+      "max": 0.019263688976133064
+    }
+  },
+  "llama8-novita": {
+    "model": "meta-llama/llama-3.1-8b-instruct",
+    "provider": "novita/fp8",
+    "quantization_advertised": "fp8",
+    "context": 16384,
+    "pricing_usd_per_million": {
+      "prompt": 0.02,
+      "completion": 0.049999999999999996
+    },
+    "valid_responses": 134,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "aboriginal-australian--5070",
+      "care-ethics--16264",
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "islam--5070",
+      "judaism--37124",
+      "kantian-deontology--16264",
+      "kantian-deontology--3385",
+      "kindness--16204",
+      "lockean-rights--3385",
+      "lockean-rights--40169",
+      "neo-aristotelian-virtue-ethics--16264",
+      "north-american-indigenous--5006",
+      "north-american-indigenous--5070",
+      "rawlsian-justice--16204",
+      "taoism--25416",
+      "taoism--37124",
+      "taoism--40169",
+      "taoism--46758"
+    ],
+    "screen_saturated": 0,
+    "format_compliant": 134,
+    "known_valid_cost": 0.00772566,
+    "estimated_32064_uncached_usd": 1.9308889599999999,
+    "estimated_32640_uncached_usd": 1.965575588023952,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.12387598771715619,
+        "median_probability_range": 0.022384863279110045,
+        "max_log_odds_range": 0.5000000596046448,
+        "nonidentical_groups": 16,
+        "tolerance_fail_groups": 14
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.0912499726712031,
+        "median_probability_range": 0.022384863279110045,
+        "max_log_odds_range": 0.3750000596046448,
+        "nonidentical_groups": 17,
+        "tolerance_fail_groups": 16
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.012019967947313918,
+      "max": 0.05671937446731523
+    }
+  },
+  "qwen30-deka": {
+    "model": "qwen/qwen3-30b-a3b-instruct-2507",
+    "provider": "dekallm",
+    "quantization_advertised": "unknown",
+    "context": 262144,
+    "pricing_usd_per_million": {
+      "prompt": 0.09,
+      "completion": 0.3
+    },
+    "valid_responses": 0,
+    "screen_valid": 0,
+    "screen_middle_ids": [],
+    "screen_saturated": 0,
+    "format_compliant": 0,
+    "known_valid_cost": 0,
+    "estimated_32064_uncached_usd": null,
+    "estimated_32640_uncached_usd": null,
+    "phases": {}
+  },
+  "mistral24-parasail": {
+    "model": "mistralai/mistral-small-3.2-24b-instruct",
+    "provider": "parasail/bf16",
+    "quantization_advertised": "bf16",
+    "context": 131072,
+    "pricing_usd_per_million": {
+      "prompt": 0.09,
+      "completion": 0.3
+    },
+    "valid_responses": 11,
+    "screen_valid": 10,
+    "screen_middle_ids": [
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "islam--5070",
+      "kantian-deontology--3385",
+      "lockean-rights--3385",
+      "north-american-indigenous--5006",
+      "rawlsian-justice--16204",
+      "taoism--25416",
+      "taoism--40169"
+    ],
+    "screen_saturated": 0,
+    "format_compliant": 11,
+    "known_valid_cost": 0.00261655,
+    "estimated_32064_uncached_usd": 8.774539818884833,
+    "estimated_32640_uncached_usd": 8.932166282697136,
+    "phases": {
+      "probe-recovery": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "screen": {
+        "valid": 10,
+        "groups": 10,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    }
+  },
+  "gemma27-nextbit": {
+    "model": "google/gemma-3-27b-it",
+    "provider": "nextbit/fp8",
+    "quantization_advertised": "fp8",
+    "context": 131072,
+    "pricing_usd_per_million": {
+      "prompt": 0.08,
+      "completion": 0.35
+    },
+    "valid_responses": 134,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "kindness--16204",
+      "lockean-rights--3385"
+    ],
+    "screen_saturated": 13,
+    "format_compliant": 134,
+    "known_valid_cost": 0.01864098,
+    "estimated_32064_uncached_usd": 7.499996126879125,
+    "estimated_32640_uncached_usd": 7.63472659622426,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.0010156829351928751,
+        "median_probability_range": 1.740787322785376e-06,
+        "max_log_odds_range": 4.499999880789119,
+        "nonidentical_groups": 11,
+        "tolerance_fail_groups": 11
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.6706012074263018,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 5.499999988824129,
+        "nonidentical_groups": 9,
+        "tolerance_fail_groups": 7
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.011868249647629307,
+      "max": 0.2235337358087673
+    }
+  },
+  "granite8-core": {
+    "model": "ibm-granite/granite-4.2-8b",
+    "provider": "coreweave/bf16",
+    "quantization_advertised": "bf16",
+    "context": 131072,
+    "pricing_usd_per_million": {
+      "prompt": 0.09999999999999999,
+      "completion": 0.15
+    },
+    "valid_responses": 134,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "kantian-deontology--3385",
+      "kindness--16204",
+      "north-american-indigenous--5006",
+      "taoism--25416",
+      "taoism--40169"
+    ],
+    "screen_saturated": 5,
+    "format_compliant": 134,
+    "known_valid_cost": 0.0231676,
+    "estimated_32064_uncached_usd": 9.729668471355968,
+    "estimated_32640_uncached_usd": 9.90445293491326,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.030967127512041892,
+        "median_probability_range": 1.2987553588139633e-08,
+        "max_log_odds_range": 0.2500000963918865,
+        "nonidentical_groups": 12,
+        "tolerance_fail_groups": 9
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.001666171928628322,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.2499999781139195,
+        "nonidentical_groups": 6,
+        "tolerance_fail_groups": 2
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.00152424867034399,
+      "max": 0.010322375837347297
+    }
+  },
+  "granite3-cloudflare": {
+    "model": "ibm-granite/granite-4.0-h-micro",
+    "provider": "cloudflare",
+    "quantization_advertised": "unknown",
+    "context": 131000,
+    "pricing_usd_per_million": {
+      "prompt": 0.017,
+      "completion": 0.112
+    },
+    "valid_responses": 326,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "aboriginal-australian--5070",
+      "care-ethics--16264",
+      "conservatism--16204",
+      "environmental-ethics--11630",
+      "islam--5070",
+      "judaism--37124",
+      "kantian-deontology--16264",
+      "kantian-deontology--3385",
+      "kindness--16204",
+      "lockean-rights--3385",
+      "lockean-rights--40169",
+      "neo-aristotelian-virtue-ethics--16264",
+      "north-american-indigenous--5006",
+      "north-american-indigenous--5070",
+      "rawlsian-justice--16204",
+      "taoism--37124",
+      "taoism--40169",
+      "taoism--46758"
+    ],
+    "screen_saturated": 0,
+    "format_compliant": 326,
+    "known_valid_cost": 0.016053283,
+    "estimated_32064_uncached_usd": 1.6309917347688137,
+    "estimated_32640_uncached_usd": 1.6602909874892116,
+    "phases": {
+      "confirm-c1": {
+        "valid": 30,
+        "groups": 6,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "confirm-c2": {
+        "valid": 30,
+        "groups": 6,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "confirm-s1": {
+        "valid": 30,
+        "groups": 6,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "confirm-s2": {
+        "valid": 30,
+        "groups": 6,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "coverage24x3": {
+        "valid": 72,
+        "groups": 72,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-sequential": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.0,
+      "max": 0.0
+    }
+  },
+  "qwen80-google": {
+    "model": "qwen/qwen3-next-80b-a3b-instruct",
+    "provider": "google-vertex/global",
+    "quantization_advertised": "unknown",
+    "context": 262144,
+    "pricing_usd_per_million": {
+      "prompt": 0.15,
+      "completion": 1.2
+    },
+    "valid_responses": 133,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "kantian-deontology--3385",
+      "taoism--40169"
+    ],
+    "screen_saturated": 12,
+    "format_compliant": 133,
+    "known_valid_cost": 0.0574821,
+    "estimated_32064_uncached_usd": 14.466731306265013,
+    "estimated_32640_uncached_usd": 14.72661270697636,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.11700218530204098,
+        "median_probability_range": 0.0001556603960291349,
+        "max_log_odds_range": 1.2500002589076762,
+        "nonidentical_groups": 19,
+        "tolerance_fail_groups": 18
+      },
+      "repeat-sequential": {
+        "valid": 56,
+        "groups": 19,
+        "max_probability_range": 0.5931471028354031,
+        "median_probability_range": 0.0011309905398084515,
+        "max_log_odds_range": 4.000000083819031,
+        "nonidentical_groups": 17,
+        "tolerance_fail_groups": 17
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.01106083480625296,
+      "max": 0.1730317417282405
+    }
+  },
+  "qwen80-parasail": {
+    "model": "qwen/qwen3-next-80b-a3b-instruct",
+    "provider": "parasail/fp8",
+    "quantization_advertised": "fp8",
+    "context": 262144,
+    "pricing_usd_per_million": {
+      "prompt": 0.09999999999999999,
+      "completion": 1.1
+    },
+    "valid_responses": 133,
+    "screen_valid": 19,
+    "screen_middle_ids": [
+      "kantian-deontology--3385",
+      "taoism--40169"
+    ],
+    "screen_saturated": 11,
+    "format_compliant": 133,
+    "known_valid_cost": 0.02885398,
+    "estimated_32064_uncached_usd": 9.65410673751001,
+    "estimated_32640_uncached_usd": 9.827533804650907,
+    "phases": {
+      "probe": {
+        "valid": 1,
+        "groups": 1,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      },
+      "repeat-concurrent": {
+        "valid": 57,
+        "groups": 19,
+        "max_probability_range": 0.16888208946319105,
+        "median_probability_range": 9.441558464696543e-05,
+        "max_log_odds_range": 2.0000001268053893,
+        "nonidentical_groups": 18,
+        "tolerance_fail_groups": 18
+      },
+      "repeat-sequential": {
+        "valid": 56,
+        "groups": 19,
+        "max_probability_range": 0.16888208946319105,
+        "median_probability_range": 1.966295836422e-06,
+        "max_log_odds_range": 2.0000001268053893,
+        "nonidentical_groups": 16,
+        "tolerance_fail_groups": 15
+      },
+      "screen": {
+        "valid": 19,
+        "groups": 19,
+        "max_probability_range": 0.0,
+        "median_probability_range": 0.0,
+        "max_log_odds_range": 0.0,
+        "nonidentical_groups": 0,
+        "tolerance_fail_groups": 0
+      }
+    },
+    "concurrency_mean_difference": {
+      "mean": 0.009897740627303007,
+      "max": 0.056294029821063685
+    }
+  }
+}

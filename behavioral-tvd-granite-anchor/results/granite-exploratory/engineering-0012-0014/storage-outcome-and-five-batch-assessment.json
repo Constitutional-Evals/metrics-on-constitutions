@@ -1,0 +1,62 @@
+{
+  "status": "INFERENCE_STOPPED_MANUAL_REVIEW",
+  "disk_current": {
+    "total": 33770192896,
+    "used": 8907505664,
+    "free": 23127924736
+  },
+  "authoritative_ledger_bytes": 952602624,
+  "working_tree_bytes": 1844335000,
+  "backup_tree_bytes": 1225366966,
+  "net_volume_growth_since_initial_preflight_bytes": 205504512,
+  "historical_measured_growth": [
+    {
+      "stage": 9,
+      "complete": true,
+      "ledger_increment_bytes": 77443072,
+      "delta_archive_bytes": 24654664,
+      "working_stage_bytes": 74758146,
+      "curated_stage_bytes": 19153598
+    },
+    {
+      "stage": 10,
+      "complete": true,
+      "ledger_increment_bytes": 77402112,
+      "delta_archive_bytes": 25345845,
+      "working_stage_bytes": 74678391,
+      "curated_stage_bytes": 19534316
+    },
+    {
+      "stage": 11,
+      "complete": true,
+      "ledger_increment_bytes": 77549568,
+      "delta_archive_bytes": 25747081,
+      "working_stage_bytes": 74711851,
+      "curated_stage_bytes": 20065119
+    },
+    {
+      "stage": 12,
+      "complete": false,
+      "ledger_increment_bytes": 69865472,
+      "delta_archive_bytes": 24056564,
+      "working_stage_bytes": 67442688,
+      "curated_stage_bytes": 17430356
+    }
+  ],
+  "five_batch_forecast": {
+    "inference_authorized": false,
+    "persistent_growth_bound_bytes": 1750000000,
+    "two_full_temporary_SQLite_copies_bound_bytes": 2905205248,
+    "WAL_analysis_and_sort_allowance_bytes": 1000000000,
+    "additional_peak_bound_bytes": 5655205248,
+    "required_free_margin_bytes": 2000000000,
+    "projected_free_at_peak_bytes": 17472719488,
+    "storage_gate_would_pass": true,
+    "basis": "Measured recent complete-stage ledger growth ~77.5MB, raw working files ~75MB, and incremental archives ~24MB; retain larger per-stage bounds 100/100/50/50/50MB, including Git/evidence. Partial Batch12 is explicitly marked, not assumed complete.",
+    "recommendation": "Capacity supports five batches, but manual stop blocks every further inference. Review and recover Batch12 alone first under a new explicit scope; after successful recovery/checks, a five-batch sequential group is reasonable with repeated storage and integrity gates."
+  },
+  "backup_chain_restoration_and_all_tables_verified": true,
+  "same_volume_backup_not_independent_disaster_recovery": true,
+  "no_history_or_chain_dependencies_deleted": true,
+  "no_new_storage_service_used": true
+}

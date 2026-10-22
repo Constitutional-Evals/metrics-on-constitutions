@@ -1,0 +1,39 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "stage": "batch-0010",
+  "started_at": "2026-10-21T21:33:51.940181+00:00",
+  "snapshot_at": "2026-10-21T21:41:57.686857+00:00",
+  "status": "COMPLETE",
+  "valid": {
+    "primary": 1920,
+    "baseline": 80,
+    "canary": 30
+  },
+  "missing": 0,
+  "stop_reasons": [],
+  "elapsed_seconds_this_invocation": 485.70831769799406,
+  "new_valid_this_invocation": 2030,
+  "valid_evaluations_per_second": 4.179463118155252,
+  "stage_budget": {
+    "attempts": 2030,
+    "actual_spending_usd": 0.09938054,
+    "conservative_spending_usd": 0.09938054,
+    "outstanding_reservations_usd": 0.0
+  },
+  "experiment_budget": {
+    "actual_spending_usd": 0.995553976,
+    "conservative_spending_usd": 1.005353272,
+    "outstanding_reservations_usd": 0.0,
+    "budget_usd": 10.0,
+    "invocation_budget_usd": 10.0
+  },
+  "global_valid": {
+    "baseline": 800,
+    "canary": 312,
+    "primary": 19200
+  },
+  "physical_attempts": 2030,
+  "failed_attempts": 0,
+  "primary_physical_attempts": 1920,
+  "canary_max_probability_difference": 0.0
+}

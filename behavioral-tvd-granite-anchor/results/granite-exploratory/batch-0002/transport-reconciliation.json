@@ -1,0 +1,56 @@
+{
+  "after_budget": {
+    "actual_spending_usd": 0.197642009,
+    "budget_usd": 10.0,
+    "conservative_spending_usd": 0.204991481,
+    "invocation_budget_usd": 10.0,
+    "outstanding_reservations_usd": 0.0
+  },
+  "after_stage_budget": {
+    "actual_spending_usd": 0.098145893,
+    "attempts": 2007,
+    "conservative_spending_usd": 0.105495365,
+    "outstanding_reservations_usd": 0.0
+  },
+  "authorization_basis": "Existing approved transient-network retry and manual in-flight reconciliation policy; Batch2only.",
+  "before_budget": {
+    "actual_spending_usd": 0.197642009,
+    "budget_usd": 10.0,
+    "conservative_spending_usd": 0.200091833,
+    "invocation_budget_usd": 10.0,
+    "outstanding_reservations_usd": 0.004899648
+  },
+  "before_stage_budget": {
+    "actual_spending_usd": 0.098145893,
+    "attempts": 2007,
+    "conservative_spending_usd": 0.100595717,
+    "outstanding_reservations_usd": 0.004899648
+  },
+  "inference_code_unchanged": true,
+  "operation": "Existing Ledger.settle to retry, response=None, full reserve retained as conservative charge; no invented probability, response, HTTP status, or actual cost.",
+  "protocol_unchanged": true,
+  "reason": "Two IncompleteRead exceptions left reservations unsettled after frozen dispatcher exit. Exclusive experiment lock acquired; no client requests remain in flight.",
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "settled_attempts": [
+    {
+      "charged_nanos": 2449824,
+      "cid": "neo-aristotelian-virtue-ethics",
+      "condition_index": 0,
+      "id": "f36568e91d904201be55b10c22c7a1dd",
+      "maximum_remaining_attempts": 2,
+      "prior_attempt_count": 1,
+      "sid": "43764"
+    },
+    {
+      "charged_nanos": 2449824,
+      "cid": "judaism",
+      "condition_index": 3,
+      "id": "303f830275aa4720919ea9df735ac28a",
+      "maximum_remaining_attempts": 2,
+      "prior_attempt_count": 1,
+      "sid": "5570"
+    }
+  ],
+  "stage": "batch-0002",
+  "transport_error_bytecounts_not_attributed_to_specific_attempts": true
+}

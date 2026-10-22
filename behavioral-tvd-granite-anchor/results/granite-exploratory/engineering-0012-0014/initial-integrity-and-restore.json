@@ -1,0 +1,35 @@
+{
+  "authentication": {
+    "http_status": 200,
+    "inference_requests": 0,
+    "succeeded": true
+  },
+  "backup_chain_dependencies_verified": true,
+  "base_commit": "72ead075ee76cb6a0691828a528084b753c1df58",
+  "complete_scenarios": 220,
+  "comprehensive_all_11_batches_evaluations_and_attempt_archives_verified": true,
+  "confirmed_spending_usd": 1.094968516,
+  "conservative_spending_usd": 1.104767812,
+  "failed_attempts": 8,
+  "frozen_manifest_inputs_and_source_hashes_verified": true,
+  "global_cap_usd": 10,
+  "inference_requests": 0,
+  "latest_backup_archive_sha256": "7482e3ac746763384bb909ee907d7cb35472bb6e84eeed8ffa653fa48b4f7b7f",
+  "latest_backup_exact_byte_restore_and_all_tables_match": true,
+  "latest_backup_source_sha256": "1fbdfe5c6a031d6ca8fad08faf30728ca110519f10c475f0e204fd2651435d13",
+  "original_batch3_failure_and_all_recovery_evidence_unchanged": true,
+  "outstanding_reservations": 0,
+  "physical_attempts": 22350,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "runtime_status_limitation": "Status tool reported unknown network/secret setup state; actual authenticated GET /key succeeded. No readiness was inferred from unknown metadata.",
+  "settled_unknown_billing_attempts": 4,
+  "tests": {
+    "count": 77,
+    "status": "PASS"
+  },
+  "valid": {
+    "baseline": 880,
+    "canary": 342,
+    "primary": 21120
+  }
+}

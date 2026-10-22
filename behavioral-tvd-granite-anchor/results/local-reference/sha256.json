@@ -1,0 +1,12 @@
+{
+  "dry-run19.json": "2d53eda1e388fd5eca898b69825344f0feea999efcbafc7f7bfa7d807e304d6c",
+  "dry-run480.json": "260440fc87256236d7b4c7528e0f4227d36d551cf745fdbe876955a681c2cbcf",
+  "feasibility.json": "824273cef5722e2e761088480303a57587e354641c1b2d76a5d826e084c86c68",
+  "fixture-configuration-comparisons.json": "39c450d932ff24843a9ca2288ae5fd5b3de87ef3e869359635e673b7597ec8b6",
+  "fixture-evidence.jsonl.gz": "aef9d04080ce0451a196c8ed817500024cdcef86ab413af08e2f54e9efe0b92c",
+  "integration-summary.json": "636d6ce618bf969016ec384f824725f7ec81f3865de3cdd37853a617241fc235",
+  "preservation.json": "503af64b66ac660b9254e60b84197ed0a496bf10846ac5f0d47861afeb307762",
+  "software-lock.txt": "a46a77952e7a302f21e65f780a5332e4e2ee46e79ac4d42d73c0b34a0ae9dcdd",
+  "tests.txt": "88eb8a725f35d402e631a3d63207488cd703e2902b778a5e44268b83df0faa9a",
+  "vllm-investigation.json": "2faaed6c3ab35b340d1a17b75169056ec51d5433541b7aca260ba9c2a3ecad5b"
+}

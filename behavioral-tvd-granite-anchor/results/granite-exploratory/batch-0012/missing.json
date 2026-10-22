@@ -1,0 +1,65 @@
+[
+  {
+    "pair": [
+      "ubuntu",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "invalid"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c00",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c01",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c02",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c03",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c04",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c05",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  }
+]

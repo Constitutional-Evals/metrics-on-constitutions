@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "scope": "BATCH_1_ONLY",
+  "scenario_count": 20,
+  "complete_request_hash_matches": 2030,
+  "maximum_independent_A_B_C_error": 4.440892098500626e-16,
+  "experiment_cap_usd": 10,
+  "stage_cap_usd": 1,
+  "max_attempts_observed_for_one_task": 2,
+  "registered_stages": [
+    "batch-0001"
+  ],
+  "no_inflight_reservations": true,
+  "later_stages_dispatched": false,
+  "api_requests_for_verification": 0
+}

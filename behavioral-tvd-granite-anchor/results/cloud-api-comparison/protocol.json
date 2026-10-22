@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "budget_usd": 1,
+  "screen_data": "data/local-validation/diagnostic19.json",
+  "screen_sha256": "7056b7b70b071b76fe063618771681187834cb3f8bad9909904a60325b612766",
+  "selection": "Fixed original 19 pairs:13 intermediate Llama70B pilot cases plus6 extreme controls; new candidate-specific screen probabilities do not alter main repeat set.",
+  "screen_repeats": 1,
+  "main_repeats_per_condition": 3,
+  "main_workers": [
+    1,
+    3
+  ],
+  "main_inference": {
+    "temperature": 1,
+    "top_p": 1,
+    "max_tokens": 1,
+    "logprobs": true,
+    "top_logprobs": 20,
+    "seed": "absent",
+    "reasoning": "explicitly disabled only for Granite4.2 reasoning model"
+  },
+  "provisional_reliability_criteria": {
+    "max_probability_range": 0.001,
+    "max_log_odds_range": 0.01
+  },
+  "potential_confirmatory_followup": "Prefer candidates passing initial repeatability. Before followup, freeze6 pairs using screen probabilities:4 closest to0.5 plus low/high tails (deduplicated); use sequential/concurrent/concurrent/sequential blocks with5 repeats/pair/block. All24 constitutions on3 fixed existing dilemmas for1\u20132 finalists. Additional measurements remain under same$1 ledger.",
+  "no_automatic_fallback": true,
+  "automatic_retries": 0,
+  "error_handling": "One explicit retry for each initial429 capability failure; later429 preserved with conservative unknown charge, no blanket retries.",
+  "cost_projection": "Scale prior96.464M input-token estimate by observed matched-prompt tokenization ratio; output1 token/evaluation; uncached price, approximate \u00b120%, excludes retries; report32640 full-library and32064 unapproved-candidate scenarios separately.",
+  "interpretation": "Catalog claims are not live capability proofs; all valid measurements require literal0/1 finite token logs. Non-digit sampled output is recorded as a separate instruction-format failure, never a probability proxy.",
+  "discovery_extensions": {
+    "rationale": "Cloudflare Granite3B stable; test another Cloudflare model (Llama3.2 3B), higher-capacity Cloudflare MistralSmall3.1 24B, and cheap FP16 MistralNeMo12B onIoNet. Fixed19-pair dataset and parameters retained. No prior experimental configurations changed.",
+    "candidates": [
+      "llama3-cloudflare",
+      "nemo12-ionet",
+      "mistral31-cloudflare"
+    ],
+    "potential_second_finalist_followup": "If MistralSmall3.1 passes main screen/repeats, perform6 fixed confirmation pairs in alternatingS/C/C/S blocks and24x3 coverage within remaining shared budget."
+  }
+}

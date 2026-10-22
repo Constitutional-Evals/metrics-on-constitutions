@@ -1,0 +1,60 @@
+{
+  "all_new_canary_probability_and_raw_log_deviations_zero": true,
+  "all_prior_measurements_attempts_and_recovery_evidence_unchanged": true,
+  "all_valid_identity_metadata_matches_requested_model_provider": true,
+  "all_valid_responses_have_both_genuine_label_token_logs": true,
+  "approved_batches": [
+    6,
+    7,
+    8
+  ],
+  "batch9_or_later_authorized": false,
+  "batch9_or_later_dispatched": false,
+  "completed_batches": [
+    6,
+    7,
+    8
+  ],
+  "cumulative_active_dispatch_seconds": 4471.452016101008,
+  "cumulative_confirmed_spending_usd": 0.796682396,
+  "cumulative_conservative_spending_usd": 0.806481692,
+  "cumulative_scenarios": 160,
+  "cumulative_valid": {
+    "baseline": 640,
+    "canary": 252,
+    "primary": 15360
+  },
+  "disjoint_mean_absolute_distance_difference": 0.00750283230314465,
+  "disjoint_nearest_neighbor_agreement_count": 10,
+  "estimated_final_cost_usd": 6.730059505093202,
+  "estimated_remaining_active_seconds": 32842.55643379137,
+  "estimated_remaining_cost_usd": 5.9235778130932015,
+  "frozen_scientific_or_inference_code_changed": false,
+  "historical_unknown_billing_outcomes_preserved": 4,
+  "new_active_dispatch_seconds": 1612.7870489320048,
+  "new_confirmed_spending_usd": 0.298574426,
+  "new_conservative_spending_usd": 0.298574426,
+  "new_failed_attempts": 2,
+  "new_physical_attempts": 6092,
+  "new_unknown_billing_outcomes": 0,
+  "new_valid": {
+    "baseline": 240,
+    "canary": 90,
+    "primary": 5760
+  },
+  "next_group_recommendation": "Five batches are reasonable with explicit new authorization, the same gates and stop rules, and storage headroom checks. Ten are not recommended with current full-snapshot storage. This record does not authorize any later batch.",
+  "no_inflight_or_reserved_requests": true,
+  "persistent_stage_cap_usd": 1,
+  "primary_disjoint_80_vs_80_spearman": 0.7919242019948345,
+  "primary_nested_140_to_160_spearman": 0.9903106405445128,
+  "recovery_actions": "Two HTTP200 logprobs:null responses in Batch6, each resolved by one unchanged-policy retry; no manual reclassification or reconciliation. No failures in Batch7or8.",
+  "remaining": {
+    "baseline": 4704,
+    "canary": 1770,
+    "primary": 112896
+  },
+  "remaining_batches": 59,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "COMPLETE_STOPPED_AFTER_BATCH_8",
+  "unchanged_global_cap_usd": 10
+}

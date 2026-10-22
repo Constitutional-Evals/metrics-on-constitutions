@@ -1,0 +1,204 @@
+{
+  "run_id": "49c4da383eac48e1d9a70247b796f30085825c2e7f6ff67558d71f2355c8eb3a",
+  "counts": {
+    "valid_all": 4336,
+    "main": 3840,
+    "no_constitution_daily": 160,
+    "diagnostic": 336
+  },
+  "quality_checks": {
+    "missing": 0,
+    "probabilities_in_range": true,
+    "maximum_main_repeat_difference": 0.0,
+    "maximum_baseline_repeat_difference": 0.0,
+    "maximum_diagnostic_repeat_difference": 0.0,
+    "distance_symmetry": true,
+    "zero_diagonals": true,
+    "nonnegative_distances": true,
+    "counterbalanced_not_average_distances": true,
+    "maximum_jensen_gap": 0.04520807834917648
+  },
+  "effects": {
+    "label": {
+      "mean_signed": 0.293718331527388,
+      "mean_absolute": 0.29520710478500917,
+      "median_absolute": 0.3166927108399773,
+      "maximum_absolute": 0.7589164980231826,
+      "fraction_absolute_gt_0.05": 0.8916666666666667,
+      "fraction_absolute_gt_0.10": 0.8,
+      "signed_mean_dilemma_cluster_bootstrap_95": [
+        0.22524049917536018,
+        0.364078070037571
+      ]
+    },
+    "order": {
+      "mean_signed": 0.11756747075575767,
+      "mean_absolute": 0.18596846113963247,
+      "median_absolute": 0.18005940744819796,
+      "maximum_absolute": 0.4704077127166103,
+      "fraction_absolute_gt_0.05": 0.8020833333333334,
+      "fraction_absolute_gt_0.10": 0.7020833333333333,
+      "signed_mean_dilemma_cluster_bootstrap_95": [
+        0.036377745700026366,
+        0.19289168010002267
+      ]
+    },
+    "interaction": {
+      "mean_signed": 0.26900759407928676,
+      "mean_absolute": 0.3079975844861851,
+      "median_absolute": 0.24929109454826467,
+      "maximum_absolute": 0.9286419444238345,
+      "fraction_absolute_gt_0.05": 0.8395833333333333,
+      "fraction_absolute_gt_0.10": 0.7375,
+      "signed_mean_dilemma_cluster_bootstrap_95": [
+        0.1544242322271575,
+        0.38727752662777726
+      ]
+    },
+    "cell_condition_std_mean": 0.20317984068225986,
+    "cell_condition_range_mean": 0.4965975647890016,
+    "cell_condition_range_max": 0.9305265789506578,
+    "mean_within_cell_between_condition_absolute_change": 0.2704289807964616,
+    "mean_canonical_between_constitution_distance": 0.08496251460902716,
+    "ratio_within_prompt_effect_to_between_constitution_distance": 3.1829211039821184,
+    "exploratory_size_category": "large",
+    "category_thresholds": "Exploratory heuristic:ratio<.1 negligible,.1–.5 moderate,>=.5 large; report continuous values."
+  },
+  "distance_comparison": {
+    "correlations": {
+      "canonical": {
+        "canonical": {
+          "pearson": 1.0,
+          "spearman": 1.0
+        },
+        "labels_swapped": {
+          "pearson": 0.40744731443712884,
+          "spearman": 0.4155728371455887
+        },
+        "order_reversed": {
+          "pearson": 0.7964699202499269,
+          "spearman": 0.7732652216720651
+        },
+        "both_reversed": {
+          "pearson": 0.4198293278986689,
+          "spearman": 0.36372939883848693
+        },
+        "counterbalanced": {
+          "pearson": 0.8756277769922887,
+          "spearman": 0.8621926056991196
+        }
+      },
+      "labels_swapped": {
+        "canonical": {
+          "pearson": 0.40744731443712884,
+          "spearman": 0.4155728371455887
+        },
+        "labels_swapped": {
+          "pearson": 0.9999999999999999,
+          "spearman": 1.0
+        },
+        "order_reversed": {
+          "pearson": 0.277446988854768,
+          "spearman": 0.3139498580214324
+        },
+        "both_reversed": {
+          "pearson": 0.22490473021646157,
+          "spearman": 0.21217105920292234
+        },
+        "counterbalanced": {
+          "pearson": 0.6299267176010279,
+          "spearman": 0.6303739958048543
+        }
+      },
+      "order_reversed": {
+        "canonical": {
+          "pearson": 0.796469920249927,
+          "spearman": 0.7732652216720651
+        },
+        "labels_swapped": {
+          "pearson": 0.277446988854768,
+          "spearman": 0.3139498580214324
+        },
+        "order_reversed": {
+          "pearson": 1.0,
+          "spearman": 1.0
+        },
+        "both_reversed": {
+          "pearson": 0.3118879341521118,
+          "spearman": 0.25128237325380637
+        },
+        "counterbalanced": {
+          "pearson": 0.8255194466607244,
+          "spearman": 0.7931604857236627
+        }
+      },
+      "both_reversed": {
+        "canonical": {
+          "pearson": 0.41982932789866895,
+          "spearman": 0.36372939883848693
+        },
+        "labels_swapped": {
+          "pearson": 0.2249047302164616,
+          "spearman": 0.21217105920292234
+        },
+        "order_reversed": {
+          "pearson": 0.3118879341521118,
+          "spearman": 0.25128237325380637
+        },
+        "both_reversed": {
+          "pearson": 1.0,
+          "spearman": 1.0
+        },
+        "counterbalanced": {
+          "pearson": 0.511704324243317,
+          "spearman": 0.4912150226166864
+        }
+      },
+      "counterbalanced": {
+        "canonical": {
+          "pearson": 0.8756277769922888,
+          "spearman": 0.8621926056991196
+        },
+        "labels_swapped": {
+          "pearson": 0.629926717601028,
+          "spearman": 0.6303739958048543
+        },
+        "order_reversed": {
+          "pearson": 0.8255194466607244,
+          "spearman": 0.7931604857236627
+        },
+        "both_reversed": {
+          "pearson": 0.511704324243317,
+          "spearman": 0.4912150226166864
+        },
+        "counterbalanced": {
+          "pearson": 1.0,
+          "spearman": 1.0
+        }
+      }
+    },
+    "canonical_mean": 0.08496251460902716,
+    "counterbalanced_mean": 0.07530833373093021,
+    "canonical_range": [
+      0.025759517779603898,
+      0.22606663438231883
+    ],
+    "counterbalanced_range": [
+      0.03518915089448749,
+      0.15315241172891356
+    ],
+    "mean_absolute_change": 0.014466864810450819,
+    "maximum_absolute_change": 0.08374593673828237,
+    "nearest_neighbor_overlap_constitutions": 8,
+    "mean_top3_jaccard_tie_aware": 0.38749999999999996
+  },
+  "fidelity": {
+    "full_prediction_correct": 8,
+    "prediction_count": 12,
+    "full_high_confidence_correct": 6,
+    "full_high_confidence_count": 8,
+    "mean_signed_normative_shift_from_baseline_full": 0.041147575982695715,
+    "interpretation": "Assistant-generated hypotheses and posthoc DailyDilemmas interpretation, not human-reviewed truth; report all failures and ambiguities."
+  },
+  "statistics_notes": "Correlations/rankings descriptive:276 constitution pairs not independent. Effects95%CIs resample20dilemma clusters, retaining24constitutions together;5000draws seed20261022. Fixed selected pilot, not population evidence. Ranks tie-rounded12decimals; probabilities/distances not rounded."
+}

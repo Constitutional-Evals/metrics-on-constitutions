@@ -1,0 +1,1784 @@
+[
+  {
+    "pair": [
+      "aboriginal-australian",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "aboriginal-australian",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "maori",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "maori",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "invalid"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "29912",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "29912",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "29912",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "29912",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "29912",
+      3
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "24577",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "24577",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "24577",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "lockean-rights",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "maori",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "secular-humanism",
+      "24577",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "24577",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "24577",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "24577",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "utilitarianism",
+      "24577",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "24577",
+      2
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "aboriginal-australian",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "lockean-rights",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "lockean-rights",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "secular-humanism",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "secular-humanism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "45811",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "45811",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "45811",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "45811",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "45811",
+      2
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "aboriginal-australian",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "31148",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "31148",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "31148",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "maori",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "secular-humanism",
+      "31148",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "31148",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "utilitarianism",
+      "31148",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "utilitarianism",
+      "31148",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "31148",
+      0
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "31148",
+      3
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buddhism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "buen-vivir",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "care-ethics",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "christianity",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "confucianism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "conservatism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "environmental-ethics",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "hinduism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "islam",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "judaism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kantian-deontology",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "kindness",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "lockean-rights",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "marxism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "neo-aristotelian-virtue-ethics",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "33890",
+      0
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "north-american-indigenous",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "rawlsian-justice",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "secular-humanism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "stoicism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "taoism",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "ubuntu",
+      "33890",
+      3
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "utilitarianism",
+      "33890",
+      1
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "utilitarianism",
+      "33890",
+      2
+    ],
+    "kind": "primary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__baseline__",
+      "33890",
+      3
+    ],
+    "kind": "baseline",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c00",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c01",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c02",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c03",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c04",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  },
+  {
+    "pair": [
+      "__canary__",
+      "b0012-r04-c05",
+      0
+    ],
+    "kind": "canary",
+    "state": "pending"
+  }
+]

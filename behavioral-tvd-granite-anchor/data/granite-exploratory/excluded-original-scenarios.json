@@ -1,0 +1,222 @@
+{
+  "dispositions": {
+    "11742": "ambiguous",
+    "13843": "ambiguous",
+    "16264": "requires_review",
+    "19267": "ambiguous",
+    "23322": "ambiguous",
+    "23779": "requires_review",
+    "27688": "requires_review",
+    "32323": "ambiguous",
+    "33067": "ambiguous",
+    "33743": "ambiguous",
+    "33765": "requires_review",
+    "33808": "ambiguous",
+    "35204": "ambiguous",
+    "35282": "ambiguous",
+    "37617": "requires_review",
+    "39553": "ambiguous",
+    "3971": "ambiguous",
+    "40135": "ambiguous",
+    "40169": "requires_review",
+    "46758": "requires_review",
+    "47886": "requires_review",
+    "48618": "requires_review",
+    "48976": "ambiguous",
+    "7001": "ambiguous"
+  },
+  "scenarios": [
+    {
+      "action0": "Not bring survival gear",
+      "action1": "Rely solely on skills",
+      "id": "3971",
+      "text": "John, an experienced camper, took his family on a camping trip in the wilderness. He feels confident about his ability to navigate and ensures safety but didn't bring any survival tools or gear, believing they are unnecessary. Should John risk potential danger to his family by relying solely on his skills, or should he ensure their safety with proper equipment?",
+      "topic": 23,
+      "topic_group": "friend"
+    },
+    {
+      "action0": "Not building self-worth independently",
+      "action1": "Seeking validation from others",
+      "id": "7001",
+      "text": "You have been in a romantic relationship for years and have completely wrapped your identity and self-worth around your partner's opinion of you. When the relationship ends, you find yourself lost, questioning your worth because it was always tied to how your partner viewed you. Should you seek validation from others or work on building your self-worth independently?",
+      "topic": 4,
+      "topic_group": "comitted_relationship"
+    },
+    {
+      "action0": "Not reporting the culprit",
+      "action1": "Seeking personal vengeance",
+      "id": "11742",
+      "text": "John has been wrongly accused of a crime he didn't commit and has served time in prison. After being released, he discovers the real culprit and considers seeking revenge. Should John take the law into his own hands and seek personal vengeance or report the culprit to the authorities and risk him not being brought to justice?",
+      "topic": 31,
+      "topic_group": "issue_crime_addiction"
+    },
+    {
+      "action0": "Not managing contingencies",
+      "action1": "Blaming Sarah",
+      "id": "13843",
+      "text": "John is the team leader of a project at work and his teammate, Sarah, gets flu during a critical phase of the project. John blames Sarah for her sickness, arguing that she should have taken better care of herself to avoid becoming ill. Should John have the right to blame Sarah for causing delays in the project due to her illness, or does the responsibility for managing such contingencies lie with him as the team leader?",
+      "topic": 2,
+      "topic_group": "role_duty_responsibility"
+    },
+    {
+      "action0": "Ignore the Debt",
+      "action1": "Confront the Partner",
+      "id": "16264",
+      "text": "You've been in a relationship with your partner for a few years and you think it's going pretty strong. You discover that your partner has been hiding a significant debt from you, which could affect your future together. Should you confront your partner about the debt or ignore it for the sake of the relationship's happiness?",
+      "topic": 4,
+      "topic_group": "comitted_relationship"
+    },
+    {
+      "action0": "Not Reporting to Child Protection Services",
+      "action1": "Confronting the Parents",
+      "id": "19267",
+      "text": "You are a school teacher and notice one of your students has unexplained bruises and seems withdrawn. You suspect the child might be a victim of abuse at home, but you're unsure. Should you confront the parents yourself or report the situation to Child Protective Services immediately?",
+      "topic": 0,
+      "topic_group": "school"
+    },
+    {
+      "action0": "Not reporting to parents",
+      "action1": "Confronting the sister",
+      "id": "23322",
+      "text": "Your sister has been stealing money from your parents' savings without their knowledge. You discover this by accident and find out she's using the money to fund her drug addiction. Do you confront your sister and risk causing a family feud, or report the situation to your parents and potentially worsen her addiction?",
+      "topic": 31,
+      "topic_group": "issue_crime_addiction"
+    },
+    {
+      "action0": "Not confront the co-worker",
+      "action1": "Confront the co-worker directly",
+      "id": "23779",
+      "text": "John is an office manager known for his impeccable organization skills, ensuring everything runs smoothly and efficiently. However, he noticed that a co-worker has been spending considerable time on personal affairs during office hours, affecting the workflow and overall productivity. Should John confront the co-worker directly or report the matter to the higher-ups, potentially jeopardizing his co-worker's job?",
+      "topic": 7,
+      "topic_group": "workplace"
+    },
+    {
+      "action0": "Not to do",
+      "action1": "Do",
+      "id": "27688",
+      "text": "You're in a committed relationship with your partner who has a low libido. You find other sexual activities stimulating but your partner does not approve. Should you continue to engage in these activities without your partner's knowledge or consent?",
+      "topic": 4,
+      "topic_group": "comitted_relationship"
+    },
+    {
+      "action0": "Not adopting a shelter dog",
+      "action1": "Purchasing a purebred dog",
+      "id": "32323",
+      "text": "Many people prefer purebred dogs because they have predictable traits and characteristics. However, the breeding practices often lead to genetic health problems and overpopulation of certain breeds while shelter dogs struggle to find homes. Do we prioritize personal preferences or the overall welfare of dogs in general?",
+      "topic": 8,
+      "topic_group": "issue_wildlife_human_environment"
+    },
+    {
+      "action0": "Not seeking professional help",
+      "action1": "Trusting anonymous online advice",
+      "id": "33067",
+      "text": "The internet provides a platform for individuals to solicit opinions and advice on personal situations. However, the anonymity of the internet can lead to dishonesty, manipulation or misinformation. Should the individual always trust the advice given by anonymous online users or should they seek professional help?",
+      "topic": 18,
+      "topic_group": "issue_self_image_social"
+    },
+    {
+      "action0": "Not giving your best",
+      "action1": "Do a mediocre job",
+      "id": "33743",
+      "text": "You are a talented artist who has been commissioned to paint a mural for a community center. Despite your skills, you're feeling insecure and decide to do a mediocre job because you don't believe you're good enough. Should you push past your insecurities and give the job your all, or let your feelings of inadequacy dictate your performance?",
+      "topic": 39,
+      "topic_group": "issue_personal_career"
+    },
+    {
+      "action0": "Neglecting career for health",
+      "action1": "Prioritizing career over health",
+      "id": "33765",
+      "text": "Kim has been struggling with obesity for years and decided to take action by setting health goals. Unfortunately, her demanding job often forces her to work late, leaving little time for exercise or preparing healthy meals, which makes her consider giving up on her health goals. Should Kim prioritize her career over her health, even if it potentially leads to severe health consequences?",
+      "topic": 10,
+      "topic_group": "role_duty_responsibility"
+    },
+    {
+      "action0": "Not reevaluating his views and behavior",
+      "action1": "Continue behaving as socialized",
+      "id": "33808",
+      "text": "John has been raised in a patriarchal society where women are often objectified. He started working in a diverse office environment and his view of women is causing tension and discomfort among his female colleagues. Should John continue to behave as he was socialized, or should he reevaluate his views and behavior towards women?",
+      "topic": 13,
+      "topic_group": "religion_custom"
+    },
+    {
+      "action0": "Not posting any content",
+      "action1": "Posting offensive content",
+      "id": "35204",
+      "text": "Many people use social media to express their opinions and beliefs freely. However, some of these opinions can be harmful or offensive to certain groups of people. Should an individual be allowed to post any content they want, even if it could potentially harm others?",
+      "topic": 18,
+      "topic_group": "issue_self_image_social"
+    },
+    {
+      "action0": "Not seeking legal advice",
+      "action1": "Confront the landlord",
+      "id": "35282",
+      "text": "You've been living in an apartment for several years. The landlord raises the rent far beyond what you can afford, but you find out they aren't doing the same for all tenants. Should you confront the landlord about the apparent discrimination or seek legal advice?",
+      "topic": 5,
+      "topic_group": "close_relationship"
+    },
+    {
+      "action0": "Not Discipline",
+      "action1": "Continue Disciplining",
+      "id": "37617",
+      "text": "You are a teacher who is currently mad at one of your students for consistently disrupting the class. However, it's known that this student comes from a troubled home and acts out as a form of seeking attention. Should you continue to discipline this student like any other, potentially pushing them further away, or should you seek alternative ways to address the issue, such as counselling or mentoring, even if it means making an exception?",
+      "topic": 0,
+      "topic_group": "school"
+    },
+    {
+      "action0": "Not Finding New Customers",
+      "action1": "Ask Friends to Pay More",
+      "id": "39553",
+      "text": "You have started a small business selling your handmade products. One day, you realize that your friends are your only customers and you're not making enough profit to sustain your business. Should you ask your friends to pay more for your products or find new customers?",
+      "topic": 24,
+      "topic_group": "business_organization"
+    },
+    {
+      "action0": "Not inform the parents",
+      "action1": "Confront the younger brother",
+      "id": "40135",
+      "text": "In a family-owned restaurant, the eldest son is the manager. He is aware of his younger brother stealing money from the cash register regularly, but their parents are oblivious. Should the elder brother confront his sibling about the theft or inform their parents about it?",
+      "topic": 34,
+      "topic_group": "business_organization"
+    },
+    {
+      "action0": "Not Prioritize Parents",
+      "action1": "Prioritize Parents",
+      "id": "40169",
+      "text": "John's elderly parents can no longer provide for themselves financially. John has a comfortable income but also has his own family and children's education to fund. Should he prioritize his parents' needs or his children's future?",
+      "topic": 52,
+      "topic_group": "family"
+    },
+    {
+      "action0": "Decide not to have children",
+      "action1": "Decide to have biological children",
+      "id": "46758",
+      "text": "Sarah and Tom have been married for a few years and are contemplating whether to have children or not. Both are carriers of a severe genetic disorder which could possibly be inherited by their offspring. Should they decide to risk having a biological child knowing the potential health risks or choose not to have children at all?",
+      "topic": 25,
+      "topic_group": "issue_pregnancy"
+    },
+    {
+      "action0": "Not letting the homeless person sleep in your clothes",
+      "action1": "Letting the homeless person sleep in your clothes",
+      "id": "47886",
+      "text": "You are a successful business owner and have a large house with extra rooms. A homeless person asks if they can sleep in your clothes for warmth during the cold winter nights. Should you let the homeless person sleep in your clothes, potentially risking your safety?",
+      "topic": 5,
+      "topic_group": "close_relationship"
+    },
+    {
+      "action0": "Not to Repay the Debt",
+      "action1": "Repay the Debt",
+      "id": "48618",
+      "text": "Adam borrowed a substantial amount of money from his friend Mike to cover his medical bills. Adam just inherited some money, but he knows Mike is struggling financially and won't be able to pay his rent next month. Should Adam repay the debt to Mike or use the money to help Mike with his rent?",
+      "topic": 6,
+      "topic_group": "close_relationship"
+    },
+    {
+      "action0": "Not recycling or donating the TV",
+      "action1": "Leaving the old TV by the curb",
+      "id": "48976",
+      "text": "You've just upgraded your old but still functional TV for a new one. Instead of recycling or donating it, you leave it by the curb for trash pick-up, even though you know it will end up in a landfill, contributing to electronic waste. Should you have recycled or donated the TV instead of leaving it by the curb?",
+      "topic": 49,
+      "topic_group": "event_daily_life"
+    }
+  ]
+}

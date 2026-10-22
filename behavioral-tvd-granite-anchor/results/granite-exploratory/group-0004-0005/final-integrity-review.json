@@ -1,0 +1,27 @@
+{
+  "all_preexisting_tracked_files_unchanged_except_current_progress_page": true,
+  "all_stage_caps_usd": 1,
+  "api_requests": 0,
+  "automated_tests": {
+    "failed": 0,
+    "passed": 63
+  },
+  "batch4_and_batch5_independent_backups_hash_verified": true,
+  "batch6_authorized": false,
+  "frozen_model_provider_prompts_probabilities_and_sources_unchanged": true,
+  "new_attempts": 4061,
+  "no_prior_valid_logical_evaluation_recomputed": true,
+  "no_unsettled_attempts_or_missing_completed_evaluations": true,
+  "original_batch3_failed_attempt_and_charge_unchanged": true,
+  "original_global_cap_usd": 10,
+  "prior_batches_1_through_4_rows_attempts_and_batch_files_unchanged": true,
+  "registered_stages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "PASS"
+}

@@ -1,0 +1,67 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "stage": "batch-0002",
+  "status": "COMPLETE",
+  "valid": {
+    "primary": 1920,
+    "baseline": 80,
+    "canary": 36
+  },
+  "physical_attempts": 2039,
+  "failed_attempts": 3,
+  "unknown_billing_attempts": 3,
+  "http_status_counts": {
+    "200": 2036,
+    "None": 2,
+    "502": 1
+  },
+  "failure_reasons": {
+    "HTTP transport IncompleteRead; dispatcher exited; response/billing unknown; full original reservation charged conservatively; remaining approved attempts only.": 2,
+    "HTTP 502": 1
+  },
+  "unresolved_evaluations": 0,
+  "primary_physical_attempts": 1923,
+  "stage_budget": {
+    "attempts": 2039,
+    "actual_spending_usd": 0.099736308,
+    "conservative_spending_usd": 0.10708578,
+    "outstanding_reservations_usd": 0.0
+  },
+  "experiment_budget": {
+    "actual_spending_usd": 0.199232424,
+    "conservative_spending_usd": 0.206581896,
+    "outstanding_reservations_usd": 0.0,
+    "budget_usd": 10.0,
+    "invocation_budget_usd": 10.0
+  },
+  "cost_of_valid_records_usd": 0.099736308,
+  "remaining": {
+    "primary": 124416,
+    "baseline": 5184,
+    "canary": 1944
+  },
+  "remaining_batches": 65,
+  "elapsed_seconds": 12.708806371003448,
+  "valid_evaluations_per_second": 2.517939062555202,
+  "primary_evaluations_per_second": 151.07634375331213,
+  "mean_attempt_latency_seconds": 0.8568129220205983,
+  "estimated_remaining_inference_seconds_at_observed_rate": 52242.725789602424,
+  "estimated_remaining_cost_usd_at_observed_token_usage": 6.453415934430603,
+  "estimated_total_cost_usd": 6.659997830430603,
+  "projection_limitations": "Approx\u00b120% token/throughput variation plus task startup overhead, throttling and price changes; not a guarantee or later-batch authorization.",
+  "canary_max_conditional_probability_difference": 0.0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "canary_max_log_odds_difference": 0.0,
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 2036
+  },
+  "provider_counts": {
+    "Cloudflare": 2036
+  },
+  "minimum_binary_mass": 0.9982521493669547,
+  "sampled_format_violations": 0,
+  "prompt_tokens_all_attempts": 5853428,
+  "completion_tokens_all_attempts": 2036,
+  "later_batch_authorized": false,
+  "checkpoint": "Authoritative SQLite transaction/WAL/FULL; stable experiment run+task keys; no valid evaluation recomputed."
+}

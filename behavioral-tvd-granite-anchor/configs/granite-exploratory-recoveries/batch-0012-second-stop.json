@@ -1,0 +1,13 @@
+{
+  "all_later_batches_blocked": true,
+  "do_not_execute_batches": [
+    13,
+    14
+  ],
+  "new_checkpoint_reclassification_authorized": false,
+  "new_failed_attempt_id": "429eb30c2dcd4a238d3fa886fdcb7b7e",
+  "new_failed_attempt_sha256": "21e4b4075c4032f070423ba4c4d6700a7fc72b98e073af2849248fa5847427ee",
+  "reviewed_target_recovered": true,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "STOPPED_NEW_MANUAL_REVIEW_REQUIRED"
+}

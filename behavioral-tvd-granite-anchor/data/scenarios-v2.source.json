@@ -1,0 +1,17 @@
+{
+  "dataset": "kellycyy/daily_dilemmas",
+  "config": "Dilemmas_with_values_aggregated",
+  "split": "test",
+  "source_rows": 2720,
+  "rows": 1360,
+  "content_sha256": "8d320d7132a3d377c6893c7dba617e7b81ca50f1c75e81af4c14831a6505f0e8",
+  "retained_fields": [
+    "id",
+    "text",
+    "action1",
+    "action0",
+    "topic_group",
+    "topic"
+  ],
+  "source_rows_sha256": "8a050714b7593f3aaa2298b59d262989785c5c6cd79ea6fd65a21f1746fbccef"
+}

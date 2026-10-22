@@ -1,0 +1,131 @@
+{
+  "selection_rule": "all 13 pilot probabilities strictly between 0.1 and 0.9 plus lowest 3 and highest 3; ties by constitution then numeric dilemma ID",
+  "selected": [
+    {
+      "constitution_id": "aboriginal-australian",
+      "scenario_id": "5070",
+      "pilot_p": 0.2689414272294874,
+      "request_hash": "e5410481d13eff21ccded4e052b7042ae2a0acbcfe35f48b0dd7f54c41a18ed1"
+    },
+    {
+      "constitution_id": "conservatism",
+      "scenario_id": "16204",
+      "pilot_p": 0.5621765008857981,
+      "request_hash": "d7cce5ee8cb981cb1c01bbb251dac18ce1d3ecd14b9d5962877dbf7ef3933801"
+    },
+    {
+      "constitution_id": "environmental-ethics",
+      "scenario_id": "11630",
+      "pilot_p": 0.6224593312018546,
+      "request_hash": "337cfbf07d34df51fcefc363fa5f8a99b065de7879ace70a539590bf6789a80d"
+    },
+    {
+      "constitution_id": "islam",
+      "scenario_id": "5070",
+      "pilot_p": 0.14804719991116141,
+      "request_hash": "18cb1612b9b16c37cb912ccd6f486d09f6b5774f0bfe5977bde62d5c91d9a5c6"
+    },
+    {
+      "constitution_id": "kantian-deontology",
+      "scenario_id": "3385",
+      "pilot_p": 0.7772998611746911,
+      "request_hash": "e8f7679a31ece4b03621f3e9cf016d30fe38d2846a5135a2cc5d6c40ef9ad73e"
+    },
+    {
+      "constitution_id": "kindness",
+      "scenario_id": "16204",
+      "pilot_p": 0.8519528000888387,
+      "request_hash": "50bdb5950cbabb81ec3e33edd77fa4b101207960e58dc4ba4efb9d2d2707e293"
+    },
+    {
+      "constitution_id": "lockean-rights",
+      "scenario_id": "3385",
+      "pilot_p": 0.5621765008857981,
+      "request_hash": "e10e3b821c9afd0c428b213e619fbb2aad34e7b8d8d31677b6f2d122ed48c4d4"
+    },
+    {
+      "constitution_id": "lockean-rights",
+      "scenario_id": "40169",
+      "pilot_p": 0.6791786926816161,
+      "request_hash": "11faa3bfadd9ce0fd193843b0dfa800e2bbf9b2f29e16f07f70e624e80f8759e"
+    },
+    {
+      "constitution_id": "north-american-indigenous",
+      "scenario_id": "5006",
+      "pilot_p": 0.2689414272294874,
+      "request_hash": "27ca6ae5c3e252100d9254131abe0e50ac70f78a664a4a473c90ddf74a9c3d42"
+    },
+    {
+      "constitution_id": "north-american-indigenous",
+      "scenario_id": "5070",
+      "pilot_p": 0.8807970826714613,
+      "request_hash": "e6b06a7df3cb77f4acecd53c1ed470fa5e356263e414b5a0c2206f9c2be466d6"
+    },
+    {
+      "constitution_id": "rawlsian-justice",
+      "scenario_id": "16204",
+      "pilot_p": 0.7772998611746911,
+      "request_hash": "1996562c8b75a6ffde74a6ed610010abba4c0fc9ecacc6aacef2f435909f0592"
+    },
+    {
+      "constitution_id": "taoism",
+      "scenario_id": "25416",
+      "pilot_p": 0.37754066879814546,
+      "request_hash": "18f5d34a5e7b21f1e0c70100176501a8350713afc1bfd4ae787e9decaf9a9d20"
+    },
+    {
+      "constitution_id": "taoism",
+      "scenario_id": "40169",
+      "pilot_p": 0.7310585727705126,
+      "request_hash": "536fda6d08a7d6c0f06c9902519fc80f58cbdc3502549e171177a0f3d143184e"
+    },
+    {
+      "constitution_id": "taoism",
+      "scenario_id": "37124",
+      "pilot_p": 4.944450477491054e-09,
+      "request_hash": "d662bc22422bd325a0d29ccbb875640f0959412c58e1b88408fab763fab15c9a"
+    },
+    {
+      "constitution_id": "taoism",
+      "scenario_id": "46758",
+      "pilot_p": 4.944450477491054e-09,
+      "request_hash": "2bb893067bd3c485ebd1822571400bad5468cfeb97312fcfff822e98af1d6250"
+    },
+    {
+      "constitution_id": "judaism",
+      "scenario_id": "37124",
+      "pilot_p": 7.194132978569833e-09,
+      "request_hash": "0ee3826bd848a755da0daab3311085598f2db7d624c882dc9fed4d2238e3072a"
+    },
+    {
+      "constitution_id": "care-ethics",
+      "scenario_id": "16264",
+      "pilot_p": 0.999999999979793,
+      "request_hash": "27667f6a75153794950d918a298ddda52392644913e1f34666c7bcedd7ce0fe3"
+    },
+    {
+      "constitution_id": "neo-aristotelian-virtue-ethics",
+      "scenario_id": "16264",
+      "pilot_p": 0.9999999999705993,
+      "request_hash": "0b9415073046aba07f04e367c912f7d72d16ed31b4d5643f4888a3c8e3b5e763"
+    },
+    {
+      "constitution_id": "kantian-deontology",
+      "scenario_id": "16264",
+      "pilot_p": 0.9999999999622486,
+      "request_hash": "4dcdfe1592df1919788f5d995c84744dbf85ad989aa78ab4c2517b0120d422b0"
+    }
+  ],
+  "main_replicates_per_condition": 3,
+  "conditions": [
+    "seq-no-seed",
+    "conc-no-seed",
+    "seq-fixed-seed",
+    "conc-fixed-seed"
+  ],
+  "seed": 20261020,
+  "primary_concurrent_workers": 4,
+  "targeted_anomaly_replicates": 12,
+  "short_controls": 3,
+  "interpretation": "Client concurrency does not control provider-side batching, caching or traffic; seed support is advertised, not a determinism guarantee."
+}

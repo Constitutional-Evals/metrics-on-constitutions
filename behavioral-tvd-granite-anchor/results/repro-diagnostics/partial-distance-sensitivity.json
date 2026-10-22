@@ -1,0 +1,2493 @@
+{
+  "seed": 20261020,
+  "draws": 1000,
+  "measured_cells": 19,
+  "fixed_cells": 461,
+  "warning": "Sensitivity demonstration, not a confidence interval for full experiment. Three repeats only; assumes independent draws and holds 461 potentially unstable cells fixed. Sequential unseeded condition; recovery happened later.",
+  "pairs": [
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.15146847132545288,
+      "p025": 0.11838139517450838,
+      "p975": 0.1901435479664429,
+      "interval_width": 0.07176215279193451,
+      "range": 0.07176215279331133
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.1587236455463476,
+      "p025": 0.12902617292658397,
+      "p975": 0.18973458751802214,
+      "interval_width": 0.060708414591438165,
+      "range": 0.060708414591438165
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.07179482911656179,
+      "p025": 0.03812947812179461,
+      "p975": 0.09624389870878798,
+      "interval_width": 0.05811442058699337,
+      "range": 0.0611285621027962
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.11332209762769208,
+      "p025": 0.08618491774364509,
+      "p975": 0.141518857199,
+      "interval_width": 0.05533393945535492,
+      "range": 0.05533393945535492
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.16131230796218307,
+      "p025": 0.13885271583352995,
+      "p975": 0.19127735581308286,
+      "interval_width": 0.052424639979552906,
+      "range": 0.052424639979552906
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.19928057348706862,
+      "p025": 0.17299496124406466,
+      "p975": 0.22262759814973646,
+      "interval_width": 0.049632636905671795,
+      "range": 0.049632636905671795
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.09455286814715455,
+      "p025": 0.07387987634000884,
+      "p975": 0.12095923558608343,
+      "interval_width": 0.04707935924607459,
+      "range": 0.04707935924607459
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "taoism",
+      "mean_distance": 0.1870027070622528,
+      "p025": 0.16191837445852908,
+      "p975": 0.20784138519368148,
+      "interval_width": 0.0459230107351524,
+      "range": 0.0474002616397714
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.04081233669502526,
+      "p025": 0.015984637514164915,
+      "p975": 0.06162528504939548,
+      "interval_width": 0.04564064753523057,
+      "range": 0.04564064753523057
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.16539953302203914,
+      "p025": 0.14558741351826887,
+      "p975": 0.1897900885728857,
+      "interval_width": 0.044202675054616836,
+      "range": 0.044202675054616836
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.06831978794268657,
+      "p025": 0.04850766859291044,
+      "p975": 0.09271034342068138,
+      "interval_width": 0.04420267482777094,
+      "range": 0.04420267482777094
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.11785009368740804,
+      "p025": 0.09803797433765005,
+      "p975": 0.14224064916520487,
+      "interval_width": 0.04420267482755483,
+      "range": 0.04420267482755483
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.16736355464547664,
+      "p025": 0.14755143529586864,
+      "p975": 0.19175411012310753,
+      "interval_width": 0.044202674827238886,
+      "range": 0.044202674827238886
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.16772078175790833,
+      "p025": 0.1479086624083003,
+      "p975": 0.1921113372355392,
+      "interval_width": 0.044202674827238886,
+      "range": 0.044202674827238886
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.16743725874313406,
+      "p025": 0.14762513939352606,
+      "p975": 0.19182781422076495,
+      "interval_width": 0.044202674827238886,
+      "range": 0.044202674827238886
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.15960021687176784,
+      "p025": 0.1341399899977785,
+      "p975": 0.1783426648250174,
+      "interval_width": 0.044202674827238886,
+      "range": 0.044202674827238886
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.11606422621847941,
+      "p025": 0.09625210686887141,
+      "p975": 0.14045478169611028,
+      "interval_width": 0.04420267482723887,
+      "range": 0.04420267482723887
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.06932293925029041,
+      "p025": 0.049510819900682415,
+      "p975": 0.09371349472792129,
+      "interval_width": 0.04420267482723887,
+      "range": 0.04420267482723887
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.11303952398540977,
+      "p025": 0.09322740463580177,
+      "p975": 0.13743007946304064,
+      "interval_width": 0.04420267482723887,
+      "range": 0.04420267482723887
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.12168614992000898,
+      "p025": 0.10187403057040097,
+      "p975": 0.14607670539763984,
+      "interval_width": 0.04420267482723887,
+      "range": 0.04420267482723887
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.06802016196830417,
+      "p025": 0.04820804261869616,
+      "p975": 0.09241071744593503,
+      "interval_width": 0.044202674827238865,
+      "range": 0.044202674827238865
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.05358565501473392,
+      "p025": 0.02896970855738573,
+      "p975": 0.07317238338462459,
+      "interval_width": 0.04420267482723886,
+      "range": 0.04420267482723886
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "north-american-indigenous",
+      "mean_distance": 0.1665846287040705,
+      "p025": 0.1467725093544625,
+      "p975": 0.19097518418170137,
+      "interval_width": 0.04420267482723886,
+      "range": 0.04420267482723886
+    },
+    {
+      "constitution_a": "north-american-indigenous",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.11779518428050875,
+      "p025": 0.09798306493090075,
+      "p975": 0.1421857397581396,
+      "interval_width": 0.04420267482723886,
+      "range": 0.04420267482723886
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.0405037310265365,
+      "p025": 0.023422570131072726,
+      "p975": 0.06211331272526124,
+      "interval_width": 0.03869074259418851,
+      "range": 0.03869074259418851
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.22808911557282632,
+      "p025": 0.20669247378080868,
+      "p975": 0.24313824233636816,
+      "interval_width": 0.03644576855555948,
+      "range": 0.03644576855555948
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "kindness",
+      "mean_distance": 0.09132413969270871,
+      "p025": 0.0724746905174149,
+      "p975": 0.1082561336358014,
+      "interval_width": 0.035781443118386505,
+      "range": 0.035781443118386505
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.12683534845917632,
+      "p025": 0.10903312510512728,
+      "p975": 0.14407952856624717,
+      "interval_width": 0.035046403461119896,
+      "range": 0.035046403461119896
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.35074622739239014,
+      "p025": 0.33557621382499214,
+      "p975": 0.3685656538694975,
+      "interval_width": 0.03298944004450538,
+      "range": 0.03298944004450538
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.16877614090655527,
+      "p025": 0.15086102123201106,
+      "p975": 0.18327862679458173,
+      "interval_width": 0.03241760556257067,
+      "range": 0.032417605563259067
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "taoism",
+      "mean_distance": 0.33553959189953214,
+      "p025": 0.3202240113037384,
+      "p975": 0.35224715321638383,
+      "interval_width": 0.032023141912645436,
+      "range": 0.03202314246562893
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.06300735021830825,
+      "p025": 0.05180311111951037,
+      "p975": 0.08245425702762857,
+      "interval_width": 0.030651145908118196,
+      "range": 0.030651145908118196
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.1854692548015594,
+      "p025": 0.17119346899477228,
+      "p975": 0.20019091966883643,
+      "interval_width": 0.028997450674064146,
+      "range": 0.028997450674064146
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.18346403390017296,
+      "p025": 0.16686417784859767,
+      "p975": 0.19492132975227103,
+      "interval_width": 0.02805715190367336,
+      "range": 0.02805715190367336
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "kindness",
+      "mean_distance": 0.01631497777780575,
+      "p025": 0.0033424503994160205,
+      "p975": 0.031084296831732205,
+      "interval_width": 0.027741846432316183,
+      "range": 0.027741846432316183
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.08246528226224362,
+      "p025": 0.06919032530605645,
+      "p975": 0.09674980349950688,
+      "interval_width": 0.02755947819345042,
+      "range": 0.02755947819345042
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.08538423129435899,
+      "p025": 0.07210927449240415,
+      "p975": 0.09966875245900866,
+      "interval_width": 0.027559477966604518,
+      "range": 0.027559477966604518
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.1347642136912767,
+      "p025": 0.12148925688933998,
+      "p975": 0.1490487348557284,
+      "interval_width": 0.027559477966388413,
+      "range": 0.027559477966388413
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.08488378313186831,
+      "p025": 0.07160882632984342,
+      "p975": 0.09916830429591587,
+      "interval_width": 0.027559477966072457,
+      "range": 0.027559477966072457
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.08372282898395947,
+      "p025": 0.07044787218217276,
+      "p975": 0.09800735014824521,
+      "interval_width": 0.027559477966072457,
+      "range": 0.027559477966072457
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.08450253271596456,
+      "p025": 0.07122757591393966,
+      "p975": 0.09878705388001212,
+      "interval_width": 0.027559477966072457,
+      "range": 0.027559477966072457
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.03764260564829925,
+      "p025": 0.024367648846274355,
+      "p975": 0.051927126812346805,
+      "interval_width": 0.02755947796607245,
+      "range": 0.02755947796607245
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.039849754846662026,
+      "p025": 0.02657479804463713,
+      "p975": 0.05413427601070958,
+      "interval_width": 0.02755947796607245,
+      "range": 0.02755947796607245
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "marxism",
+      "mean_distance": 0.04064993381313021,
+      "p025": 0.027374977011105316,
+      "p975": 0.05493445497717776,
+      "interval_width": 0.027559477966072447,
+      "range": 0.027559477966072447
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.08528554663847357,
+      "p025": 0.07201058983644867,
+      "p975": 0.09957006780252112,
+      "interval_width": 0.027559477966072443,
+      "range": 0.027559477966072443
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "kantian-deontology",
+      "mean_distance": 0.08590586933793912,
+      "p025": 0.07263091253591422,
+      "p975": 0.10019039050198666,
+      "interval_width": 0.027559477966072443,
+      "range": 0.027559477966072443
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "maori",
+      "mean_distance": 0.08431767453202194,
+      "p025": 0.07104271772999704,
+      "p975": 0.09860219569606948,
+      "interval_width": 0.027559477966072443,
+      "range": 0.027559477966072443
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.13561631754865816,
+      "p025": 0.12234136074663327,
+      "p975": 0.1499008387127057,
+      "interval_width": 0.027559477966072443,
+      "range": 0.027559477966072443
+    },
+    {
+      "constitution_a": "kantian-deontology",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.1348271249179419,
+      "p025": 0.12155216811591703,
+      "p975": 0.14911164608198946,
+      "interval_width": 0.02755947796607243,
+      "range": 0.02755947796607243
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "islam",
+      "mean_distance": 0.13149127764619847,
+      "p025": 0.11484216481929299,
+      "p975": 0.14184897159434257,
+      "interval_width": 0.027006806775049574,
+      "range": 0.027006806775049574
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.23145428845724966,
+      "p025": 0.2195320201610682,
+      "p975": 0.24467987258893958,
+      "interval_width": 0.025147852427871376,
+      "range": 0.025147852427871376
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "islam",
+      "mean_distance": 0.3555190473853289,
+      "p025": 0.3415021443450745,
+      "p975": 0.36645198770350956,
+      "interval_width": 0.024949843358435086,
+      "range": 0.024949843358435086
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.09671375373951065,
+      "p025": 0.08447929927935105,
+      "p975": 0.10889211204995582,
+      "interval_width": 0.024412812770604767,
+      "range": 0.024412812770604767
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "taoism",
+      "mean_distance": 0.34030864694945895,
+      "p025": 0.32614617683916297,
+      "p975": 0.3501297221894216,
+      "interval_width": 0.02398354535025865,
+      "range": 0.023983545718060995
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.18782409826833799,
+      "p025": 0.18002128240230159,
+      "p975": 0.20237713175629177,
+      "interval_width": 0.02235584935399018,
+      "range": 0.02235584935399018
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "islam",
+      "mean_distance": 0.19012230010117295,
+      "p025": 0.1769996248215294,
+      "p975": 0.19795747880952325,
+      "interval_width": 0.020957853987993852,
+      "range": 0.020957853987993852
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "judaism",
+      "mean_distance": 0.012197587485668751,
+      "p025": 0.004799552326385677,
+      "p975": 0.024319433833765787,
+      "interval_width": 0.01951988150738011,
+      "range": 0.01951988150738011
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.10927268075649711,
+      "p025": 0.10187464575120816,
+      "p975": 0.12139452703174239,
+      "interval_width": 0.019519881280534224,
+      "range": 0.019519881280534224
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "islam",
+      "mean_distance": 0.05975499503315437,
+      "p025": 0.05235696002788356,
+      "p975": 0.07187684130820166,
+      "interval_width": 0.019519881280318098,
+      "range": 0.019519881280318098
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.05981671341813061,
+      "p025": 0.05241867841300979,
+      "p975": 0.07193855969301194,
+      "interval_width": 0.01951988128000215,
+      "range": 0.01951988128000215
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.04118397214813753,
+      "p025": 0.029062125873256194,
+      "p975": 0.04858200715325834,
+      "interval_width": 0.019519881280002146,
+      "range": 0.019519881280002146
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "islam",
+      "mean_distance": 0.010276417201387285,
+      "p025": 0.0028783821962664723,
+      "p975": 0.022398263476268616,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "islam",
+      "mean_distance": 0.009865076461260083,
+      "p025": 0.00246704145613927,
+      "p975": 0.021986922736141414,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "islam",
+      "mean_distance": 0.0615347528127935,
+      "p025": 0.05413671780767269,
+      "p975": 0.07365659908767483,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "islam",
+      "mean_distance": 0.011007453695039277,
+      "p025": 0.0036094186899184645,
+      "p975": 0.023129299969920608,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "marxism",
+      "mean_distance": 0.06453873439205057,
+      "p025": 0.05714069938692976,
+      "p975": 0.0766605806669319,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.010259083462990261,
+      "p025": 0.0028610484578694482,
+      "p975": 0.02238092973787159,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.06373896624760458,
+      "p025": 0.05634093124248377,
+      "p975": 0.07586081252248592,
+      "interval_width": 0.019519881280002142,
+      "range": 0.019519881280002142
+    },
+    {
+      "constitution_a": "islam",
+      "constitution_b": "maori",
+      "mean_distance": 0.10833742899035832,
+      "p025": 0.10093939398523752,
+      "p975": 0.12045927526523965,
+      "interval_width": 0.019519881280002135,
+      "range": 0.019519881280002135
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "islam",
+      "mean_distance": 0.10979453796589465,
+      "p025": 0.10239650296077385,
+      "p975": 0.12191638424077597,
+      "interval_width": 0.01951988128000212,
+      "range": 0.01951988128000212
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "taoism",
+      "mean_distance": 0.18961387373961597,
+      "p025": 0.17990357993626266,
+      "p975": 0.1985498044041581,
+      "interval_width": 0.018646224467895434,
+      "range": 0.0201234740880899
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.08682507335807876,
+      "p025": 0.07497274627161563,
+      "p975": 0.09359093639477913,
+      "interval_width": 0.0186181901231635,
+      "range": 0.0186181901231635
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.04242557866563124,
+      "p025": 0.03271363944526545,
+      "p975": 0.051077499428814475,
+      "interval_width": 0.018363859983549023,
+      "range": 0.018363859983549023
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.2355427004980564,
+      "p025": 0.22626790482675782,
+      "p975": 0.2431937923296931,
+      "interval_width": 0.016925887502935277,
+      "range": 0.016925887502935277
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.1384624395579943,
+      "p025": 0.12918764404068986,
+      "p975": 0.14611353131677923,
+      "interval_width": 0.016925887276089374,
+      "range": 0.016925887276089374
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.18799202176734986,
+      "p025": 0.17871722625006353,
+      "p975": 0.19564311352593683,
+      "interval_width": 0.016925887275873297,
+      "range": 0.016925887275873297
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.23750561593387526,
+      "p025": 0.22823082041673892,
+      "p975": 0.24515670769229625,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.13813216281766869,
+      "p025": 0.12885736730053238,
+      "p975": 0.1457832545760897,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.23795390668664285,
+      "p025": 0.2286791111695065,
+      "p975": 0.24560499844506384,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.23679717513252888,
+      "p025": 0.22752237961539254,
+      "p975": 0.24444826689094987,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "marxism",
+      "mean_distance": 0.1831890987078334,
+      "p025": 0.1739143031906971,
+      "p975": 0.19084019046625442,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.1917851964799064,
+      "p025": 0.1825104009627701,
+      "p975": 0.19943628823832743,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.18791951318391525,
+      "p025": 0.17864471766677895,
+      "p975": 0.19557060494233627,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.19074395934827326,
+      "p025": 0.18146916383113695,
+      "p975": 0.19839505110669428,
+      "interval_width": 0.016925887275557328,
+      "range": 0.016925887275557328
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "lockean-rights",
+      "mean_distance": 0.18620533162510416,
+      "p025": 0.17693053610796786,
+      "p975": 0.19385642338352516,
+      "interval_width": 0.0169258872755573,
+      "range": 0.0169258872755573
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "maori",
+      "mean_distance": 0.13946770134783248,
+      "p025": 0.13019290583069618,
+      "p975": 0.14711879310625348,
+      "interval_width": 0.0169258872755573,
+      "range": 0.0169258872755573
+    },
+    {
+      "constitution_a": "lockean-rights",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.23757927037819482,
+      "p025": 0.22830447486105854,
+      "p975": 0.2452303621366158,
+      "interval_width": 0.016925887275557272,
+      "range": 0.016925887275557272
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.3107947533731645,
+      "p025": 0.3015746360733524,
+      "p975": 0.31813586277990136,
+      "interval_width": 0.01656122670654897,
+      "range": 0.01656122670654897
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "kindness",
+      "mean_distance": 0.13476270405245694,
+      "p025": 0.12758796472138767,
+      "p975": 0.14329685536874914,
+      "interval_width": 0.015708890647361473,
+      "range": 0.015708890647361473
+    },
+    {
+      "constitution_a": "rawlsian-justice",
+      "constitution_b": "taoism",
+      "mean_distance": 0.29560033995173685,
+      "p025": 0.2862346556228407,
+      "p975": 0.30182958346608857,
+      "interval_width": 0.015594927843247897,
+      "range": 0.015594929127672463
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "kindness",
+      "mean_distance": 0.3587696298421545,
+      "p025": 0.3542271002977363,
+      "p975": 0.3678790275284832,
+      "interval_width": 0.01365192723074693,
+      "range": 0.01365192723074693
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.22402777364675075,
+      "p025": 0.2191730579383544,
+      "p975": 0.23208994551183473,
+      "interval_width": 0.012916887573480335,
+      "range": 0.012916887573480335
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "taoism",
+      "mean_distance": 0.34358483791520544,
+      "p025": 0.33889674112705315,
+      "p975": 0.3515823704412785,
+      "interval_width": 0.012685629314225344,
+      "range": 0.012685629651870478
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.1454132539627124,
+      "p025": 0.13708736442351116,
+      "p975": 0.14965660175961895,
+      "interval_width": 0.012569237336107791,
+      "range": 0.012569237336107791
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "taoism",
+      "mean_distance": 0.20882315443669766,
+      "p025": 0.20382287169921715,
+      "p975": 0.21577346040939646,
+      "interval_width": 0.011950588710179316,
+      "range": 0.011950589994603883
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.052240142043883525,
+      "p025": 0.0484339377960442,
+      "p975": 0.05956520265153823,
+      "interval_width": 0.011131264855494032,
+      "range": 0.011131264855494032
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.0464487719875549,
+      "p025": 0.039123711452947775,
+      "p975": 0.05025497608159589,
+      "interval_width": 0.011131264628648115,
+      "range": 0.011131264628648115
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.09691041929813289,
+      "p025": 0.0895853587635439,
+      "p975": 0.10071662339197592,
+      "interval_width": 0.011131264628432017,
+      "range": 0.011131264628432017
+    },
+    {
+      "constitution_a": "rawlsian-justice",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10408902718144127,
+      "p025": 0.10028282308776419,
+      "p975": 0.11141408771588027,
+      "interval_width": 0.011131264628116075,
+      "range": 0.011131264628116075
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.05465461191284558,
+      "p025": 0.050848407819168516,
+      "p975": 0.061979672447284584,
+      "interval_width": 0.011131264628116068,
+      "range": 0.011131264628116068
+    },
+    {
+      "constitution_a": "rawlsian-justice",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.008533168420282214,
+      "p025": 0.004726964326605148,
+      "p975": 0.01585822895472121,
+      "interval_width": 0.011131264628116063,
+      "range": 0.011131264628116063
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.053496421841890934,
+      "p025": 0.04969021774821387,
+      "p975": 0.06082148237632993,
+      "interval_width": 0.011131264628116061,
+      "range": 0.011131264628116061
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.04574119001361846,
+      "p025": 0.03841612947917947,
+      "p975": 0.04954739410729553,
+      "interval_width": 0.011131264628116061,
+      "range": 0.011131264628116061
+    },
+    {
+      "constitution_a": "rawlsian-justice",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.09698302428945044,
+      "p025": 0.08965796375501145,
+      "p975": 0.10078922838312751,
+      "interval_width": 0.011131264628116061,
+      "range": 0.011131264628116061
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.04719037136370317,
+      "p025": 0.03986531082926418,
+      "p975": 0.05099657545738023,
+      "interval_width": 0.011131264628116054,
+      "range": 0.011131264628116054
+    },
+    {
+      "constitution_a": "rawlsian-justice",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.055114643839683584,
+      "p025": 0.05130843974600652,
+      "p975": 0.06243970437412257,
+      "interval_width": 0.011131264628116054,
+      "range": 0.011131264628116054
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.05469944669002473,
+      "p025": 0.05117232709486926,
+      "p975": 0.061485069025848396,
+      "interval_width": 0.010312741930979134,
+      "range": 0.010312741930979134
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "taoism",
+      "mean_distance": 0.084645498401973,
+      "p025": 0.07868755309500074,
+      "p975": 0.08858117860321549,
+      "interval_width": 0.009893625508214751,
+      "range": 0.009893626577989367
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "kindness",
+      "mean_distance": 0.19339889122979417,
+      "p025": 0.18975058944598683,
+      "p975": 0.19941052730629255,
+      "interval_width": 0.009659937860305723,
+      "range": 0.009659937860305723
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.05667362325984953,
+      "p025": 0.05165850890875443,
+      "p975": 0.061030378178239544,
+      "interval_width": 0.009371869269485113,
+      "range": 0.009371869269485113
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.05956154653735568,
+      "p025": 0.05616474389110292,
+      "p975": 0.06508964209414206,
+      "interval_width": 0.008924898203039142,
+      "range": 0.008924898203039142
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "kindness",
+      "mean_distance": 0.00886240204494525,
+      "p025": 0.0032879095175140684,
+      "p975": 0.011509874897206078,
+      "interval_width": 0.00822196537969201,
+      "range": 0.00822196537969201
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.09299342363228925,
+      "p025": 0.09034595085307599,
+      "p975": 0.0985679160059221,
+      "interval_width": 0.008221965152846109,
+      "range": 0.008221965152846109
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "kindness",
+      "mean_distance": 0.043462328086082816,
+      "p025": 0.04081485530688769,
+      "p975": 0.04903682045951768,
+      "interval_width": 0.00822196515262999,
+      "range": 0.00822196515262999
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "kindness",
+      "mean_distance": 0.09348877323521554,
+      "p025": 0.09084130045617042,
+      "p975": 0.09906326560848447,
+      "interval_width": 0.008221965152314048,
+      "range": 0.008221965152314048
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "maori",
+      "mean_distance": 0.09208230316200688,
+      "p025": 0.08943483038296177,
+      "p975": 0.09765679553527581,
+      "interval_width": 0.008221965152314048,
+      "range": 0.008221965152314048
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.043535173894719496,
+      "p025": 0.04088770111567437,
+      "p975": 0.04910966626798842,
+      "interval_width": 0.008221965152314048,
+      "range": 0.008221965152314048
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "kindness",
+      "mean_distance": 0.006073661936411439,
+      "p025": 0.0004991695631425179,
+      "p975": 0.00872113471545656,
+      "interval_width": 0.008221965152314043,
+      "range": 0.008221965152314043
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "kindness",
+      "mean_distance": 0.006540107273410692,
+      "p025": 0.0009656149001417713,
+      "p975": 0.009187580052455815,
+      "interval_width": 0.008221965152314043,
+      "range": 0.008221965152314043
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "kindness",
+      "mean_distance": 0.007676583932752706,
+      "p025": 0.0021020915594837848,
+      "p975": 0.010324056711797827,
+      "interval_width": 0.008221965152314043,
+      "range": 0.008221965152314043
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.006989691611167276,
+      "p025": 0.0014151992378983551,
+      "p975": 0.009637164390212397,
+      "interval_width": 0.008221965152314043,
+      "range": 0.008221965152314043
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.06040623098038947,
+      "p025": 0.05483173860712055,
+      "p975": 0.06305370375943459,
+      "interval_width": 0.008221965152314034,
+      "range": 0.008221965152314034
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.05736491966790276,
+      "p025": 0.051790427294633845,
+      "p975": 0.06001239244694788,
+      "interval_width": 0.008221965152314034,
+      "range": 0.008221965152314034
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "judaism",
+      "mean_distance": 0.1388512517076472,
+      "p025": 0.13432398500146078,
+      "p975": 0.1418109107238862,
+      "interval_width": 0.00748692572242543,
+      "range": 0.00748692572242543
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.04182757839518218,
+      "p025": 0.037300311842989896,
+      "p975": 0.0447872373385694,
+      "interval_width": 0.007486925495579506,
+      "range": 0.007486925495579506
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "care-ethics",
+      "mean_distance": 0.091300492147774,
+      "p025": 0.08677322559559984,
+      "p975": 0.09426015109096322,
+      "interval_width": 0.007486925495363381,
+      "range": 0.007486925495363381
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "buddhism",
+      "mean_distance": 0.14081530379146495,
+      "p025": 0.1362880372394408,
+      "p975": 0.14377496273448825,
+      "interval_width": 0.007486925495047453,
+      "range": 0.007486925495047453
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.14174445407390907,
+      "p025": 0.13721718752188491,
+      "p975": 0.14470411301693237,
+      "interval_width": 0.007486925495047453,
+      "range": 0.007486925495047453
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "buen-vivir",
+      "mean_distance": 0.04144155558981721,
+      "p025": 0.03691428903779305,
+      "p975": 0.04440121453284049,
+      "interval_width": 0.007486925495047439,
+      "range": 0.007486925495047439
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "maori",
+      "mean_distance": 0.042799509449085615,
+      "p025": 0.038272242897061465,
+      "p975": 0.045759168392108904,
+      "interval_width": 0.007486925495047439,
+      "range": 0.007486925495047439
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.09519367199121474,
+      "p025": 0.09066640543919059,
+      "p975": 0.09815333093423803,
+      "interval_width": 0.007486925495047439,
+      "range": 0.007486925495047439
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10995721853090992,
+      "p025": 0.10699755958788663,
+      "p975": 0.11448448508293407,
+      "interval_width": 0.007486925495047439,
+      "range": 0.007486925495047439
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "christianity",
+      "mean_distance": 0.14126353904912772,
+      "p025": 0.13673627249710357,
+      "p975": 0.144223197992151,
+      "interval_width": 0.007486925495047425,
+      "range": 0.007486925495047425
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "confucianism",
+      "mean_distance": 0.08951469278899571,
+      "p025": 0.08498742623697156,
+      "p975": 0.09247435173201898,
+      "interval_width": 0.007486925495047425,
+      "range": 0.007486925495047425
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.1401061909708348,
+      "p025": 0.13557892441881064,
+      "p975": 0.14306584991385807,
+      "interval_width": 0.007486925495047425,
+      "range": 0.007486925495047425
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "marxism",
+      "mean_distance": 0.0865115745316456,
+      "p025": 0.08198430797962145,
+      "p975": 0.08947123347466887,
+      "interval_width": 0.007486925495047425,
+      "range": 0.007486925495047425
+    },
+    {
+      "constitution_a": "aboriginal-australian",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.0912309625877164,
+      "p025": 0.08670369603569225,
+      "p975": 0.09419062153073968,
+      "interval_width": 0.007486925495047425,
+      "range": 0.007486925495047425
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.005335885253068846,
+      "p025": 0.002789120342177665,
+      "p975": 0.010226921850094366,
+      "interval_width": 0.007437801507916701,
+      "range": 0.007437801507916701
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.16551944874348656,
+      "p025": 0.163187248274884,
+      "p975": 0.17005518306130862,
+      "interval_width": 0.006867934786424612,
+      "range": 0.006867934786424612
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "kindness",
+      "mean_distance": 0.055087014292449096,
+      "p025": 0.05082381986152355,
+      "p975": 0.05711171725226919,
+      "interval_width": 0.006287897390745638,
+      "range": 0.006287897390745638
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.1501873707027462,
+      "p025": 0.14770960301094976,
+      "p975": 0.15361123988085273,
+      "interval_width": 0.005901636869902971,
+      "range": 0.005901637146050548
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "judaism",
+      "mean_distance": 0.3628775739518081,
+      "p025": 0.36098251703227274,
+      "p975": 0.3664124793380836,
+      "interval_width": 0.0054299623058108315,
+      "range": 0.0054299623058108315
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.26580237038872834,
+      "p025": 0.2639073136231871,
+      "p975": 0.26933727570215205,
+      "interval_width": 0.005429962078964956,
+      "range": 0.005429962078964956
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.3153211884160481,
+      "p025": 0.313426131650525,
+      "p975": 0.31885609372927387,
+      "interval_width": 0.005429962078748851,
+      "range": 0.005429962078748851
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.31354169150050204,
+      "p025": 0.31164663473512894,
+      "p975": 0.3170765968135619,
+      "interval_width": 0.005429962078432937,
+      "range": 0.005429962078432937
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.36406479698058725,
+      "p025": 0.36216974021521414,
+      "p975": 0.3675997022936471,
+      "interval_width": 0.005429962078432937,
+      "range": 0.005429962078432937
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.3657342402472352,
+      "p025": 0.3638391834818621,
+      "p975": 0.36926914556029505,
+      "interval_width": 0.005429962078432937,
+      "range": 0.005429962078432937
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.3191673568204938,
+      "p025": 0.3172723000551207,
+      "p975": 0.32270226213355363,
+      "interval_width": 0.005429962078432937,
+      "range": 0.005429962078432937
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.36484131252910706,
+      "p025": 0.362946255763734,
+      "p975": 0.3683762178421669,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.2654305112234258,
+      "p025": 0.26353545445805276,
+      "p975": 0.26896541653648565,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "environmental-ethics",
+      "mean_distance": 0.3652035138832644,
+      "p025": 0.36330845711789134,
+      "p975": 0.3687384191963242,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "marxism",
+      "mean_distance": 0.31051433050398847,
+      "p025": 0.3086192737386154,
+      "p975": 0.3140492358170483,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.31525841248084074,
+      "p025": 0.3133633557154677,
+      "p975": 0.3187933177939006,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.3145023054996255,
+      "p025": 0.31260724873425244,
+      "p975": 0.3180372108126853,
+      "interval_width": 0.005429962078432882,
+      "range": 0.005429962078432882
+    },
+    {
+      "constitution_a": "environmental-ethics",
+      "constitution_b": "maori",
+      "mean_distance": 0.26678860974358976,
+      "p025": 0.2648935529782167,
+      "p975": 0.27032351505664953,
+      "interval_width": 0.005429962078432826,
+      "range": 0.005429962078432826
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.349636832564033,
+      "p025": 0.3475962084934282,
+      "p975": 0.3520598729929847,
+      "interval_width": 0.004463664499556486,
+      "range": 0.004463664499556486
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "taoism",
+      "mean_distance": 0.25162165781240176,
+      "p025": 0.24958103374179696,
+      "p975": 0.25404469824135345,
+      "interval_width": 0.004463664499556486,
+      "range": 0.004463664499556486
+    },
+    {
+      "constitution_a": "secular-humanism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.3505676067997587,
+      "p025": 0.3485269827291539,
+      "p975": 0.3529906472287104,
+      "interval_width": 0.004463664499556486,
+      "range": 0.004463664499556486
+    },
+    {
+      "constitution_a": "taoism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.3000502157546443,
+      "p025": 0.2980095916840395,
+      "p975": 0.302473256183596,
+      "interval_width": 0.004463664499556486,
+      "range": 0.004463664499556486
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "taoism",
+      "mean_distance": 0.2502631350946723,
+      "p025": 0.24822251102406753,
+      "p975": 0.252686175523624,
+      "interval_width": 0.004463664499556458,
+      "range": 0.004463664499556458
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "taoism",
+      "mean_distance": 0.34999243322198687,
+      "p025": 0.3479518091513821,
+      "p975": 0.3524154736509385,
+      "interval_width": 0.00446366449955643,
+      "range": 0.00446366449955643
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.29833700178387296,
+      "p025": 0.2962963777132682,
+      "p975": 0.30076004221282465,
+      "interval_width": 0.00446366449955643,
+      "range": 0.00446366449955643
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.34885728148024736,
+      "p025": 0.34681665740964257,
+      "p975": 0.351280321909199,
+      "interval_width": 0.00446366449955643,
+      "range": 0.00446366449955643
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.29531426801236715,
+      "p025": 0.29327364394176236,
+      "p975": 0.2977373084413188,
+      "interval_width": 0.00446366449955643,
+      "range": 0.00446366449955643
+    },
+    {
+      "constitution_a": "stoicism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.3039597463094064,
+      "p025": 0.30191912223880163,
+      "p975": 0.30638278673835806,
+      "interval_width": 0.00446366449955643,
+      "range": 0.00446366449955643
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "taoism",
+      "mean_distance": 0.3001227058264864,
+      "p025": 0.29808208175604756,
+      "p975": 0.30254574625528813,
+      "interval_width": 0.004463664499240572,
+      "range": 0.004463664499872455
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "taoism",
+      "mean_distance": 0.2505918594423301,
+      "p025": 0.2485512353720892,
+      "p975": 0.2530148998711136,
+      "interval_width": 0.0044636644990243834,
+      "range": 0.0044636645000885045
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "taoism",
+      "mean_distance": 0.34767203891294707,
+      "p025": 0.3456314148401271,
+      "p975": 0.35009507927818595,
+      "interval_width": 0.004463664438058845,
+      "range": 0.004463664512284471
+    },
+    {
+      "constitution_a": "taoism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.30024875090872777,
+      "p025": 0.2986276233710773,
+      "p975": 0.30175717985457695,
+      "interval_width": 0.0031295564834996625,
+      "range": 0.0031295564834996625
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "rawlsian-justice",
+      "mean_distance": 0.006157827524824595,
+      "p025": 0.005589632347862119,
+      "p975": 0.007225176571530418,
+      "interval_width": 0.0016355442236682992,
+      "range": 0.0016355442236682992
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "judaism",
+      "mean_distance": 0.1974860604987251,
+      "p025": 0.19648523133980061,
+      "p975": 0.1979232042751703,
+      "interval_width": 0.0014379729353696802,
+      "range": 0.0014379729353696802
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.1998072389887271,
+      "p025": 0.19880640998396484,
+      "p975": 0.20024438269195657,
+      "interval_width": 0.0014379727079917304,
+      "range": 0.0014379727079917304
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.15377271095054715,
+      "p025": 0.1527718819457849,
+      "p975": 0.15420985465377662,
+      "interval_width": 0.0014379727079917304,
+      "range": 0.0014379727079917304
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.19945018316768048,
+      "p025": 0.19844935416291826,
+      "p975": 0.19988732687090996,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.10100278753079538,
+      "p025": 0.1005656438275659,
+      "p975": 0.1020036165355576,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.1481507968149121,
+      "p025": 0.14714996781014988,
+      "p975": 0.1485879405181416,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.1986712480432846,
+      "p025": 0.19767041903852237,
+      "p975": 0.19910839174651407,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "marxism",
+      "mean_distance": 0.1451427213591415,
+      "p025": 0.14414189235437927,
+      "p975": 0.14557986506237097,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.2003802771527168,
+      "p025": 0.19937944814795458,
+      "p975": 0.20081742085594628,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.15077771209068203,
+      "p025": 0.15034056838745255,
+      "p975": 0.15177854109544425,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.15094678379882123,
+      "p025": 0.149945954794059,
+      "p975": 0.1513839275020507,
+      "interval_width": 0.0014379727079917026,
+      "range": 0.0014379727079917026
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "maori",
+      "mean_distance": 0.10143432816535985,
+      "p025": 0.10043349916059766,
+      "p975": 0.10187147186858933,
+      "interval_width": 0.0014379727079916749,
+      "range": 0.0014379727079916749
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "conservatism",
+      "mean_distance": 0.15078206926263607,
+      "p025": 0.15037375702387284,
+      "p975": 0.1517168893880481,
+      "interval_width": 0.0013431323641752424,
+      "range": 0.0013431323641752424
+    },
+    {
+      "constitution_a": "kindness",
+      "constitution_b": "marxism",
+      "mean_distance": 0.05417912042461699,
+      "p025": 0.05384985643241187,
+      "p975": 0.0543354965389091,
+      "interval_width": 0.00048564010649723016,
+      "range": 0.00048564010649723016
+    },
+    {
+      "constitution_a": "conservatism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.10096349447252946,
+      "p025": 0.1008435493251123,
+      "p975": 0.1012381057310688,
+      "interval_width": 0.0003945564059564949,
+      "range": 0.0003945564059564949
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.09708186395781968,
+      "p025": 0.0970818638034893,
+      "p975": 0.09708186403139932,
+      "interval_width": 2.2791002418642847e-10,
+      "range": 2.2791002418642847e-10
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "judaism",
+      "mean_distance": 0.05230247129592371,
+      "p025": 0.05230247114161145,
+      "p975": 0.05230247136930537,
+      "interval_width": 2.2769391927468519e-10,
+      "range": 2.2769391927468519e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "maori",
+      "mean_distance": 0.09619110501389683,
+      "p025": 0.09619110485973456,
+      "p975": 0.09619110508711254,
+      "interval_width": 2.2737797755745248e-10,
+      "range": 2.2737797755745248e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "marxism",
+      "mean_distance": 0.052368015625725586,
+      "p025": 0.05236801547156332,
+      "p975": 0.0523680156989413,
+      "interval_width": 2.2737797755745248e-10,
+      "range": 2.2737797755745248e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.05154593429778084,
+      "p025": 0.05154593414361858,
+      "p975": 0.05154593437099655,
+      "interval_width": 2.2737797061855858e-10,
+      "range": 2.2737797061855858e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.05327021991883434,
+      "p025": 0.053270219764672076,
+      "p975": 0.05327021999205005,
+      "interval_width": 2.2737797061855858e-10,
+      "range": 2.2737797061855858e-10
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "judaism",
+      "mean_distance": 0.00282288996047335,
+      "p025": 0.002822889806311088,
+      "p975": 0.0028228900336890557,
+      "interval_width": 2.273779675827925e-10,
+      "range": 2.273779675827925e-10
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "judaism",
+      "mean_distance": 0.002422403365794909,
+      "p025": 0.0024224032116326472,
+      "p975": 0.002422403439010615,
+      "interval_width": 2.273779675827925e-10,
+      "range": 2.273779675827925e-10
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "judaism",
+      "mean_distance": 0.001260928839489647,
+      "p025": 0.0012609286853273853,
+      "p975": 0.0012609289127053524,
+      "interval_width": 2.2737796714911163e-10,
+      "range": 2.2737796714911163e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.002897246049344612,
+      "p025": 0.0028972458951823507,
+      "p975": 0.002897246122560318,
+      "interval_width": 2.2737796714911163e-10,
+      "range": 2.2737796714911163e-10
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "judaism",
+      "mean_distance": 0.0976033916673554,
+      "p025": 0.09760339151319314,
+      "p975": 0.0976033917405711,
+      "interval_width": 2.2737796367966467e-10,
+      "range": 2.2737796367966467e-10
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "judaism",
+      "mean_distance": 0.049339514135234984,
+      "p025": 0.049339513981072725,
+      "p975": 0.04933951420845069,
+      "interval_width": 2.2737796367966467e-10,
+      "range": 2.2737796367966467e-10
+    },
+    {
+      "constitution_a": "judaism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.052366029914817445,
+      "p025": 0.052366029760655186,
+      "p975": 0.05236602998803315,
+      "interval_width": 2.2737796367966467e-10,
+      "range": 2.2737796367966467e-10
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.09997576182562869,
+      "p025": 0.09997576182546056,
+      "p975": 0.09997576182599263,
+      "interval_width": 5.320743845516063e-13,
+      "range": 5.320743845516063e-13
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.05336794857027342,
+      "p025": 0.05336794857010528,
+      "p975": 0.05336794857063735,
+      "interval_width": 5.320674456577024e-13,
+      "range": 5.320674456577024e-13
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.0007703689036290347,
+      "p025": 0.0007703689034609027,
+      "p975": 0.000770368903992966,
+      "interval_width": 5.320633256894469e-13,
+      "range": 5.320633256894469e-13
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.0011920042269390845,
+      "p025": 0.0011920042267709525,
+      "p975": 0.0011920042273030158,
+      "interval_width": 5.320633256894469e-13,
+      "range": 5.320633256894469e-13
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.09904498309290737,
+      "p025": 0.09904498309273924,
+      "p975": 0.0990449830932713,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.0994980797174055,
+      "p025": 0.09949807971723737,
+      "p975": 0.09949807971776943,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.047745272705085634,
+      "p025": 0.047745272704917505,
+      "p975": 0.047745272705449565,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.09833934760686706,
+      "p025": 0.09833934760669893,
+      "p975": 0.098339347607231,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.04477262234868972,
+      "p025": 0.04477262234852159,
+      "p975": 0.04477262234905365,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.050541742819214995,
+      "p025": 0.050541742819046866,
+      "p975": 0.050541742819578926,
+      "interval_width": 5.320605067637985e-13,
+      "range": 5.320605067637985e-13
+    },
+    {
+      "constitution_a": "neo-aristotelian-virtue-ethics",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.15034872514056058,
+      "p025": 0.15034872514039246,
+      "p975": 0.1503487251409245,
+      "interval_width": 5.320466289759906e-13,
+      "range": 5.320466289759906e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "neo-aristotelian-virtue-ethics",
+      "mean_distance": 0.05047980725188117,
+      "p025": 0.05047980725169526,
+      "p975": 0.05047980725206412,
+      "interval_width": 3.6885772214390045e-13,
+      "range": 3.6885772214390045e-13
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "care-ethics",
+      "mean_distance": 0.04952202083076405,
+      "p025": 0.04952202083061405,
+      "p975": 0.04952202083093,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "care-ethics",
+      "mean_distance": 0.050043591927094,
+      "p025": 0.050043591926944,
+      "p975": 0.05004359192725995,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "christianity",
+      "mean_distance": 0.04998017024271472,
+      "p025": 0.04998017024256472,
+      "p975": 0.04998017024288067,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.05111662307373777,
+      "p025": 0.051116623073587775,
+      "p975": 0.05111662307390372,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "maori",
+      "mean_distance": 0.05141492714176211,
+      "p025": 0.05141492714161211,
+      "p975": 0.05141492714192806,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.05044498353227423,
+      "p025": 0.05044498353212423,
+      "p975": 0.05044498353244018,
+      "interval_width": 3.1594865612660783e-13,
+      "range": 3.1594865612660783e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "ubuntu",
+      "mean_distance": 7.285975925985504e-05,
+      "p025": 7.285975910985604e-05,
+      "p975": 7.285975942580332e-05,
+      "interval_width": 3.159472737688379e-13,
+      "range": 3.159472737688379e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "confucianism",
+      "mean_distance": 0.09790426221555407,
+      "p025": 0.09790426221540408,
+      "p975": 0.09790426221572002,
+      "interval_width": 3.159417172327039e-13,
+      "range": 3.159417172327039e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "marxism",
+      "mean_distance": 0.09512802285653822,
+      "p025": 0.09512802285638823,
+      "p975": 0.09512802285670417,
+      "interval_width": 3.159417172327039e-13,
+      "range": 3.159417172327039e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.1038462202415095,
+      "p025": 0.1038462202413595,
+      "p975": 0.10384622024167545,
+      "interval_width": 3.159417172327039e-13,
+      "range": 3.159417172327039e-13
+    },
+    {
+      "constitution_a": "care-ethics",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10081879378070864,
+      "p025": 0.10081879378055865,
+      "p975": 0.10081879378087459,
+      "interval_width": 3.159417172327039e-13,
+      "range": 3.159417172327039e-13
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "buen-vivir",
+      "mean_distance": 0.09956193300665059,
+      "p025": 0.09956193300665059,
+      "p975": 0.09956193300665059,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "christianity",
+      "mean_distance": 0.0005022118056148782,
+      "p025": 0.0005022118056148782,
+      "p975": 0.0005022118056148782,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "confucianism",
+      "mean_distance": 0.0513022495881169,
+      "p025": 0.0513022495881169,
+      "p975": 0.0513022495881169,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.001637368635308643,
+      "p025": 0.001637368635308643,
+      "p975": 0.001637368635308643,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "maori",
+      "mean_distance": 0.09815500334582643,
+      "p025": 0.09815500334582643,
+      "p975": 0.09815500334582643,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "marxism",
+      "mean_distance": 0.05433135386307668,
+      "p025": 0.05433135386307668,
+      "p975": 0.05433135386307668,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.0009723514819494049,
+      "p025": 0.0009723514819494049,
+      "p975": 0.0009723514819494049,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.05436607621565437,
+      "p025": 0.05436607621565437,
+      "p975": 0.05436607621565437,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.04958691512632313,
+      "p025": 0.04958691512632313,
+      "p975": 0.04958691512632313,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buddhism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.051348586008008554,
+      "p025": 0.051348586008008554,
+      "p975": 0.051348586008008554,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "christianity",
+      "mean_distance": 0.10002017855015147,
+      "p025": 0.10002017855015147,
+      "p975": 0.10002017855015147,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "confucianism",
+      "mean_distance": 0.04826495082394202,
+      "p025": 0.04826495082394202,
+      "p975": 0.04826495082394202,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.0988596514807641,
+      "p025": 0.0988596514807641,
+      "p975": 0.0988596514807641,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "maori",
+      "mean_distance": 0.0015970598033651548,
+      "p025": 0.0015970598033651548,
+      "p975": 0.0015970598033651548,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "marxism",
+      "mean_distance": 0.04541472549714214,
+      "p025": 0.04541472549714214,
+      "p975": 0.04541472549714214,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.10030629971884039,
+      "p025": 0.10030629971884039,
+      "p975": 0.10030629971884039,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.054136638726320394,
+      "p025": 0.054136638726320394,
+      "p975": 0.054136638726320394,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.04998198165330772,
+      "p025": 0.04998198165330772,
+      "p975": 0.04998198165330772,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "buen-vivir",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.15067837850397384,
+      "p025": 0.15067837850397384,
+      "p975": 0.15067837850397384,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "confucianism",
+      "mean_distance": 0.05175998575974344,
+      "p025": 0.05175998575974344,
+      "p975": 0.05175998575974344,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.0011626821229831507,
+      "p025": 0.0011626821229831507,
+      "p975": 0.0011626821229831507,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "maori",
+      "mean_distance": 0.0986025761972964,
+      "p025": 0.0986025761972964,
+      "p975": 0.0986025761972964,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "marxism",
+      "mean_distance": 0.0547757337684764,
+      "p025": 0.0547757337684764,
+      "p975": 0.0547757337684764,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.0005752559953932716,
+      "p025": 0.0005752559953932716,
+      "p975": 0.0005752559953932716,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.05396504944013127,
+      "p025": 0.05396504944013127,
+      "p975": 0.05396504944013127,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.05004196954690093,
+      "p025": 0.05004196954690093,
+      "p975": 0.05004196954690093,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "christianity",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.05094193251282345,
+      "p025": 0.05094193251282345,
+      "p975": 0.05094193251282345,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "hinduism",
+      "mean_distance": 0.05059893675450918,
+      "p025": 0.05059893675450918,
+      "p975": 0.05059893675450918,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "maori",
+      "mean_distance": 0.046853389617788475,
+      "p025": 0.046853389617788475,
+      "p975": 0.046853389617788475,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "marxism",
+      "mean_distance": 0.003030082237153461,
+      "p025": 0.003030082237153461,
+      "p975": 0.003030082237153461,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.05223161256989062,
+      "p025": 0.05223161256989062,
+      "p975": 0.05223161256989062,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.00594211376568141,
+      "p025": 0.00594211376568141,
+      "p975": 0.00594211376568141,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.09796953373797286,
+      "p025": 0.09796953373797286,
+      "p975": 0.09796953373797286,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "confucianism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.1026051649825049,
+      "p025": 0.1026051649825049,
+      "p975": 0.1026051649825049,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "maori",
+      "mean_distance": 0.09744487410239816,
+      "p025": 0.09744487410239816,
+      "p975": 0.09744487410239816,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "marxism",
+      "mean_distance": 0.053617280501391126,
+      "p025": 0.053617280501391126,
+      "p975": 0.053617280501391126,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.0017112524756773527,
+      "p025": 0.0017112524756773527,
+      "p975": 0.0017112524756773527,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.052803949068070635,
+      "p025": 0.052803949068070635,
+      "p975": 0.052803949068070635,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.05117921901831046,
+      "p025": 0.05117921901831046,
+      "p975": 0.05117921901831046,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "hinduism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.052082377002190275,
+      "p025": 0.052082377002190275,
+      "p975": 0.052082377002190275,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "marxism",
+      "mean_distance": 0.04398965607095977,
+      "p025": 0.04398965607095977,
+      "p975": 0.04398965607095977,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.09894777778624464,
+      "p025": 0.09894777778624464,
+      "p975": 0.09894777778624464,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.05272372876825253,
+      "p025": 0.05272372876825253,
+      "p975": 0.05272372876825253,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.05148604871568785,
+      "p025": 0.05148604871568785,
+      "p975": 0.05148604871568785,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "maori",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.14933940614646854,
+      "p025": 0.14933940614646854,
+      "p975": 0.14933940614646854,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "secular-humanism",
+      "mean_distance": 0.05525545973866445,
+      "p025": 0.05525545973866445,
+      "p975": 0.05525545973866445,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.008770072466795915,
+      "p025": 0.008770072466795915,
+      "p975": 0.008770072466795915,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.0951969781016975,
+      "p025": 0.0951969781016975,
+      "p975": 0.0951969781016975,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "marxism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10559519456018067,
+      "p025": 0.10559519456018067,
+      "p975": 0.10559519456018067,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "secular-humanism",
+      "constitution_b": "stoicism",
+      "mean_distance": 0.0544403698308363,
+      "p025": 0.0544403698308363,
+      "p975": 0.0544403698308363,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "secular-humanism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.0505176616784407,
+      "p025": 0.0505176616784407,
+      "p975": 0.0505176616784407,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "secular-humanism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.05123355430369274,
+      "p025": 0.05123355430369274,
+      "p975": 0.05123355430369274,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "stoicism",
+      "constitution_b": "ubuntu",
+      "mean_distance": 0.1039082466566466,
+      "p025": 0.1039082466566466,
+      "p975": 0.1039082466566466,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "stoicism",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10481475971477394,
+      "p025": 0.10481475971477394,
+      "p975": 0.10481475971477394,
+      "interval_width": 0.0,
+      "range": 0.0
+    },
+    {
+      "constitution_a": "ubuntu",
+      "constitution_b": "utilitarianism",
+      "mean_distance": 0.10089041921094681,
+      "p025": 0.10089041921094681,
+      "p975": 0.10089041921094681,
+      "interval_width": 0.0,
+      "range": 0.0
+    }
+  ]
+}

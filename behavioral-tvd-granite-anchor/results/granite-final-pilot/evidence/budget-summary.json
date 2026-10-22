@@ -1,0 +1,22 @@
+{
+  "cap_usd": 0.75,
+  "attempts": 4351,
+  "actual_spending_usd": 0.202388084,
+  "conservative_spending_usd": 0.202388084,
+  "outstanding_reservations_usd": 0.0,
+  "unknown_billing_attempts": 0,
+  "http_status_counts": {
+    "200": 4351
+  },
+  "attempt_state_counts": {
+    "valid": 4347,
+    "invalid": 4
+  },
+  "invalid_errors": {
+    "Non-digit response violates pilot output format": 1,
+    "Exactly one next-token logprob record required": 3
+  },
+  "prompt_tokens_all_physical_attempts": 11876516,
+  "completion_tokens_all_physical_attempts": 4351,
+  "note": "Imported valid records are not new attempts or new charges."
+}

@@ -1,0 +1,31 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "analysis_source_sha256": "e8b36b2ab4e89e53a7ad515a1fe484cb9deed4b71014b2c77fec3fff84deecfa",
+  "scope": "BATCH_10_ONLY",
+  "interpretation": "Granite-conditioned prompt-induced behavior, not philosophical distances or fidelity certification.",
+  "constitutions": 24,
+  "scenarios": 20,
+  "primary_evaluations": 1920,
+  "baseline_evaluations": 80,
+  "missing": 0,
+  "all_request_hashes_match_frozen_plan": true,
+  "probabilities_in_range": true,
+  "symmetry_zero_diagonal_nonnegative": true,
+  "A_not_B": true,
+  "maximum_normalized_jensen_gap": 0.02809345100078233,
+  "mean_pair_distances": {
+    "A_primary": 0.07504243490388397,
+    "B_secondary": 0.08770047001605269,
+    "C_canonical": 0.07741826821664544
+  },
+  "A_C_spearman": 0.6675418444371514,
+  "mean_absolute_label_effect": 0.25595307825667646,
+  "mean_absolute_order_effect": 0.1801429277700553,
+  "mean_four_condition_range": 0.44691975479780444,
+  "minimum_binary_mass": 0.9982597714257161,
+  "format_noncompliant": 0,
+  "fraction_log_odds_on_0.125_grid_abs_tolerance1e-5": 1.0,
+  "numerical_limitation": "Previouslyobserved0.125log-oddsquantization; retained as a limitation.",
+  "subsampling_seed": 20261022,
+  "full_experiment_complete": false
+}

@@ -1,0 +1,64 @@
+{
+  "actual_spending_usd": 0.199232424,
+  "aggregate_active_dispatch_seconds": 1004.6559468459964,
+  "aggregate_valid_evaluations_per_second": 4.0471566537427535,
+  "complete_scenarios": 40,
+  "completed_batches": 2,
+  "conservative_spending_usd": 0.206581896,
+  "estimated_final_cost_usd": 6.8902977609776705,
+  "estimated_remaining_active_inference_seconds": 32504.301477518646,
+  "estimated_remaining_cost_usd": 6.68371586497767,
+  "failed_attempt_reasons": {
+    "HTTP 502": 1,
+    "HTTP transport IncompleteRead; dispatcher exited; response/billing unknown; full original reservation charged conservatively; remaining approved attempts only.": 2,
+    "logprobs:null": 1
+  },
+  "failed_attempts": 4,
+  "global_cap_usd": 10.0,
+  "http_status_counts": {
+    "200": 4067,
+    "502": 1,
+    "None": 2
+  },
+  "interpretation": "Granite-conditioned exploratory behavior under24prompts; batch outputs are not full-library philosophical distances.",
+  "logical_state_counts": {
+    "pending": 131550,
+    "valid": 4066
+  },
+  "maximum_canary_probability_difference": 0.0,
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 4066
+  },
+  "next_batch": 3,
+  "next_batch_authorized": false,
+  "outstanding_reservations_usd": 0.0,
+  "physical_attempts": 4070,
+  "projection_limitations": "Approx±20% variation; task setup/approval delays, throttling, price changes and extra resume QC can add time/cost.",
+  "provider_counts": {
+    "Cloudflare": 4066
+  },
+  "registered_stages": [
+    "batch-0001",
+    "batch-0002"
+  ],
+  "remaining": {
+    "baseline": 5184,
+    "canary": 1950,
+    "primary": 124416
+  },
+  "remaining_batches": 65,
+  "remaining_scheduled_evaluations": 131550,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "PAUSED_AFTER_AUTHORIZED_BATCH",
+  "through_batch": 2,
+  "total_valid": 4066,
+  "unknown_billing_attempts": 3,
+  "unspent_global_budget_usd": 9.793418104,
+  "valid": {
+    "baseline": 160,
+    "canary": 66,
+    "primary": 3840
+  },
+  "valid_adaptive_resume_canaries": 6,
+  "valid_scheduled_canaries": 60
+}

@@ -1,0 +1,33 @@
+{
+  "api_requests": 0,
+  "approved_scenario_policy": "Investigator-approved automated screen, no individual human certification",
+  "batches": 67,
+  "checks": "PASS: all135610taskidentities unique; snapshot/source hashes; originaltext/actions/topics preserved; frozen pilot messages; budgetsdefault0.",
+  "cost_estimate_usd": {
+    "baseline": 0.0198446768,
+    "canaries": 0.09811078,
+    "primary": 6.526953258871544,
+    "total": 6.644908715671544
+  },
+  "excluded": 24,
+  "experiment_cap_usd": 10,
+  "first_batch": {
+    "baseline": 80,
+    "canaries": 30,
+    "concurrency": 3,
+    "primary_logical": 1920,
+    "primary_physical_cap_including_retries": 2000,
+    "scenarios": 20,
+    "stage_cap_usd": 1
+  },
+  "inference_requests": 0,
+  "pilot_requests_exactly_matched": 4000,
+  "reservation_usd_at131kcontext": 0.0024498232,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "task_counts": {
+    "baseline": 5344,
+    "canary": 2010,
+    "primary": 128256
+  },
+  "total_planned": 135610
+}

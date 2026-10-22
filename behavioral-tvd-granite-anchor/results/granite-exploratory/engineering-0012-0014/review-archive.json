@@ -1,0 +1,13 @@
+{
+  "path": "/workspace/backups/granite-batches-0012-0014-stopped-review.tar.gz",
+  "sha256": "093b740226b7231adc9e4dbe5d7e7f243534b44d76f570b7bf90df44c435b708",
+  "bytes": 14541829,
+  "authoritative_ledger_or_compressed_ledger_objects_included": false,
+  "scope": "Curated raw/failed evidence, partial outputs, authorizations/stop record, offline source, docs, hashes; excludes its own later-created review manifest.",
+  "same_volume_backup_not_independent_disaster_recovery": true,
+  "disk_after_review_archive": {
+    "total": 33770192896,
+    "used": 8936538112,
+    "free": 23098892288
+  }
+}

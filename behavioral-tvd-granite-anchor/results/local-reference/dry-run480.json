@@ -1,0 +1,26 @@
+{
+  "status": "dry-run; no model loading or inference",
+  "items": 480,
+  "evaluations_per_session": 960,
+  "planned_sessions": [
+    "restart-1",
+    "restart-2"
+  ],
+  "total_planned_evaluations": 1920,
+  "configuration": {
+    "dtype": "bfloat16",
+    "device": "cuda",
+    "attention": "eager",
+    "cache": "off",
+    "batch_size": 1,
+    "repeats": 2,
+    "seed": 20261020,
+    "cpu_threads": 1,
+    "gpu_headroom_gib": 8,
+    "planned_sessions": [
+      "restart-1",
+      "restart-2"
+    ],
+    "software_test": true
+  }
+}

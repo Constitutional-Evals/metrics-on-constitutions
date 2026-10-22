@@ -1,0 +1,47 @@
+{
+  "valid_records": 3488,
+  "missing_records": 848,
+  "status": "stopped_incomplete",
+  "distinct_request_hashes": 2072,
+  "repeated_identical_request_groups": 1416,
+  "maximum_repeated_differences": {
+    "logp0": 0.0,
+    "logp1": 0.0,
+    "p1_conditional": 0.0,
+    "log_odds": 0.0
+  },
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 3488
+  },
+  "provider_counts": {
+    "Cloudflare": 3488
+  },
+  "sampled_format_noncompliant": 1,
+  "sampled_tokens": {
+    "1": 1230,
+    "0": 2257,
+    "2": 1
+  },
+  "both_finite_label_logs": true,
+  "binary_mass_quantiles": {
+    "min": 0.9985987217028272,
+    "p01": 0.9991327565862254,
+    "p05": 0.9993240549720094,
+    "p25": 0.999629599593499,
+    "median": 0.999775392840097,
+    "p75": 0.9998744689687161,
+    "p95": 0.9999730446587479,
+    "p99": 0.9999912122156553,
+    "max": 0.9999983967938015
+  },
+  "binary_mass_below_0.5": 0,
+  "binary_mass_below_0.9": 0,
+  "binary_mass_below_0.99": 0,
+  "log_odds_lattice_fractions_tolerance_1e-5": {
+    "0.125": 1.0,
+    "0.0625": 1.0,
+    "0.03125": 1.0,
+    "0.015625": 1.0
+  },
+  "interpretation": "Lattice structure suggests finite-precision computation; decimal display is not numerical accuracy. No evidence of a hard clipping floor is not proof of absence. Conditional probabilities are forced-choice preferences, not unconditional action confidence."
+}

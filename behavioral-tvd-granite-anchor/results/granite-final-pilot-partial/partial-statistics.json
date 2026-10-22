@@ -1,0 +1,33 @@
+{
+  "status": "STOPPED_ON_MISSING_LOGPROB_RESPONSE",
+  "run_id": "81fb346a7f586099e3780afbd464b0dd5763d57b1bd4321e817c3a33cbea9ac8",
+  "valid_records": 1682,
+  "by_kind": {
+    "daily_baseline": 64,
+    "diagnostic_baseline": 18,
+    "diagnostic_excerpt": 37,
+    "diagnostic_full": 31,
+    "diagnostic_title_only": 35,
+    "main": 1497
+  },
+  "main_expected": 3840,
+  "main_valid": 1497,
+  "main_missing": 2343,
+  "all_expected": 4336,
+  "all_missing": 2654,
+  "identical_repeat_groups_observed": 321,
+  "maximum_observed_repeat_difference": 0.0,
+  "full_R2_four_condition_cells": 0,
+  "partial_effects": {
+    "complete_four_condition_cells_any_replicates": 71,
+    "mean_absolute_label_effect_available_cells": 0.3206261783411538,
+    "mean_absolute_order_effect_available_cells": 0.20232154617309492,
+    "maximum_condition_probability_range_available_cells": 0.8798860238256664,
+    "mean_condition_probability_range_available_cells": 0.5347235938121024,
+    "warning": "Exploratory incomplete subset, varying1\u20132replicates; not final factorial study or full-population estimate."
+  },
+  "distance_correlations_and_rankings": "NOT_ESTIMABLE_AS_REQUESTED_FROM_INCOMPLETE_MATRICES",
+  "all_matrix_NAs_explicit": true,
+  "no_missing_probability_substituted": true,
+  "prediction_files_frozen_before_inference": true
+}

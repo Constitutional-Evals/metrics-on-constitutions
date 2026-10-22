@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "original_stopped_copies_exact": true,
+  "latest_stopped_backup_exact_restore": true,
+  "curated_and_archive_checksums_verified": true,
+  "global_cap_and_spending_verified": true,
+  "no_outstanding_requests_or_reservations": true,
+  "frozen_hashes_unchanged": true,
+  "no_later_batches": true,
+  "new_invalid_checkpoint_not_reclassified": true,
+  "api_requests": 0
+}

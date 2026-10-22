@@ -1,0 +1,29 @@
+{
+  "adaptive_resume_canary_requests_verified_against_frozen_rule": 6,
+  "all_required_token_logs_available": true,
+  "all_required_tokens_have_literal_ASCII_bytes": true,
+  "batch1_and_batch2_unchanged": true,
+  "batch4_and_batch5_not_dispatched": true,
+  "canary_max_log_odds_difference": 0.0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "later_stages_dispatched": false,
+  "maximum_independent_A_B_C_error": 4.440892098500626e-16,
+  "maximum_independent_probability_transformation_error": 2.220446049250313e-16,
+  "no_inflight_reservations": true,
+  "original_failed_attempt_preserved_byte_for_byte_as_record": true,
+  "original_global_cap_usd": 10,
+  "pre_interrupt_valid_attempts_preserved_unchanged": 1517,
+  "prior_batch3_valid_evaluations_preserved": 1517,
+  "registered_stages": [
+    "batch-0001",
+    "batch-0002",
+    "batch-0003"
+  ],
+  "scenario_count": 20,
+  "scheduled_request_hash_matches": 2030,
+  "scope": "BATCH_3_ONLY",
+  "stage_cap_usd": 1,
+  "status": "PASS",
+  "target_lifetime_attempt_count": 2,
+  "valid_records": 2036
+}

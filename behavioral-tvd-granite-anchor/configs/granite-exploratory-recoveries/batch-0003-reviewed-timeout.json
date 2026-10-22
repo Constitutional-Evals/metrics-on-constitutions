@@ -1,0 +1,20 @@
+{
+  "all_later_batches_blocked": true,
+  "approved_base_commit": "ca04358",
+  "approved_execution_batches": [
+    3
+  ],
+  "do_not_execute_batches": [
+    4,
+    5
+  ],
+  "experiment_cap_usd": 10,
+  "frozen_scientific_protocol_changed": false,
+  "maximum_concurrency": 3,
+  "maximum_primary_physical_attempts": 2000,
+  "original_attempt_id": "8be8073b7d154c2b9d33af2403aaf96e",
+  "persistent_batch3_cap_usd": 1,
+  "recovery_transaction_id": "53955d739337409a800e3c88432e39a5",
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "scope": "Exactly one reviewed invalid-to-retry transition for Utilitarianism x2599 labels_swapped; resume Batch3ONLY under existing authorization, caps and immutable runner. Original failed attempt and all prior valid evaluations retained."
+}

@@ -1,0 +1,10 @@
+{
+  "api_requests": 0,
+  "batch": 6,
+  "global_budget_preserved_usd": 10,
+  "preexisting_tracked_files_unchanged": 775,
+  "prior_attempts_preserved": 10168,
+  "prior_stage_records_unchanged": true,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "status": "PASS"
+}

@@ -1,0 +1,3 @@
+sample_size,draws,mean_spearman,spearman_p05,spearman_p95,mean_absolute_distance_error,warning
+5,100,0.65301216592229,0.5087732480986288,0.7903925743068735,0.0170872192538795,"Within analyzed scenario set only; descriptive, not population assurance."
+10,100,0.8311915183858679,0.7361114995505202,0.907951570325766,0.010434219704036043,"Within analyzed scenario set only; descriptive, not population assurance."

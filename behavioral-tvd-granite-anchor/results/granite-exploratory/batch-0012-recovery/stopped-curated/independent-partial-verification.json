@@ -1,0 +1,20 @@
+{
+  "all_attempt_archives_match_authoritative_SQLite": true,
+  "all_observed_probabilities_in_range": true,
+  "all_valid_requests_match_frozen_plan": true,
+  "all_valid_responses_have_genuine_ASCII_logs": true,
+  "baseline_condition_cells_missing": 6,
+  "complete_export_correctly_refused": "Canary schedule incomplete or failed; complete-matrix export refused",
+  "counterbalanced_cells_missing": 107,
+  "fraction_valid_log_odds_on_0_125_grid_tolerance_1e_5": 1.0,
+  "maximum_canary_probability_difference": 1.1102230246251565e-16,
+  "maximum_canary_raw_logprob_difference": 0.0,
+  "maximum_independent_probability_error": 2.220446049250313e-16,
+  "minimum_binary_mass": 0.9980626285024369,
+  "no_full_batch_or_280_scenario_distances_exported": true,
+  "no_imputation": true,
+  "prior_completed_batch_records_and_attempts_unchanged": true,
+  "science_condition_cells_missing": 186,
+  "scope": "STOPPED_BATCH_12_INCOMPLETE_20_SCENARIO_GRID",
+  "valid_records": 1832
+}

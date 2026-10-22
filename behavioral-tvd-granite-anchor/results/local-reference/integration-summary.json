@@ -1,0 +1,392 @@
+{
+  "conditions": [
+    {
+      "analysis": {
+        "block_gate_passes": false,
+        "block_matrices": [],
+        "cross_process_evidence": true,
+        "maximum_normalized_distance_change": null,
+        "missing_observed_sessions": [],
+        "observed_sessions": [
+          "restart-1",
+          "restart-2"
+        ],
+        "pair_checks": [
+          {
+            "id": "aboriginal-australian--5070",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "care-ethics--16264",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "short-control",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          }
+        ],
+        "pair_gate_passes": true,
+        "provisional_thresholds": {
+          "log_odds_range": 0.01,
+          "normalized_distance_change": 0.005,
+          "probability_range": 0.001
+        },
+        "run_id": "37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "warning": "Software thresholds only; no automatic scientific approval. No evidence about sessions not yet launched."
+      },
+      "first": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.6374582780008495,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "run_id": "37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "total_seconds": 3.8089287050006533
+      },
+      "options": [],
+      "restart": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5499374709997937,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 12,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "run_id": "37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "total_seconds": 3.1592481219995534
+      },
+      "resume": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5898423159997037,
+        "missing_this_session": 0,
+        "performed": 0,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "run_id": "37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+        "total_seconds": 1.6771565929993812
+      }
+    },
+    {
+      "analysis": {
+        "block_gate_passes": false,
+        "block_matrices": [],
+        "cross_process_evidence": true,
+        "maximum_normalized_distance_change": null,
+        "missing_observed_sessions": [],
+        "observed_sessions": [
+          "restart-1",
+          "restart-2"
+        ],
+        "pair_checks": [
+          {
+            "id": "aboriginal-australian--5070",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "care-ethics--16264",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "short-control",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          }
+        ],
+        "pair_gate_passes": true,
+        "provisional_thresholds": {
+          "log_odds_range": 0.01,
+          "normalized_distance_change": 0.005,
+          "probability_range": 0.001
+        },
+        "run_id": "20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "warning": "Software thresholds only; no automatic scientific approval. No evidence about sessions not yet launched."
+      },
+      "first": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5675830109994422,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "run_id": "20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "total_seconds": 3.5650797550006246
+      },
+      "options": [
+        "--batch-size",
+        "2"
+      ],
+      "restart": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5519012820004718,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 12,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "run_id": "20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "total_seconds": 3.51263345299958
+      },
+      "resume": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5605078170010529,
+        "missing_this_session": 0,
+        "performed": 0,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "run_id": "20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+        "total_seconds": 1.6270285770006012
+      }
+    },
+    {
+      "analysis": {
+        "block_gate_passes": false,
+        "block_matrices": [],
+        "cross_process_evidence": true,
+        "maximum_normalized_distance_change": null,
+        "missing_observed_sessions": [],
+        "observed_sessions": [
+          "restart-1",
+          "restart-2"
+        ],
+        "pair_checks": [
+          {
+            "id": "aboriginal-australian--5070",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "care-ethics--16264",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "short-control",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          }
+        ],
+        "pair_gate_passes": true,
+        "provisional_thresholds": {
+          "log_odds_range": 0.01,
+          "normalized_distance_change": 0.005,
+          "probability_range": 0.001
+        },
+        "run_id": "f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "warning": "Software thresholds only; no automatic scientific approval. No evidence about sessions not yet launched."
+      },
+      "first": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.547124292999797,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "run_id": "f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "total_seconds": 2.1713458440008253
+      },
+      "options": [
+        "--attention",
+        "sdpa"
+      ],
+      "restart": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.553430470999956,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 12,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "run_id": "f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "total_seconds": 2.233547627000007
+      },
+      "resume": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5336038259993074,
+        "missing_this_session": 0,
+        "performed": 0,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "run_id": "f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+        "total_seconds": 1.5930152829987492
+      }
+    },
+    {
+      "analysis": {
+        "block_gate_passes": false,
+        "block_matrices": [],
+        "cross_process_evidence": true,
+        "maximum_normalized_distance_change": null,
+        "missing_observed_sessions": [],
+        "observed_sessions": [
+          "restart-1",
+          "restart-2"
+        ],
+        "pair_checks": [
+          {
+            "id": "aboriginal-australian--5070",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "care-ethics--16264",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "short-control",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          }
+        ],
+        "pair_gate_passes": true,
+        "provisional_thresholds": {
+          "log_odds_range": 0.01,
+          "normalized_distance_change": 0.005,
+          "probability_range": 0.001
+        },
+        "run_id": "e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "warning": "Software thresholds only; no automatic scientific approval. No evidence about sessions not yet launched."
+      },
+      "first": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5616465120001521,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "run_id": "e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "total_seconds": 3.2748862139997073
+      },
+      "options": [
+        "--cache",
+        "prefill"
+      ],
+      "restart": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5616088970000419,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 12,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "run_id": "e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "total_seconds": 3.2111327799993887
+      },
+      "resume": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.553928414999973,
+        "missing_this_session": 0,
+        "performed": 0,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "run_id": "e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+        "total_seconds": 1.6301128020004398
+      }
+    },
+    {
+      "analysis": {
+        "block_gate_passes": false,
+        "block_matrices": [],
+        "cross_process_evidence": true,
+        "maximum_normalized_distance_change": null,
+        "missing_observed_sessions": [],
+        "observed_sessions": [
+          "restart-1",
+          "restart-2"
+        ],
+        "pair_checks": [
+          {
+            "id": "aboriginal-australian--5070",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "care-ethics--16264",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          },
+          {
+            "id": "short-control",
+            "log_odds_range": 0.0,
+            "n": 4,
+            "passes": true,
+            "probability_range": 0.0
+          }
+        ],
+        "pair_gate_passes": true,
+        "provisional_thresholds": {
+          "log_odds_range": 0.01,
+          "normalized_distance_change": 0.005,
+          "probability_range": 0.001
+        },
+        "run_id": "f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "warning": "Software thresholds only; no automatic scientific approval. No evidence about sessions not yet launched."
+      },
+      "first": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5643116020000889,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "run_id": "f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "total_seconds": 3.2366005259991653
+      },
+      "options": [
+        "--cache",
+        "split"
+      ],
+      "restart": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5439202029992884,
+        "missing_this_session": 0,
+        "performed": 6,
+        "records_total": 12,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "run_id": "f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "total_seconds": 3.222507245000088
+      },
+      "resume": {
+        "expected_per_session": 6,
+        "loading_seconds": 0.5389125809997495,
+        "missing_this_session": 0,
+        "performed": 0,
+        "records_total": 6,
+        "run_directory": "/workspace/work/local-reference-integration-final/runs/f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "run_id": "f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+        "total_seconds": 1.6035459200011246
+      }
+    }
+  ],
+  "model": "tiny random Llama, BF16; SmolLM2 official tokenizer; not pretrained or 70B reproducibility evidence"
+}

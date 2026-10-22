@@ -1,0 +1,274 @@
+[
+  {
+    "reference": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+    "candidate": "/workspace/work/local-reference-integration-final/runs/20e5dd68e0e5dd3e2d6c976c518489ebff8fb9033e2bcda2f5bd3b45bb22fd9d",
+    "reference_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "candidate_config": {
+      "attention": "eager",
+      "batch_size": 2,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "pairs": [
+      {
+        "id": "aboriginal-australian--5070",
+        "reference_mean_p": 0.5058591067938315,
+        "candidate_mean_p": 0.5058591067938315,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "care-ethics--16264",
+        "reference_mean_p": 0.5024413868476314,
+        "candidate_mean_p": 0.5024413868476314,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "short-control",
+        "reference_mean_p": 0.5185461749336651,
+        "candidate_mean_p": 0.5185461749336651,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      }
+    ],
+    "maximum_mean_probability_difference": 0.0,
+    "maximum_mean_log_odds_difference": 0.0,
+    "warning": "Between-configuration comparison, not within-configuration reproducibility. Reference and candidate remain separate runs."
+  },
+  {
+    "reference": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+    "candidate": "/workspace/work/local-reference-integration-final/runs/f635daca8fe404cfb08cdea1f80f2f93aea072697a66335c965fa38a9356bf43",
+    "reference_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "candidate_config": {
+      "attention": "sdpa",
+      "batch_size": 1,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "pairs": [
+      {
+        "id": "aboriginal-australian--5070",
+        "reference_mean_p": 0.5058591067938315,
+        "candidate_mean_p": 0.5058591067938315,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "care-ethics--16264",
+        "reference_mean_p": 0.5024413868476314,
+        "candidate_mean_p": 0.5026855210504991,
+        "mean_probability_difference": 0.00024413420286772958,
+        "mean_log_odds_difference": 0.0009765625,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "short-control",
+        "reference_mean_p": 0.5185461749336651,
+        "candidate_mean_p": 0.5185461749336651,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      }
+    ],
+    "maximum_mean_probability_difference": 0.00024413420286772958,
+    "maximum_mean_log_odds_difference": 0.0009765625,
+    "warning": "Between-configuration comparison, not within-configuration reproducibility. Reference and candidate remain separate runs."
+  },
+  {
+    "reference": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+    "candidate": "/workspace/work/local-reference-integration-final/runs/e47955db1f870f84686087461163fd2fcf7bec435528c4315bf3569d0fb592e9",
+    "reference_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "candidate_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "prefill",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "pairs": [
+      {
+        "id": "aboriginal-australian--5070",
+        "reference_mean_p": 0.5058591067938315,
+        "candidate_mean_p": 0.5058591067938315,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "care-ethics--16264",
+        "reference_mean_p": 0.5024413868476314,
+        "candidate_mean_p": 0.5024413868476314,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "short-control",
+        "reference_mean_p": 0.5185461749336651,
+        "candidate_mean_p": 0.5185461749336651,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      }
+    ],
+    "maximum_mean_probability_difference": 0.0,
+    "maximum_mean_log_odds_difference": 0.0,
+    "warning": "Between-configuration comparison, not within-configuration reproducibility. Reference and candidate remain separate runs."
+  },
+  {
+    "reference": "/workspace/work/local-reference-integration-final/runs/37cd6e5a03f612d191883f93996ea50be96d1cd73073c01834a8c1b87e1e8d0f",
+    "candidate": "/workspace/work/local-reference-integration-final/runs/f7ed409a48879129a0d52ccc496eb7604db72b325cd981b5784a838493d07f02",
+    "reference_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "off",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "candidate_config": {
+      "attention": "eager",
+      "batch_size": 1,
+      "cache": "split",
+      "cpu_threads": 1,
+      "device": "cpu",
+      "dtype": "bfloat16",
+      "gpu_headroom_gib": 8,
+      "planned_sessions": [
+        "restart-1",
+        "restart-2"
+      ],
+      "repeats": 2,
+      "seed": 20261020,
+      "software_test": true
+    },
+    "pairs": [
+      {
+        "id": "aboriginal-australian--5070",
+        "reference_mean_p": 0.5058591067938315,
+        "candidate_mean_p": 0.5058591067938315,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "care-ethics--16264",
+        "reference_mean_p": 0.5024413868476314,
+        "candidate_mean_p": 0.5024413868476314,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      },
+      {
+        "id": "short-control",
+        "reference_mean_p": 0.5185461749336651,
+        "candidate_mean_p": 0.5185461749336651,
+        "mean_probability_difference": 0.0,
+        "mean_log_odds_difference": 0.0,
+        "reference_probability_range": 0.0,
+        "candidate_probability_range": 0.0
+      }
+    ],
+    "maximum_mean_probability_difference": 0.0,
+    "maximum_mean_log_odds_difference": 0.0,
+    "warning": "Between-configuration comparison, not within-configuration reproducibility. Reference and candidate remain separate runs."
+  }
+]

@@ -1,0 +1,10 @@
+.............Valid 2 / 2 budget {'actual_spending_usd': 6e-05, 'conservative_spending_usd': 6e-05, 'outstanding_reservations_usd': 0.0, 'budget_usd': 0.75, 'invocation_budget_usd': 0.75}
+.Valid 2 / 2 budget {'actual_spending_usd': 6e-05, 'conservative_spending_usd': 6e-05, 'outstanding_reservations_usd': 0.0, 'budget_usd': 0.75, 'invocation_budget_usd': 0.75}
+....Valid 1 / 2 budget {'actual_spending_usd': 6e-05, 'conservative_spending_usd': 6e-05, 'outstanding_reservations_usd': 0.0, 'budget_usd': 0.75, 'invocation_budget_usd': 0.75}
+.Valid 2 / 2 budget {'actual_spending_usd': 6e-05, 'conservative_spending_usd': 0.002509824, 'outstanding_reservations_usd': 0.0, 'budget_usd': 0.75, 'invocation_budget_usd': 0.75}
+.Valid 2 / 2 budget {'actual_spending_usd': 6e-05, 'conservative_spending_usd': 6e-05, 'outstanding_reservations_usd': 0.0, 'budget_usd': 0.75, 'invocation_budget_usd': 0.75}
+...........................................
+----------------------------------------------------------------------
+Ran 63 tests in 0.838s
+
+OK

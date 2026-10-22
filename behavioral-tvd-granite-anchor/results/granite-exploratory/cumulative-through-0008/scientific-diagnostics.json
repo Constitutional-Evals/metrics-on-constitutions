@@ -1,0 +1,105 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "scope": "PRELIMINARY_FIRST_160_SCENARIOS",
+  "full_experiment_complete": false,
+  "api_requests": 0,
+  "mean_absolute_label_mapping_effect": 0.2928176278228399,
+  "mean_absolute_action_order_effect": 0.175523131347442,
+  "mean_four_condition_range": 0.48810327168318446,
+  "mean_absolute_constitution_to_baseline_shift": 0.10585057420167905,
+  "mean_signed_constitution_to_baseline_shift": 0.032315599548982166,
+  "constitution_mean_absolute_baseline_shift_min": 0.09197823275985625,
+  "constitution_mean_absolute_baseline_shift_max": 0.13396029544392848,
+  "primary_geometry_changes": [
+    {
+      "from_scenarios": 20,
+      "to_scenarios": 40,
+      "mean_absolute_pairwise_A_distance_change": 0.00938251981341086,
+      "maximum_absolute_pairwise_A_distance_change": 0.0313870577520271,
+      "mean_signed_pairwise_A_distance_change": 0.00635398910722571,
+      "spearman_pair_distance_rank": 0.8505483654628216,
+      "pearson_pair_distances": 0.8899018306543055,
+      "nearest_neighbors_unchanged": 6
+    },
+    {
+      "from_scenarios": 40,
+      "to_scenarios": 60,
+      "mean_absolute_pairwise_A_distance_change": 0.006853262501297597,
+      "maximum_absolute_pairwise_A_distance_change": 0.021012962660307152,
+      "mean_signed_pairwise_A_distance_change": -0.006349156867722097,
+      "spearman_pair_distance_rank": 0.9573328006164297,
+      "pearson_pair_distances": 0.9711423229255728,
+      "nearest_neighbors_unchanged": 19
+    },
+    {
+      "from_scenarios": 60,
+      "to_scenarios": 80,
+      "mean_absolute_pairwise_A_distance_change": 0.0031497571364406335,
+      "maximum_absolute_pairwise_A_distance_change": 0.018555003746163076,
+      "mean_signed_pairwise_A_distance_change": 0.0011755288044323936,
+      "spearman_pair_distance_rank": 0.9665895178436382,
+      "pearson_pair_distances": 0.9740084622549322,
+      "nearest_neighbors_unchanged": 17
+    },
+    {
+      "from_scenarios": 80,
+      "to_scenarios": 100,
+      "mean_absolute_pairwise_A_distance_change": 0.00185947418233348,
+      "maximum_absolute_pairwise_A_distance_change": 0.007147501877964632,
+      "mean_signed_pairwise_A_distance_change": -0.0008862514176971698,
+      "spearman_pair_distance_rank": 0.9872421911787789,
+      "pearson_pair_distances": 0.9927664718786949,
+      "nearest_neighbors_unchanged": 21
+    },
+    {
+      "from_scenarios": 100,
+      "to_scenarios": 120,
+      "mean_absolute_pairwise_A_distance_change": 0.001805404891266157,
+      "maximum_absolute_pairwise_A_distance_change": 0.0061743655318432095,
+      "mean_signed_pairwise_A_distance_change": -0.0003989981111987136,
+      "spearman_pair_distance_rank": 0.9886126054137356,
+      "pearson_pair_distances": 0.9931497354218628,
+      "nearest_neighbors_unchanged": 22
+    },
+    {
+      "from_scenarios": 120,
+      "to_scenarios": 140,
+      "mean_absolute_pairwise_A_distance_change": 0.001683950668441889,
+      "maximum_absolute_pairwise_A_distance_change": 0.005429996205167986,
+      "mean_signed_pairwise_A_distance_change": -0.00018733353527360542,
+      "spearman_pair_distance_rank": 0.9879105606369772,
+      "pearson_pair_distances": 0.9932904201042879,
+      "nearest_neighbors_unchanged": 24
+    },
+    {
+      "from_scenarios": 140,
+      "to_scenarios": 160,
+      "mean_absolute_pairwise_A_distance_change": 0.0015060868670818393,
+      "maximum_absolute_pairwise_A_distance_change": 0.005963919650840602,
+      "mean_signed_pairwise_A_distance_change": 0.0004908619973427742,
+      "spearman_pair_distance_rank": 0.9903106405445128,
+      "pearson_pair_distances": 0.9932488051205933,
+      "nearest_neighbors_unchanged": 22
+    }
+  ],
+  "scenario_subsampling": [
+    {
+      "sample_size": 40,
+      "draws": 100,
+      "mean_spearman": 0.8626095403889786,
+      "spearman_p05": 0.8019995148471055,
+      "spearman_p95": 0.9058836774589404,
+      "mean_absolute_distance_error": 0.007175995259664857
+    },
+    {
+      "sample_size": 80,
+      "draws": 100,
+      "mean_spearman": 0.9471989155405889,
+      "spearman_p05": 0.9288263580713747,
+      "spearman_p95": 0.9620662947161143,
+      "mean_absolute_distance_error": 0.00392493380111908
+    }
+  ],
+  "interpretation": "Preliminary Granite-conditioned behavior over this completed scenario prefix. Counterbalancing does not remove all prompt sensitivity or establish philosophical fidelity.",
+  "numerical_limitation": "Observed 0.125 log-odds quantization retained; no frozen inference/scientific code changed."
+}

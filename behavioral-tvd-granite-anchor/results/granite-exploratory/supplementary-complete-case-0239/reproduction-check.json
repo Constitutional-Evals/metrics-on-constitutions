@@ -1,0 +1,202 @@
+{
+  "status": "PASS",
+  "inference_API_calls": 0,
+  "batch_12_remains_stopped": true,
+  "independent_offline_rerun_directory": "/tmp/granite-research-reproduction",
+  "identical_artifact_count": 47,
+  "CSV_count": 33,
+  "all_numeric_and_figure_artifacts_byte_identical": true,
+  "comparisons": {
+    "README.md": {
+      "sha256": "f1ae9d55fd1e8ba6b21b31fc1091d9d474ab373216ea165a7f20676f9fb4e2e9",
+      "identical": true
+    },
+    "analysis-manifest.json": {
+      "sha256": "6aa05fe3ecc13920525960e2536a6e6e9a30e84e88e0d613bacf1e4098049434",
+      "identical": true
+    },
+    "baseline.csv": {
+      "sha256": "53173a18239fafeb238e014d002adbb9ce1231aa1a1797e6b8cc102ecabe933e",
+      "identical": true
+    },
+    "constitutions.csv": {
+      "sha256": "b4540d72cab486ee04a8587d5c873edbd51ff15d10d3beb36106c931fb013499",
+      "identical": true
+    },
+    "distances-A_primary-normalized-l1.csv": {
+      "sha256": "a67dd7ffae3f81c0e787528200d49c111a5b9e8e5b89a683ff3472e8c7997a6d",
+      "identical": true
+    },
+    "distances-A_primary-summed-l1.csv": {
+      "sha256": "c4f0c5168bd9022a84e67078e1e4bb0eff64f3ee6e19293cb36d4042b433c5c2",
+      "identical": true
+    },
+    "distances-B_secondary-normalized-l1.csv": {
+      "sha256": "48f44432231c97c4fa924f605a03047de74dd6107fa6652e7e2d38f743621895",
+      "identical": true
+    },
+    "distances-B_secondary-summed-l1.csv": {
+      "sha256": "5c835ccda793102dcd3ebf98478186d5ea614447c6830e8cf6cf06f0090b82b7",
+      "identical": true
+    },
+    "distances-C_canonical-normalized-l1.csv": {
+      "sha256": "c0fa0443fb6f041dca48db83381ae4f4ccb5edd153039b34c53f8f25a1c4fdba",
+      "identical": true
+    },
+    "distances-C_canonical-summed-l1.csv": {
+      "sha256": "85561c18406bc4847d57d88ea3e197213dbd1b828fffdded79415d84c7b686f7",
+      "identical": true
+    },
+    "official-220-reconstruction/baseline.csv": {
+      "sha256": "d9a56bd71adbed1abcc9530a8e8fcdce33cc05af3831f66122c1ea40dbbdbebd",
+      "identical": true
+    },
+    "official-220-reconstruction/constitutions.csv": {
+      "sha256": "b4540d72cab486ee04a8587d5c873edbd51ff15d10d3beb36106c931fb013499",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-A_primary-normalized-l1.csv": {
+      "sha256": "f6858e6fdc8b1c3e1d7d2a7719d3693382a04d7edc251cb7b8556a0b8df826db",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-A_primary-summed-l1.csv": {
+      "sha256": "299377c2056fd46c35318fc0316af5351535a3f3d0194426bcab0e7f31ba7f19",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-B_secondary-normalized-l1.csv": {
+      "sha256": "0207037560d139473c09a7ee70333eda1464536f3dd9b3f135aa893ce554ffbc",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-B_secondary-summed-l1.csv": {
+      "sha256": "3a83c78bcb11c47c1ae51809c0c64a4b8001fc3cee2e1860c18b7737681bc4ea",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-C_canonical-normalized-l1.csv": {
+      "sha256": "b9a8582ae1fb4c613dd8bea9586d7d801d64fb7685c091015efebcc5ba641385",
+      "identical": true
+    },
+    "official-220-reconstruction/distances-C_canonical-summed-l1.csv": {
+      "sha256": "44082d50c458ee25bcb9e818887b525d0e68db15bbe64c9b1bfbf513ff335878",
+      "identical": true
+    },
+    "official-220-reconstruction/pairs-A_primary-ranked.csv": {
+      "sha256": "3e6be008cc919aaeb48d2717b46f2cd8c37ef445f63f1a5d7c232f21a803dd53",
+      "identical": true
+    },
+    "official-220-reconstruction/pairs-B_secondary-ranked.csv": {
+      "sha256": "5e04ecc9a0279bbd8554be49f6035e9ef39ec1b6f762ae5ef7817cf8fa194ecc",
+      "identical": true
+    },
+    "official-220-reconstruction/pairs-C_canonical-ranked.csv": {
+      "sha256": "38b015a39f1b803d55ef083a14815be981a76eeb6fc925e175c0a5c738b83b65",
+      "identical": true
+    },
+    "official-220-reconstruction/primary-distance-heatmap.pdf": {
+      "sha256": "b592c7e123b9611282c5383e3255c4d613886247cc51188b4105b346e21efd75",
+      "identical": true
+    },
+    "official-220-reconstruction/primary-distance-heatmap.png": {
+      "sha256": "c95df2d36af9f2dd44ea691cc11a2a5a43857b5df412dca1b53187982108f2c7",
+      "identical": true
+    },
+    "official-220-reconstruction/primary-distance-heatmap.svg": {
+      "sha256": "8f24f614db0e0c62c55c13c14f978911280f458f82b9c988997d25718f3697a9",
+      "identical": true
+    },
+    "official-220-reconstruction/primary-distance-table.html": {
+      "sha256": "9f8bc9294b7a620b58aaad1bfb58e2343f7182dc196d41eceb6d750d5315088f",
+      "identical": true
+    },
+    "official-220-reconstruction/primary-distance-table.md": {
+      "sha256": "c3fcbf90775f25a559270bbd46c1555d6ac8f36d6844b1bdff67e5479d849bd6",
+      "identical": true
+    },
+    "official-220-reconstruction/probabilities-both_reversed.csv": {
+      "sha256": "77e68bfdeafac1f2a5dd4e1d4a53926f20953d6faa145b894b8d6acc1872a6ba",
+      "identical": true
+    },
+    "official-220-reconstruction/probabilities-canonical.csv": {
+      "sha256": "5bf7d6adbb2391a94f23a41433353b331dc5c5fe4871378f9b72f2f802056275",
+      "identical": true
+    },
+    "official-220-reconstruction/probabilities-counterbalanced.csv": {
+      "sha256": "50d64a1a53adc21f9360cd16fdfeb9bc538e5edce8d5ea28610742ae4da608eb",
+      "identical": true
+    },
+    "official-220-reconstruction/probabilities-labels_swapped.csv": {
+      "sha256": "6ba25af97826f198c59563ab39d03a1accd9ce98e70eb6d32701273c8f8995ad",
+      "identical": true
+    },
+    "official-220-reconstruction/probabilities-order_reversed.csv": {
+      "sha256": "49157e9397b041e2e3d6f7c1587c5263c05356e14a90a89a7956c499eff89c16",
+      "identical": true
+    },
+    "pairs-A_primary-ranked.csv": {
+      "sha256": "cc7c2e65c73b0bb3a85af77b1c786f8fab766c333d8dba93e149472ab285e3d6",
+      "identical": true
+    },
+    "pairs-B_secondary-ranked.csv": {
+      "sha256": "8bda045e38625f0ec755669a83b69eb5c65c68a8f28950316f165ff1cef519b1",
+      "identical": true
+    },
+    "pairs-C_canonical-ranked.csv": {
+      "sha256": "fda4c86790187c70fe143f2a2dce2a4aec230ad25293ccd01ba5d2c7b66c8621",
+      "identical": true
+    },
+    "primary-distance-heatmap.pdf": {
+      "sha256": "07652f2578eb4dfb5194877fce6ce738e5da2217a74dfd0c819719ca47fa6479",
+      "identical": true
+    },
+    "primary-distance-heatmap.png": {
+      "sha256": "986c70835ab8c9f861cf68e3d9a4a2a9fa69443c5b99481eafc0bb20e51071b5",
+      "identical": true
+    },
+    "primary-distance-heatmap.svg": {
+      "sha256": "c936838aee41658d5ff6c5370c514d1910421caf49bdfcd0c594da1f22816362",
+      "identical": true
+    },
+    "primary-distance-table.html": {
+      "sha256": "18102999199ea520a83c6549639ce2a96bbfb5e127b709f31fcb95c506528d80",
+      "identical": true
+    },
+    "primary-distance-table.md": {
+      "sha256": "ba4c3f60b27f0b2cc92ca560cb2069d48302fd1fb8cc2c58c61019133fe6ec4f",
+      "identical": true
+    },
+    "probabilities-both_reversed.csv": {
+      "sha256": "3e262e1cd00e60e9193a608219ebd5980bd5baf77a0b5fed8b30a27be27e4b56",
+      "identical": true
+    },
+    "probabilities-canonical.csv": {
+      "sha256": "9f6ef55a30e9c25aac0355382ab37443e32097526cc8a2c3cbc0d307407ee6a3",
+      "identical": true
+    },
+    "probabilities-counterbalanced.csv": {
+      "sha256": "5ddf6bd3eef5e10dcc48401623fd36c043cbae400826cee4b7fba25fd6d92acf",
+      "identical": true
+    },
+    "probabilities-labels_swapped.csv": {
+      "sha256": "a1586f774bbd3370b987ab95b52eeeaee53771fb682710200480e17891af3ef3",
+      "identical": true
+    },
+    "probabilities-order_reversed.csv": {
+      "sha256": "24cf4460447066766ce0cd4257cde489931a5c9b92fa5b01b7818b58f2ee3506",
+      "identical": true
+    },
+    "qualitative-expectations.csv": {
+      "sha256": "e14a6a586c6fb344cbb1b0268c3dcda89936d0d9445e0dab39ef1c67c5363293",
+      "identical": true
+    },
+    "qualitative-expectations.md": {
+      "sha256": "f4fb0bf72ea507367dc5834ac6ded249967b2450b69894f4ce87b99c793c0549",
+      "identical": true
+    },
+    "verification-report.json": {
+      "sha256": "a1eb0dc703ba1a98ee3ba5093fb8f4c02b6ee27e92ff3db17395d799bce9d3e1",
+      "identical": true
+    }
+  },
+  "frozen_input_and_scientific_source_hashes_verified": 41,
+  "only_changed_preexisting_tracked_file": "README.md",
+  "test_suite": "86 tests passed; see tests.txt"
+}

@@ -1,0 +1,109 @@
+{
+  "aggregate_active_seconds": 6673.224617508,
+  "aggregate_valid_per_second": 3.6225365375199017,
+  "all_later_dispatch_blocked": true,
+  "authorized_but_not_started_batches": [
+    13,
+    14
+  ],
+  "authorized_group": [
+    12,
+    13,
+    14
+  ],
+  "automatic_retry_or_checkpoint_reclassification_performed": false,
+  "backup_exact_restore_and_all_table_comparison_passed": true,
+  "complete_scenarios": 235,
+  "completed_batches": 11,
+  "completed_ledger_backup": {
+    "archive_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/objects/6cfe5113113d995332011fb4ac85b1212110d20e280f9105b5e00a6b820edf1e.delta.gz",
+    "archive_sha256": "9f688f998672f280b571754f2d1679870e8010742faf52500313a2faf3ba0a75",
+    "original_path": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0012-ledger.sqlite",
+    "recovery_metadata": "/workspace/backups/granite-exploratory/03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e/batch-0012-ledger.sqlite.recovery.json",
+    "source_sha256": "6cfe5113113d995332011fb4ac85b1212110d20e280f9105b5e00a6b820edf1e"
+  },
+  "completed_new_batches": [],
+  "confirmed_spending_usd": 1.184580525,
+  "conservative_spending_usd": 1.196829645,
+  "disk_after_preservation": {
+    "free": 23154475008,
+    "total": 33770192896,
+    "used": 8880955392
+  },
+  "estimated_final_cost_usd": 6.7149595835956815,
+  "estimated_remaining_active_seconds": 30765.18313775261,
+  "estimated_remaining_cost_usd": 5.518129938595681,
+  "failed_attempts": 9,
+  "failure": {
+    "actual_billing_unknown": true,
+    "attempt_id": "9b4128fc0dcb469e817b209db3489378",
+    "attempt_sha256": "a13e3481a060d4385bb41f5d60302af89884cf696bb8868faf6b2e938b385527",
+    "charged_reservation_usd": 0.002449824,
+    "condition": "canonical",
+    "constitution": "neo-aristotelian-virtue-ethics",
+    "frozen_validator_error": "Model/provider mismatch",
+    "http_status": 200,
+    "interpretation": "Error-only timeout envelope omitted identity and token logs; this does not demonstrate that a different model was actually served.",
+    "response_error": {
+      "code": 504,
+      "message": "Upstream idle timeout exceeded",
+      "metadata": {
+        "error_type": "timeout"
+      }
+    },
+    "scenario": "29912"
+  },
+  "global_cap_usd": 10,
+  "interpretation": "Granite-conditioned exploratory behavioral distances; incomplete batch not represented as a complete result.",
+  "last_complete_batch_cumulative_matrix_scenarios": 220,
+  "last_complete_cumulative_analysis": "results/granite-exploratory/cumulative-through-0011/",
+  "logical_states": {
+    "invalid": 1,
+    "pending": 111447,
+    "valid": 24174
+  },
+  "missing_batch_evaluations": 198,
+  "model_counts_all_valid": {
+    "ibm-granite/granite-4.0-h-micro": 24174
+  },
+  "new_failed_attempts": 1,
+  "new_physical_attempts": 1833,
+  "new_retries": 0,
+  "new_unknown_billing_attempts": 1,
+  "new_valid": {
+    "baseline": 74,
+    "canary": 24,
+    "primary": 1734
+  },
+  "not_started_batches": 55,
+  "outstanding_reservations_usd": 0,
+  "physical_attempts": 24183,
+  "projections_are_not_resume_authorization": true,
+  "provider_counts_all_valid": {
+    "Cloudflare": 24174
+  },
+  "remaining": {
+    "baseline": 4390,
+    "canary": 1656,
+    "primary": 105402
+  },
+  "remaining_scheduled_evaluations": 111448,
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "same_volume_backup_not_independent_disaster_recovery": true,
+  "stage_active_seconds": 563.0695097129937,
+  "stage_confirmed_spending_usd": 0.089612009,
+  "stage_conservative_spending_usd": 0.092061833,
+  "stage_valid_per_second": 3.2535947487794217,
+  "status": "GROUP_STOPPED_MANUAL_REVIEW_REQUIRED",
+  "stopped_batch": 12,
+  "total_valid": 24174,
+  "unfinished_batches_including_stopped": 56,
+  "unknown_billing_attempts": 5,
+  "valid": {
+    "baseline": 954,
+    "canary": 366,
+    "primary": 22854
+  },
+  "valid_resume_canaries": 12,
+  "valid_scheduled_canaries": 354
+}

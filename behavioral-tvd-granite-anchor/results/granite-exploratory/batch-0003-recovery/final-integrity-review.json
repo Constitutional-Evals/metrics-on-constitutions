@@ -1,0 +1,18 @@
+{
+  "all_attempts_settled": true,
+  "all_initial_stopped_exports_preserved_byte_for_byte": true,
+  "api_requests": 0,
+  "automated_tests": {
+    "failed": 0,
+    "passed": 63
+  },
+  "completed_backup_sha256": "20945355e48a45b79c768c09f77b703e2c7ad4e9026fef7d5590841ba69b5c82",
+  "conservative_charged_nanos": 308846228,
+  "experiment_cap_and_all_stage_authorizations_unchanged": true,
+  "frozen_manifest_and_input_hashes_unchanged": true,
+  "no_invalid_retry_or_inflight_logical_rows": true,
+  "original_run_spec_and_metadata_unchanged": true,
+  "reviewed_pre_recovery_backup_sha256": "d98156b7b47b05624268c098e424e606f8c9491adb6bec75f94301a4f59030c1",
+  "sqlite_integrity_check": "ok",
+  "status": "PASS"
+}

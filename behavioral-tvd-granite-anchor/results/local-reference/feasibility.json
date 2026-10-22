@@ -1,0 +1,15 @@
+{
+  "gpu_available": false,
+  "nvidia_smi_available": false,
+  "memory_total_bytes": 10452471808,
+  "disk_free_bytes": 30599450624,
+  "cpu_count": 3,
+  "official_model": "meta-llama/Llama-3.3-70B-Instruct",
+  "observed_immutable_revision": "6f6073b423013f6a7d4d9f39144961bfbfbc386b",
+  "weights_downloaded": false,
+  "official_config_http_status": 401,
+  "hf_token_configured": false,
+  "small_model_weights_download": "blocked by network policy at us.aws.cdn.hf.co; tokenizer available",
+  "external_compute_spend_usd": 0,
+  "api_inference_spend_usd": 0
+}

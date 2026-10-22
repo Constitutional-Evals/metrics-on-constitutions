@@ -1,0 +1,72 @@
+{
+  "run_id": "03473f2875b447f77273de536b3b8af4c9d94293380a5cabe8b2cd0a1bf5fd9e",
+  "stage": "batch-0012",
+  "status": "STOPPED",
+  "valid": {
+    "primary": 1734,
+    "baseline": 74,
+    "canary": 24
+  },
+  "physical_attempts": 1833,
+  "failed_attempts": 1,
+  "unknown_billing_attempts": 1,
+  "http_status_counts": {
+    "200": 1833
+  },
+  "failure_reasons": {
+    "Model/provider mismatch": 1
+  },
+  "unresolved_evaluations": 198,
+  "primary_physical_attempts": 1735,
+  "stage_budget": {
+    "attempts": 1833,
+    "actual_spending_usd": 0.089612009,
+    "conservative_spending_usd": 0.092061833,
+    "outstanding_reservations_usd": 0.0
+  },
+  "experiment_budget": {
+    "actual_spending_usd": 1.184580525,
+    "conservative_spending_usd": 1.196829645,
+    "outstanding_reservations_usd": 0.0,
+    "budget_usd": 10.0,
+    "invocation_budget_usd": 10.0
+  },
+  "cost_of_valid_records_usd": 0.089612009,
+  "remaining": {
+    "baseline": 4390,
+    "canary": 1656,
+    "primary": 105402
+  },
+  "remaining_batches": 56,
+  "elapsed_seconds": 563.0695097129937,
+  "valid_evaluations_per_second": 3.2535947487794217,
+  "primary_evaluations_per_second": 3.079548741475719,
+  "mean_attempt_latency_seconds": 0.8157510758319694,
+  "estimated_remaining_inference_seconds_at_observed_rate": 30765.18313775261,
+  "estimated_remaining_cost_usd_at_observed_token_usage": 5.518129938595681,
+  "estimated_total_cost_usd": 6.7149595835956815,
+  "projection_limitations": "Approx\u00b120% token/throughput variation plus task startup overhead, throttling and price changes; not a guarantee or later-batch authorization.",
+  "canary_max_conditional_probability_difference": 0.0,
+  "canary_max_raw_logprob_difference": 0.0,
+  "canary_max_log_odds_difference": 0.0,
+  "model_counts": {
+    "ibm-granite/granite-4.0-h-micro": 1832
+  },
+  "provider_counts": {
+    "Cloudflare": 1832
+  },
+  "minimum_binary_mass": 0.9980626285024369,
+  "sampled_format_violations": 0,
+  "later_batch_authorized": false,
+  "checkpoint": "Authoritative SQLite transaction/WAL/FULL; stable experiment run+task keys; no valid evaluation recomputed.",
+  "cumulative_confirmed_spending_usd": 1.184580525,
+  "cumulative_conservative_spending_usd": 1.196829645,
+  "later_conditional_authorization_files_blocked": [
+    13,
+    14
+  ],
+  "all_attempt_billing_usage_known": false,
+  "accounting_note": "Reconciled stopped-group report supersedes provisional preservation projections. Scheduled-QC remainder excludes historical resume checks; unfinished batches include stopped Batch12. Original provisional report preserved separately. No ledger changes.",
+  "prompt_tokens_reported_by_responses": 5259225,
+  "completion_tokens_reported_by_responses": 1832
+}
